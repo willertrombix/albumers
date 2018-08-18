@@ -1,5 +1,14 @@
 baseURL = "http://example.org/"
-languageCode = "en-us"
+themesDir = "themes"
+languageCode = "es-es"
 title = "ALBUMERS - Gente que habla de los álbumes que les cambiaron la vida"
 theme = "after-dark"
+# Enter your tracking code to enable Google Analytics
+googleAnalytics = ""
+#Disable comments by leaving disqusShortname empty
+disqusShortname = ""
 
+[params]
+	name = "Willer"
+	description = "La comunidad de músicos habla de los discos que les cambiaron la vida"
+	enableRSS = true
