@@ -2,7 +2,7 @@
 title = "Intentando que se vea esto"
 date = 2018-08-18T08:25:33+02:00
 description = ""
-draft = true
+draft = false
 +++
 
 #Bienvenidos a ALBUMERS

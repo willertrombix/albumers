@@ -10,5 +10,7 @@ disqusShortname = ""
 
 [params]
 	name = "Willer"
+	author = "El Willer"
 	description = "La comunidad de músicos habla de los discos que les cambiaron la vida"
+	keywords = "discos, LP, música, entrevistas, disco que cambia la vida"
 	enableRSS = true
