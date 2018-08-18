@@ -2,7 +2,10 @@ baseURL = "http://example.org/"
 themesDir = "themes"
 languageCode = "es-es"
 title = "ALBUMERS - Gente que habla de los álbumes que les cambiaron la vida"
-theme = "after-dark"
+theme = [
+  "fractal-forest",
+  "after-dark"
+]
 # Enter your tracking code to enable Google Analytics
 googleAnalytics = ""
 #Disable comments by leaving disqusShortname empty
@@ -12,5 +15,12 @@ disqusShortname = ""
 	name = "Willer"
 	author = "El Willer"
 	description = "La comunidad de músicos habla de los discos que les cambiaron la vida"
-	keywords = "discos, LP, música, entrevistas, disco que cambia la vida"
+	keywords = [
+  		"discos",
+  		"LP",
+  		"música",
+  		"entrevistas música",
+  		"disco que cambia la vida"
+	]
 	enableRSS = true
+
