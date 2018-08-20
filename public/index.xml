@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ALBUMERS - Gente que habla de los álbumes que les cambiaron la vida</title>
+    <link>http://example.org/</link>
+    <description>Recent content on ALBUMERS - Gente que habla de los álbumes que les cambiaron la vida</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Sat, 18 Aug 2018 08:25:33 +0200</lastBuildDate>
+    
+	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Bienvenidos a ALBUMERS</title>
+      <link>http://example.org/posts/second-post/</link>
+      <pubDate>Sat, 18 Aug 2018 08:25:33 +0200</pubDate>
+      
+      <guid>http://example.org/posts/second-post/</guid>
+      <description>#Esta web pretende recopilar los álbumes que supusieron el antes y después en las vidas de amigxs músicxs y conocidxs.
+Ese disco, esa canción, esas melodías, ritmos, riffs o gruñidos que despertaron algo en su interior, que supusieron la primera piedra sobre la que erigir una estructura sólida de gustos musicales que les acompañan y perfeccionan año tras año.
+Ese camino iniciático que les guiará para siempre, que conformará sus carácteres, sus contribuirá a su manera de pensar y entender el mundo, que les llevará -con la pasión del auténtico fan - hasta el día de hoy, hasta el día de querer compartirlo con nosotroxs.</description>
+    </item>
+    
+  </channel>
+</rss>

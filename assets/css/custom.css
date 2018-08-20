@@ -18,3 +18,6 @@ a[itemprop="url"]:hover {
 .hack .help-block {
   color: #e0e0e0;
 }
+img {
+    width: 100%;
+}

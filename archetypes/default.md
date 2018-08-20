@@ -1,6 +1,8 @@
 +++
-title = "{{ replace .TranslationBaseName "-" " " | title }}"
+title = "Prueba"
 date = {{ .Date }}
 description = ""
-draft = true
+draft = false
 +++
+
+#Puta mierda
