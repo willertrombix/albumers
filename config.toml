@@ -25,6 +25,9 @@ disqusShortname = ""
 
 enableRSS = true
 noindex = false
+enableRobotsTXT = true
+canonifyURLs = true
+
 
 
 crossorigin = "anonymous" # Optional, sets CORS attribute
