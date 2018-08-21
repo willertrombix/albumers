@@ -2,6 +2,12 @@
 title = "Willer & The Great Southern Trendkill (Pantera)"
 date = 2018-08-18T08:25:33+02:00
 description = "Willer (Trocotombix, Necrotanke, Cabalgata Cósmica) habla del disco de Pantera que más le influyó de joven"
+keywords = [
+  "entrevistas música",
+  "discos música",
+  "grupos música",
+  "discos que cambian vidas"
+]
 draft = false
 +++
   
