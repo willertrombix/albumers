@@ -47,7 +47,7 @@ Desde luego, este disco me ha acompañado en las distintas fases de descubriemie
 
 Acabé bajando a los hiperactivos lares del grindcore, el death metal, el mathcore, etc. Y todo ello sin dejar de escuchar ni un segundo a Pantera, siempre presente en mis mezcladillos de casette junto a tropecientas bandas más (clásico recopilatorio antes de un viaje en coche). 
 
-por eso elegí este disco. Porque es la puerta de entrada a este basto mundo de sonidos extremos que tanto me gusta y que me ha estropeado la cabeza para querer tener bandas como <strong><a href="https://trocotombix.bandcamp.com/" title="Trocotombix Bandcamp" target="_blank">Trocotombix</a></strong> o <strong><a href="https://www.facebook.com/Necrotanke-1613962138868746/" title="Necrotanke Facebook" target="_blank">Necrotanke</a></strong>. 
+por eso elegí este disco. Porque es la puerta de entrada a este basto mundo de sonidos extremos que tanto me gusta y que me ha estropeado la cabeza para querer tener bandas como <strong><a href="https://trocotombix.bandcamp.com/" title="Trocotombix Bandcamp" target="_blank" rel="external noopener">Trocotombix</a></strong> o <strong><a href="https://www.facebook.com/Necrotanke-1613962138868746/" title="Necrotanke Facebook" target="_blank" rel="external noopener">Necrotanke</a></strong>. 
 
 ¿Se sigue notando hoy en día el poso que me dejó? ¿Sigo escuchando ese disco? 
 
