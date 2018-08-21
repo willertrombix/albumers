@@ -9,7 +9,11 @@ draft = false
 
 El mecanismo es fácil: tan solo hay que hacer un breve ejercicio de instrospección (o memoria, si se quiere) con alguna dosis de nostalgia y poner por escrito lo que sentí al escuchar por primera vez The Great Southern trendkill: el pepinazo de Pantera que me cambió la vida.
 
-![Pantera - The Great Southern Trendkill](/images/pantera-the-great-southern-trendkill-album-and-me.jpg)
+<img
+  data-sizes="auto"
+  data-src="/images/pantera-the-great-southern-trendkill-album-and-me.jpg"
+  alt="Pantera - The Great Southern Trendkill Vinilo 1996"
+  class="lazyload">
 
 <div class="alert alert-info">
 ¿Dónde y cómo lo descubrí?
@@ -37,7 +41,11 @@ Escuchar "13 Steps To Nowhere" y cagarme de miedo con el efecto de las notas opr
 
 También, puesto en persopectiva, con la discografía entera, que después iría descubirendo poco a poco, sigo pensando que mis carnes fofas de pavo no estaban preparadas aún para entender toda la mala baba de "The Great Southern Trendkill". 
 
-![Pantera - The Great Southern Trendkill](/images/pantera-the-great-southern-trendkill-album-inside.jpg)
+<img
+  data-sizes="auto"
+  data-src="/images/pantera-the-great-southern-trendkill-album-inside.jpg"
+  alt="Pantera - The Great Southern Trendkill Album inside folder"
+  class="lazyload">
 
 <div class="alert alert-info">
 ¿Por qué me influenció tanto? ¿Cambió mi manera de pensar y entender la música? 
