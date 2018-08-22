@@ -29,6 +29,11 @@ disqusShortname = ""
   publishDate = ["publishDate", "date"]
   expiryDate = ["expiryDate"]
 
+[sitemap]
+  changefreq = "weekly"
+  filename = "sitemap.xml"
+  priority = 0.5
+
 enableRSS = true
 noindex = false
 enableRobotsTXT = true
