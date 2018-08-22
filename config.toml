@@ -23,6 +23,12 @@ disqusShortname = ""
   		"disco que cambia la vida"
 	]
 
+[frontmatter]
+  date = ["date", "publishDate", "lastmod"]
+  lastmod = [":git", "lastmod", "date", "publishDate"]
+  publishDate = ["publishDate", "date"]
+  expiryDate = ["expiryDate"]
+
 enableRSS = true
 noindex = false
 enableRobotsTXT = true
