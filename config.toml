@@ -30,7 +30,6 @@ disqusShortname = ""
   expiryDate = ["expiryDate"]
 
 [sitemap]
-  changefreq = "weekly"
   filename = "sitemap.xml"
 
 enableRSS = true
