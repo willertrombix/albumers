@@ -10,6 +10,7 @@ keywords = [
   "discos que cambian vidas"
 ]
 draft = false
+toc = true
 +++
   
 #Inicio la sección conmigo mismo. A riesgo de parecer ególatra, lo cierto es que necesito dar bola a la web con un primer contenido, y antes de enrolar a nadie he querido experimentar con algo facilito :)
