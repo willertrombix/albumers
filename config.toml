@@ -28,6 +28,10 @@ enableEmoji = true
   		"entrevistas música",
   		"disco que cambia la vida"
 	]
+	noindex_kinds = [
+    "taxonomy",
+    "taxonomyTerm"
+  ]
 
 [frontmatter]
   date = ["date", "publishDate", "lastmod"]
@@ -39,8 +43,8 @@ enableEmoji = true
 	filename = "sitemap.xml"
 
 [taxonomies]
-	category = "categories"
 	tag = "tags"
+	preserveTaxonomyNames = true
 
 [related]
 	threshold = 80
