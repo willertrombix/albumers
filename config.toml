@@ -10,6 +10,12 @@ theme = [
 googleAnalytics = ""
 #Disable comments by leaving disqusShortname empty
 disqusShortname = ""
+enableRSS = true
+noindex = false
+enableRobotsTXT = true
+canonifyURLs = true
+crossorigin = "anonymous" # Optional, sets CORS attribute
+enableEmoji = true
 
 [params]
 	name = "Willer"
@@ -30,36 +36,31 @@ disqusShortname = ""
   expiryDate = ["expiryDate"]
 
 [sitemap]
-  filename = "sitemap.xml"
+	filename = "sitemap.xml"
+
+[taxonomies]
+	category = "categories"
+	tag = "tags"
 
 [related]
-threshold = 80
-includeNewer = false
-toLower = false
+	threshold = 80
+	includeNewer = false
+	toLower = false
 
-[[related.indices]]
-name = "keywords"
-weight = 150
-[[related.indices]]
-name  = "author"
-toLower = true
-weight = 30
-[[related.indices]]
-name  = "tags"
-weight = 100
-[[related.indices]]
-name  = "date"
-weight = 10
-pattern = "2006"
-
-enableRSS = true
-noindex = false
-enableRobotsTXT = true
-canonifyURLs = true
-
-
-
-crossorigin = "anonymous" # Optional, sets CORS attribute
+	[[related.indices]]
+		name = "keywords"
+		weight = 150
+	[[related.indices]]
+		name  = "author"
+		toLower = true
+		weight = 30
+	[[related.indices]]
+		name  = "tags"
+		weight = 100
+	[[related.indices]]
+		name  = "date"
+		weight = 10
+		pattern = "2006"
   
 [outputs]
   home = ["HTML", "RSS", "JSON"]
