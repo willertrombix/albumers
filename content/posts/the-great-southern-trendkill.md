@@ -34,6 +34,17 @@ Yo era un preadolescente de 13 años descubriendo en la música una coraza sobre
 
 Fue una amiga del colegio la que me pasó el disco en una cinta de cassete TDK grabada, y cuya única leyenda era un escueto <strong>"Pantera - The Great Southern Trendkill"</strong> en las pegatinas que se solían colocar a ambos lados de las caras del plástico de la cassete. Ninguna pista más: me la pasó sin caja, así que no tuve acceso al nombre de las canciones, en el caso de que se hubiera currado escribirlas en el cartoncito destinado a tal efecto.
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-2032573255527749"
+     data-ad-slot="2857659837"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 Por aquellos entonces mi colección de discos estaba poblada de música reivindicativa cantada en español (Def Con Dos, Reincidentes, La Polla Records, Soziedad Alcohólica, etc.) Así que os podéis imaginar la ruptura de conceptos que supuso escuchar el alarido con que el tito <strong>Phil Anselmo</strong> -cabreado hasta la médula con la escena metalera, el postureo y las revistas especializadas de música-,  descarga toda su rabia de un plumazo. 
 
 <div class="alert alert-warning">
@@ -65,4 +76,15 @@ Desde luego, este disco me ha acompañado en las distintas fases de descubriemie
 Acabé bajando a los hiperactivos lares del grindcore, el death metal, el mathcore, etc. Y todo ello sin dejar de escuchar ni un segundo a Pantera, siempre presente en mis mezcladillos de casette junto a tropecientas bandas más (clásico recopilatorio antes de un viaje en coche). 
 
 Por eso he elegido este disco. Porque es la puerta de entrada a este basto mundo de sonidos extremos que tanto me gusta y que me ha estropeado la cabeza para querer tener bandas como <strong><a href="https://trocotombix.bandcamp.com/" title="Trocotombix Bandcamp" target="_blank" rel="external noopener">Trocotombix</a></strong> o <strong><a href="https://www.facebook.com/Necrotanke-1613962138868746/" title="Necrotanke Facebook" target="_blank" rel="external noopener">Necrotanke</a></strong>.
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-2032573255527749"
+     data-ad-slot="2857659837"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
