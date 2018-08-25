@@ -12,9 +12,7 @@ keywords = [
 tags = ["Pantera", "The Great Southern Trendkill", "Trocotombix", "Necrotanke"] 
 draft = false
 toc = true
-+++
-<p><time itemprop="datePublished" datetime="2018-08-18T08:25:33+02:00">18 Ago, 2018</time></p>
-  
++++  
 <h2>Inicio la sección conmigo mismo.</h2>
 A riesgo de parecer ególatra, lo cierto es que necesito dar bola a la web con un primer contenido, y antes de enrolar a nadie he querido experimentar con algo facilito :)
 
@@ -89,7 +87,8 @@ Por eso he elegido este disco. Porque es la puerta de entrada a este basto mundo
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
+<!-- TAGS -->
+<span itemprop="articleSection">TAGS: <a href="/tags/pantera/">Pantera</a>, <a href="/tags/the-great-southern-trendkill/">The Great Southern Trendkill</a>, <a href="/tags/trocotombix/">Trocotombix</a>, <a href="/tags/necrotanke/">Necrotanke</a></span>
+<!-- DATE -->
+<p><time itemprop="datePublished" datetime="2018-08-18T08:25:33+02:00">18 Ago, 2018</time></p>
 
-<footer>
-  <span itemprop="articleSection"> TAGS: <a href="/tags/pantera/">Pantera</a>, <a href="tags/the-great-southern-trendkill/">The Great Southern Trendkill</a>, <a href="/tags/trocotombix/">Trocotombix</a>, <a href="/tags/necrotanke/">Necrotanke</a></span>
-</footer>
