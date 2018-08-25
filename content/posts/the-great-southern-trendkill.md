@@ -12,9 +12,9 @@ keywords = [
 tags = ["Pantera", "The Great Southern Trendkill", "Trocotombix", "Necrotanke"] 
 draft = false
 toc = true
-+++
-  
-#Inicio la sección conmigo mismo. A riesgo de parecer ególatra, lo cierto es que necesito dar bola a la web con un primer contenido, y antes de enrolar a nadie he querido experimentar con algo facilito :)
++++  
+<h2>Inicio la sección conmigo mismo.</h2>
+A riesgo de parecer ególatra, lo cierto es que necesito dar bola a la web con un primer contenido, y antes de enrolar a nadie he querido experimentar con algo facilito :)
 
 El mecanismo es fácil: tan solo hay que hacer un breve ejercicio de instrospección (o memoria, si se quiere) con alguna dosis de nostalgia y poner por escrito lo que sentí al escuchar por primera vez The Great Southern trendkill: el pepinazo de Pantera que me cambió la vida.
 
@@ -87,4 +87,8 @@ Por eso he elegido este disco. Porque es la puerta de entrada a este basto mundo
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
+<!-- TAGS -->
+<span itemprop="articleSection">TAGS: <a href="/tags/pantera/">Pantera</a>, <a href="/tags/the-great-southern-trendkill/">The Great Southern Trendkill</a>, <a href="/tags/trocotombix/">Trocotombix</a>, <a href="/tags/necrotanke/">Necrotanke</a></span>
+<!-- DATE -->
+<p><time itemprop="datePublished" datetime="2018-08-18T08:25:33+02:00">18 Ago, 2018</time></p>
 
