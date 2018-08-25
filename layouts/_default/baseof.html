@@ -43,6 +43,7 @@
         <link href={{ "/css/syntax.css" | relURL }} rel="stylesheet">
       </noscript>
     {{ end }}
+      {{ partial "google/adsense" . }}
   </head>
   {{ $hackcss_disabled := .Site.Params.hackcss.disabled | default false }}
   {{ $hackcss_mode := .Site.Params.hackcss.mode | default "hack" }}
