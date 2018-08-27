@@ -51,6 +51,10 @@ Por aquellos entonces mi colección de discos estaba poblada de música reivindi
 "¡Joder, qué mierda es esta!", pensé.
 </div>
 
+<div class="alert alert-info">
+<iframe width="100%" height="100%" src="https://www.youtube.com/embed/yzpa0KRBrQc?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
+
 Todas las canciones me parecían siniestras, oscuras, jodidas al fin y al cabo. Y eso que me he dado cuenta después, con el paso de los años y tras haberlo escuchado centenas de veces, de lo agobiante y sucio que es el álbum. Mis oidos pipiolos de aquellos entonces lo percibían en alguna medida, pero solo a nivel de superficie, nada con lo que de verdad es este disco.
 
 A ello hay que sumar que no tenía ni pajolera de inglés como para entnder las intenciones de las letras, el slang versado, el contexto en que se escribían y la lectura entre líneas. Ahora que sí puedo adentrarme más en los textos, acabo de entender toda la dimensión podrida de este disco.

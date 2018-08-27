@@ -169,6 +169,10 @@ A riesgo de parecer ególatra, lo cierto es que necesito dar bola a la web con u
 "¡Joder, qué mierda es esta!", pensé.
 </div>
 
+<div class="alert alert-info">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yzpa0KRBrQc?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
+
 <p>Todas las canciones me parecían siniestras, oscuras, jodidas al fin y al cabo. Y eso que me he dado cuenta después, con el paso de los años y tras haberlo escuchado centenas de veces, de lo agobiante y sucio que es el álbum. Mis oidos pipiolos de aquellos entonces lo percibían en alguna medida, pero solo a nivel de superficie, nada con lo que de verdad es este disco.</p>
 
 <p>A ello hay que sumar que no tenía ni pajolera de inglés como para entnder las intenciones de las letras, el slang versado, el contexto en que se escribían y la lectura entre líneas. Ahora que sí puedo adentrarme más en los textos, acabo de entender toda la dimensión podrida de este disco.</p>
@@ -222,5 +226,51 @@ Escuchar "13 Steps To Nowhere" y cagarme de miedo con el efecto de las notas opr
 
 
 </footer>
+    <div id="barraaceptacion">
+	<div class="muted">
+		¡Ey! Si contin&uacute;as navegando es que aceptas el rollo de las cookies :)
+		<a href="javascript:void(0);" class="ok" onclick="PonerCookie();"><b>OK</b></a> | 
+		<a href="http://politicadecookies.com" target="_blank" class="info">M&aacute;s informaci&oacute;n</a>
+	</div>
+</div>
+
+<script>
+function getCookie(c_name){
+	var c_value = document.cookie;
+	var c_start = c_value.indexOf(" " + c_name + "=");
+	if (c_start == -1){
+		c_start = c_value.indexOf(c_name + "=");
+	}
+	if (c_start == -1){
+		c_value = null;
+	}else{
+		c_start = c_value.indexOf("=", c_start) + 1;
+		var c_end = c_value.indexOf(";", c_start);
+		if (c_end == -1){
+			c_end = c_value.length;
+		}
+		c_value = unescape(c_value.substring(c_start,c_end));
+	}
+	return c_value;
+}
+
+function setCookie(c_name,value,exdays){
+	var exdate=new Date();
+	exdate.setDate(exdate.getDate() + exdays);
+	var c_value=escape(value) + ((exdays==null) ? "" : "; expires="+exdate.toUTCString());
+	document.cookie=c_name + "=" + c_value;
+}
+
+if(getCookie('tiendaaviso')!="1"){
+	document.getElementById("barraaceptacion").style.display="block";
+}
+function PonerCookie(){
+	setCookie('tiendaaviso','1',365);
+	document.getElementById("barraaceptacion").style.display="none";
+}
+</script>
+
+</body>
+</html>	
   </body>
 </html>
