@@ -3,12 +3,23 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://albumers.org/posts/the-great-southern-trendkill/</loc>
+    <loc>https://albumers.org/pages/info/</loc>
+    <lastmod>2018-08-18T08:25:33+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://albumers.org/post/the-great-southern-trendkill/</loc>
     <lastmod>2018-08-18T08:25:33+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://albumers.org/</loc>
+    <lastmod>2018-08-18T08:25:33+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://albumers.org/tags/albumers/</loc>
     <lastmod>2018-08-18T08:25:33+02:00</lastmod>
     <priority>0</priority>
   </url>
@@ -20,13 +31,19 @@
   </url>
   
   <url>
+    <loc>https://albumers.org/pages/</loc>
+    <lastmod>2018-08-18T08:25:33+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://albumers.org/tags/pantera/</loc>
     <lastmod>2018-08-18T08:25:33+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://albumers.org/posts/</loc>
+    <loc>https://albumers.org/post/</loc>
     <lastmod>2018-08-18T08:25:33+02:00</lastmod>
     <priority>0</priority>
   </url>

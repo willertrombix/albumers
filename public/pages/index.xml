@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>ALBUMERS - Gente que habla de los álbumes que les cambiaron la vida</title>
-    <link>https://albumers.org/</link>
-    <description>Recent content on ALBUMERS - Gente que habla de los álbumes que les cambiaron la vida</description>
+    <title>Pages on ALBUMERS - Gente que habla de los álbumes que les cambiaron la vida</title>
+    <link>https://albumers.org/pages/</link>
+    <description>Recent content in Pages on ALBUMERS - Gente que habla de los álbumes que les cambiaron la vida</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
     <lastBuildDate>Sat, 18 Aug 2018 08:25:33 +0200</lastBuildDate>
     
-	<atom:link href="https://albumers.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://albumers.org/pages/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -20,16 +20,6 @@
       <description>##Esta web pretende recopilar los álbumes que supusieron el antes y después en las vidas de amigxs músicxs y conocidxs.
 Ese disco, esa canción, esas melodías, ritmos, riffs o gruñidos que despertaron algo en su interior, que supusieron la primera piedra sobre la que erigir una estructura sólida de gustos musicales que les acompañan y se refinan año tras año.
 Ese camino iniciático que les guiará para siempre, que conformará sus carácteres, contribuirá a su manera de pensar y entender el mundo, que les llevará -con la pasión del auténtico fan- hasta el día de hoy, hasta el día de compartir sus gustos con nosotrxs.</description>
-    </item>
-    
-    <item>
-      <title>Willer &amp; The Great Southern Trendkill (PanterA)</title>
-      <link>https://albumers.org/post/the-great-southern-trendkill/</link>
-      <pubDate>Sat, 18 Aug 2018 08:25:33 +0200</pubDate>
-      
-      <guid>https://albumers.org/post/the-great-southern-trendkill/</guid>
-      <description>Inicio la sección conmigo mismo. A riesgo de parecer ególatra, lo cierto es que necesito dar bola a la web con un primer contenido, y antes de enrolar a nadie he querido experimentar con algo facilito :)
-El mecanismo es fácil: tan solo hay que hacer un breve ejercicio de instrospección (o memoria, si se quiere) con alguna dosis de nostalgia y poner por escrito lo que sentí al escuchar por primera vez The Great Southern trendkill: el pepinazo de Pantera que me cambió la vida.</description>
     </item>
     
   </channel>
