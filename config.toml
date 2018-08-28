@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://albumers.org/"
 themesDir = "themes"
 languageCode = "es-es"
 title = "ALBUMERS - Gente que habla de los álbumes que les cambiaron la vida"

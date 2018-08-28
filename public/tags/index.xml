@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on ALBUMERS - Gente que habla de los álbumes que les cambiaron la vida</title>
-    <link>http://example.org/tags/</link>
+    <link>https://albumers.org/tags/</link>
     <description>Recent content in Tags on ALBUMERS - Gente que habla de los álbumes que les cambiaron la vida</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
     <lastBuildDate>Sat, 18 Aug 2018 08:25:33 +0200</lastBuildDate>
     
-	<atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://albumers.org/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Necrotanke</title>
-      <link>http://example.org/tags/necrotanke/</link>
+      <link>https://albumers.org/tags/necrotanke/</link>
       <pubDate>Sat, 18 Aug 2018 08:25:33 +0200</pubDate>
       
-      <guid>http://example.org/tags/necrotanke/</guid>
+      <guid>https://albumers.org/tags/necrotanke/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pantera</title>
-      <link>http://example.org/tags/pantera/</link>
+      <link>https://albumers.org/tags/pantera/</link>
       <pubDate>Sat, 18 Aug 2018 08:25:33 +0200</pubDate>
       
-      <guid>http://example.org/tags/pantera/</guid>
+      <guid>https://albumers.org/tags/pantera/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Great Southern Trendkill</title>
-      <link>http://example.org/tags/the-great-southern-trendkill/</link>
+      <link>https://albumers.org/tags/the-great-southern-trendkill/</link>
       <pubDate>Sat, 18 Aug 2018 08:25:33 +0200</pubDate>
       
-      <guid>http://example.org/tags/the-great-southern-trendkill/</guid>
+      <guid>https://albumers.org/tags/the-great-southern-trendkill/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Trocotombix</title>
-      <link>http://example.org/tags/trocotombix/</link>
+      <link>https://albumers.org/tags/trocotombix/</link>
       <pubDate>Sat, 18 Aug 2018 08:25:33 +0200</pubDate>
       
-      <guid>http://example.org/tags/trocotombix/</guid>
+      <guid>https://albumers.org/tags/trocotombix/</guid>
       <description></description>
     </item>
     
