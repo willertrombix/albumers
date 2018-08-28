@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://albumers.org/pages/info/</loc>
+    <loc>https://albumers.org/page/info/</loc>
     <lastmod>2018-08-18T08:25:33+02:00</lastmod>
   </url>
   
@@ -31,7 +31,7 @@
   </url>
   
   <url>
-    <loc>https://albumers.org/pages/</loc>
+    <loc>https://albumers.org/page/</loc>
     <lastmod>2018-08-18T08:25:33+02:00</lastmod>
     <priority>0</priority>
   </url>

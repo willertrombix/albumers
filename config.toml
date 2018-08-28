@@ -91,4 +91,4 @@ footnoteReturnLinkContents = "↩" # Provides a nicer footnote return link
   name = "Info"
   weight = 3
   identifier = "info"
-  url = "/pages/info"
+  url = "/page/info"

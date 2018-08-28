@@ -1,5 +1,5 @@
 +++
-title = "Información sobre qué es ALBUMERS"
+title = "¿Qué es ALBUMERS?"
 date = 2018-08-18T08:25:33+02:00
 description = "ALBUMERS pretende recopilar los álbumes que supusieron el antes y después en las vidas de amigxs músicxs y conocidxs"
 keywords = [
@@ -7,7 +7,7 @@ keywords = [
   "entrevista sobre discos",
   "discos que cambian vidas"
 ]
-tags = ["Albumers"] 
+tags = ["Albumers"]
 draft = false
 toc = true
 +++  
