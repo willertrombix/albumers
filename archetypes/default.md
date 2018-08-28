@@ -1,8 +1,7 @@
 +++
-title = "Prueba"
+title = ""
 date = {{ .Date }}
 description = ""
 draft = false
 +++
 
-#Puta mierda
