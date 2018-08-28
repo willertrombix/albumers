@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://albumers.org/"
 themesDir = "themes"
 languageCode = "es-es"
 title = "ALBUMERS - Gente que habla de los álbumes que les cambiaron la vida"
@@ -17,9 +17,12 @@ canonifyURLs = true
 crossorigin = "anonymous" # Optional, sets CORS attribute
 enableEmoji = true
 
+footnoteReturnLinkContents = "↩" # Provides a nicer footnote return link
+
 [params]
 	name = "Willer"
 	author = "Willer"
+  hide_author = true
 	description = "La comunidad de músicos habla del disco que les marcó para siempre"
 	keywords = [
   		"discos",
@@ -65,13 +68,17 @@ enableEmoji = true
 		name  = "date"
 		weight = 10
 		pattern = "2006"
+
+[params.modules.fractal_forest]
+  enabled = true # Optional, set false to disable module
+  decoders = ["bpgdec8a"] # Optional, 8-bit javascript decoder with animation
   
 [outputs]
   home = ["HTML", "RSS", "JSON"]
   section = ["HTML", "RSS", "JSON"]
   
 [[menu.main]]
-  name = "Inicio"
+  name = "Info"
   weight = 1
   identifier = "home"
   url = "/"

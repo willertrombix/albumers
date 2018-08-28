@@ -3,58 +3,58 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/posts/the-great-southern-trendkill/</loc>
+    <loc>https://albumers.org/posts/the-great-southern-trendkill/</loc>
     <lastmod>2018-08-18T08:25:33+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
-    <lastmod>2018-08-18T08:25:33+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.org/tags/necrotanke/</loc>
+    <loc>https://albumers.org/</loc>
     <lastmod>2018-08-18T08:25:33+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/tags/pantera/</loc>
+    <loc>https://albumers.org/tags/necrotanke/</loc>
     <lastmod>2018-08-18T08:25:33+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/posts/</loc>
+    <loc>https://albumers.org/tags/pantera/</loc>
     <lastmod>2018-08-18T08:25:33+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/search/</loc>
-  </url>
-  
-  <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://albumers.org/posts/</loc>
     <lastmod>2018-08-18T08:25:33+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/tags/the-great-southern-trendkill/</loc>
+    <loc>https://albumers.org/search/</loc>
+  </url>
+  
+  <url>
+    <loc>https://albumers.org/tags/</loc>
     <lastmod>2018-08-18T08:25:33+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/tags/trocotombix/</loc>
+    <loc>https://albumers.org/tags/the-great-southern-trendkill/</loc>
     <lastmod>2018-08-18T08:25:33+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/true/</loc>
+    <loc>https://albumers.org/tags/trocotombix/</loc>
+    <lastmod>2018-08-18T08:25:33+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://albumers.org/true/</loc>
     <priority>0</priority>
   </url>
   
