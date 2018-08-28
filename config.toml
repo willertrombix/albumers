@@ -78,17 +78,17 @@ footnoteReturnLinkContents = "↩" # Provides a nicer footnote return link
   section = ["HTML", "RSS", "JSON"]
   
 [[menu.main]]
-  name = "Info"
+  name = "Gente"
   weight = 1
   identifier = "home"
   url = "/"
 [[menu.main]]
-  name = "Gente"
-  weight = 2
-  identifier = "articulos"
-  url = "/posts/"
-[[menu.main]]
   name = "Buscar"
-  weight = 3
+  weight = 2
   identifier = "search"
   url = "/search/"
+[[menu.main]]
+  name = "Info"
+  weight = 3
+  identifier = "info"
+  url = "/pages/info"
