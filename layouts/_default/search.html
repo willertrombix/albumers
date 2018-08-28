@@ -17,12 +17,12 @@
         <form v-on:submit.prevent class="form" action="{{ "search" | absURL }}">
           <fieldset class="form-group">
             <input v-model="query" id="query" name="s" type="search" class="form-control" maxlength="32" autocomplete="off">
-            <div class="help-block">Press <kbd>s</kbd> to focus search input anytime.</div>
+            <div class="help-block">Escribe <kbd>s</kbd> para seleccionar el campo de búsuqueda.</div>
           </fieldset>
         </form>
       </section>
       <section v-if="results.length">
-        <p><i>Showing results for “{ resultsForSearch }”.</i></p>
+        <p><i>mostrando resultado para “{ resultsForSearch }”.</i></p>
         <div id="search-results">
           <article v-for="result in results" itemscope itemtype="http://schema.org/CreativeWork">
             <header itemprop="name">
