@@ -9,7 +9,6 @@ keywords = [
 ]
 tags = ["Albumers"]
 draft = false
-layout = "page"
 toc = false
 +++  
 <p>##Esta web quiere ser un listado de los discos que cambiaron la vida de sus oyentes. Esos que les llevaron a querer aprender un instrumento, formar un grupo o no, pasar horas en un local de ensayo, vivir penurias y momentos de alegría aquí y allá.</p>
