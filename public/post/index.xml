@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Trocotombix on ALBUMERS - Gente que habla de los álbumes que les cambiaron la vida</title>
-    <link>https://albumers.org/tags/trocotombix/</link>
-    <description>Recent content in Trocotombix on ALBUMERS - Gente que habla de los álbumes que les cambiaron la vida</description>
+    <title>Posts on ALBUMERS - Gente que habla de los álbumes que les cambiaron la vida</title>
+    <link>https://albumers.org/post/</link>
+    <description>Recent content in Posts on ALBUMERS - Gente que habla de los álbumes que les cambiaron la vida</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
     <lastBuildDate>Sat, 18 Aug 2018 08:25:33 +0200</lastBuildDate>
     
-	<atom:link href="https://albumers.org/tags/trocotombix/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://albumers.org/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
