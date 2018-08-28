@@ -71,7 +71,7 @@ enableEmoji = true
   section = ["HTML", "RSS", "JSON"]
   
 [[menu.main]]
-  name = "Inicio"
+  name = "Info"
   weight = 1
   identifier = "home"
   url = "/"
