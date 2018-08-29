@@ -1,5 +1,7 @@
 User-agent: *
-# robotstxt.org - if ENV production variable is false robots will be disallowed.
+Disallow: /search/*?s=
+Disallow: /tags/
 
-  Disallow: /
+Sitemap: https://albumers.org/sitemap.xml
+
 
