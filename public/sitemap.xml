@@ -4,7 +4,7 @@
   
   <url>
     <loc>https://albumers.org/page/info/</loc>
-    <lastmod>2018-08-18T08:25:33+02:00</lastmod>
+    <lastmod>2018-08-28T00:00:00+02:00</lastmod>
   </url>
   
   <url>
@@ -14,14 +14,18 @@
   
   <url>
     <loc>https://albumers.org/</loc>
-    <lastmod>2018-08-18T08:25:33+02:00</lastmod>
+    <lastmod>2018-08-28T00:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://albumers.org/tags/albumers/</loc>
-    <lastmod>2018-08-18T08:25:33+02:00</lastmod>
+    <lastmod>2018-08-28T00:00:00+02:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://albumers.org/search/</loc>
   </url>
   
   <url>
@@ -32,7 +36,7 @@
   
   <url>
     <loc>https://albumers.org/page/</loc>
-    <lastmod>2018-08-18T08:25:33+02:00</lastmod>
+    <lastmod>2018-08-28T00:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -49,12 +53,8 @@
   </url>
   
   <url>
-    <loc>https://albumers.org/search/</loc>
-  </url>
-  
-  <url>
     <loc>https://albumers.org/tags/</loc>
-    <lastmod>2018-08-18T08:25:33+02:00</lastmod>
+    <lastmod>2018-08-28T00:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   

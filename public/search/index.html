@@ -4,26 +4,26 @@
     <meta name="generator" content="Hugo 0.47" />
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Search | ALBUMERS - Gente que habla de los álbumes que les cambiaron la vida</title>
+    <title>Buscar | ALBUMERS - Gente que habla de los álbumes que les cambiaron la vida</title>
     <meta name="description" content="La comunidad de músicos habla del disco que les marcó para siempre">
     <meta name="keywords" content="">
     
     
     
     
-    <meta name="robots" content="index, follow">
+    <meta name="robots" content="noindex">
     
     
 
   <meta name="author" content="Willer">
 
 
-    <meta property="og:title" content="Search" />
+    <meta property="og:title" content="Buscar" />
 <meta property="og:description" content="La comunidad de músicos habla del disco que les marcó para siempre" />
 <meta property="og:type" content="website" />
 <meta property="og:url" content="https://albumers.org/search/" />
     <meta name="twitter:card" content="summary"/>
-<meta name="twitter:title" content="Search"/>
+<meta name="twitter:title" content="Buscar"/>
 <meta name="twitter:description" content="La comunidad de músicos habla del disco que les marcó para siempre"/>
 
     
@@ -137,7 +137,7 @@ fetchInject(["/js/lazysizes.min.js"]);
     
       <a itemprop="url" class="active" href="https://albumers.org/search/"><span itemprop="name">Buscar</span></a>
     
-      <a itemprop="url" class="" href="https://albumers.org/page/info"><span itemprop="name">Info</span></a>
+      <a itemprop="url" class="" href="https://albumers.org/page/info/"><span itemprop="name">Info</span></a>
     
   </nav>
 
@@ -145,7 +145,7 @@ fetchInject(["/js/lazysizes.min.js"]);
 </header>
     <main>
   <header>
-    <h1>Search</h1>
+    <h1>Buscar</h1>
   </header>
   <noscript>
     Aw-shucks! Search requires use of JavaScript to function properly.
@@ -156,12 +156,12 @@ fetchInject(["/js/lazysizes.min.js"]);
         <form v-on:submit.prevent class="form" action="https://albumers.org/search">
           <fieldset class="form-group">
             <input v-model="query" id="query" name="s" type="search" class="form-control" maxlength="32" autocomplete="off">
-            <div class="help-block">Press <kbd>s</kbd> to focus search input anytime.</div>
+            <div class="help-block">Escribe <kbd>s</kbd> para seleccionar el campo de búsuqueda.</div>
           </fieldset>
         </form>
       </section>
       <section v-if="results.length">
-        <p><i>Showing results for “{ resultsForSearch }”.</i></p>
+        <p><i>Mostrando resultados para “{ resultsForSearch }”.</i></p>
         <div id="search-results">
           <article v-for="result in results" itemscope itemtype="http://schema.org/CreativeWork">
             <header itemprop="name">
