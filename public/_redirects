@@ -1,2 +1,2 @@
 # Redirect default Netlify subdomain to primary domain
-http://albumers.netlify.com/* http://albumers.org/:splat 301!
+https://albumers.netlify.com/* https://albumers.org/:splat 301!
