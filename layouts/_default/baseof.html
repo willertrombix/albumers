@@ -44,6 +44,7 @@
       </noscript>
     {{ end }}
       {{ partial "google/adsense" . }}
+      {{ partial "google/analytics" . }}
   </head>
   {{ $hackcss_disabled := .Site.Params.hackcss.disabled | default false }}
   {{ $hackcss_mode := .Site.Params.hackcss.mode | default "hack" }}
