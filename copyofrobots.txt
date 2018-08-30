@@ -1,6 +1,0 @@
-User-agent: *
-Disallow: /search/*?s=
-Disallow: /tags/
-
-Sitemap: https://albumers.org/sitemap.xml
-
