@@ -6,8 +6,6 @@ theme = [
   "fractal-forest",
   "after-dark"
 ]
-# Enter your tracking code to enable Google Analytics
-googleAnalytics = ""
 #Disable comments by leaving disqusShortname empty
 disqusShortname = ""
 enableRSS = true
