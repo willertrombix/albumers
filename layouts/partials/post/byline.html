@@ -1,10 +1,10 @@
 <p>
-  Published
+  Publicado el
   {{ if ne .Site.Params.hide_author true }}
     {{ with .Params.author }}
-      by <span itemprop="author">{{ index . }}</span>
+      por <span itemprop="author">{{ index . }}</span>
     {{ else }}
-      by <span itemprop="author">{{ .Site.Params.author }}</span>
+      por <span itemprop="author">{{ .Site.Params.author }}</span>
     {{ end }}
   {{ end }}
   <time itemprop="datePublished" datetime="{{ dateFormat "2006-01-02T15:04:05-07:00" (default .Date (.PublishDate)) }}">
@@ -14,7 +14,7 @@
     in <span itemprop="articleSection">{{ delimit (apply (apply (sort .) "partial" "post/category-link.html" ".") "chomp" ".") ", " " and " }}</span>
   {{ end }}
   {{ with .Params.tags }}
-    and tagged {{ delimit (apply (apply (sort .) "partial" "post/tag-link.html" ".") "chomp" ".") ", " " and " }}
+    y etiquetado en {{ delimit (apply (apply (sort .) "partial" "post/tag-link.html" ".") "chomp" ".") ", " " y " }}
   {{ end }}
-  using <span itemprop="wordCount">{{ .WordCount }}</span> words.
+  usando <span itemprop="wordCount">{{ .WordCount }}</span> palabras.
 </p>
