@@ -78,7 +78,7 @@ Desde luego, este disco me ha acompañado en las distintas fases de descubriemie
 
 Acabé bajando a los hiperactivos lares del grindcore, el death metal, el mathcore, etc. Y todo ello sin dejar de escuchar ni un segundo a Pantera, siempre presente en mis mezcladillos de casette junto a tropecientas bandas más (clásico recopilatorio antes de un viaje en coche). 
 
-Por eso he elegido este disco. Porque es la puerta de entrada a este basto mundo de sonidos extremos que tanto me gusta y que me ha estropeado la cabeza para querer tener bandas como <strong><a href="https://trocotombix.bandcamp.com/" title="Trocotombix Bandcamp" target="_blank" rel="external noopener">Trocotombix</a></strong> o <strong><a href="https://www.facebook.com/Necrotanke-1613962138868746/" title="Necrotanke Facebook" target="_blank" rel="external noopener">Necrotanke</a></strong>.
+Por eso he elegido este disco. Porque es la puerta de entrada a este basto mundo de sonidos extremos que tanto me gusta y que me ha estropeado la cabeza para querer tener bandas como <strong><a href="https://trocotombix.bandcamp.com/" title="Trocotombix Bandcamp" target="_blank" rel="external noopener">Trocotombix</a></strong>, <strong><a href="https://www.facebook.com/Necrotanke-1613962138868746/" title="Necrotanke Facebook" target="_blank" rel="external noopener">Necrotanke</a></strong> o incluso <strong><a href="https://cabalgatacosmica.bandcamp.com/" title="Cabalgata Cósmica Bandcamp" target="_blank" rel="external noopener">Cabalgata Cósmica</a></strong>, que a su manera, también considero algo extremo.
 
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <ins class="adsbygoogle"
