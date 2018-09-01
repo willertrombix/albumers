@@ -10,6 +10,9 @@ keywords = [
   "discos que cambian vidas"
 ]
 tags = ["Pantera", "The Great Southern Trendkill", "Trocotombix", "Necrotanke", "Cabalgata Cósmica"] 
+images = [
+    "https://albumers.org/images/pantera-the-great-southern-trendkill-album-and-me.jpg"
+] # Suggested, controls default Open Graph images
 draft = false
 +++  
 <h2>Inicio la sección conmigo mismo.</h2>
