@@ -9,7 +9,7 @@ keywords = [
   "entrevista sobre discos",
   "discos que cambian vidas"
 ]
-tags = ["Pantera", "The Great Southern Trendkill", "Trocotombix", "Necrotanke"] 
+tags = ["Pantera", "The Great Southern Trendkill", "Trocotombix", "Necrotanke", "Cabalgata Cósmica"] 
 draft = false
 +++  
 <h2>Inicio la sección conmigo mismo.</h2>
