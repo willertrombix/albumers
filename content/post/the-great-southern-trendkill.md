@@ -18,7 +18,7 @@ draft = false
 <h2>Inicio la sección conmigo mismo.</h2>
 A riesgo de parecer ególatra, lo cierto es que necesito dar bola a la web con un primer contenido, y antes de enrolar a nadie he querido experimentar con algo facilito :)
 
-El mecanismo es fácil: tan solo hay que hacer un breve ejercicio de instrospección (o memoria, si se quiere) con alguna dosis de nostalgia y poner por escrito lo que sentí al escuchar por primera vez The Great Southern trendkill: el pepinazo de Pantera que me cambió la vida.
+El mecanismo es fácil: tan solo hay que hacer un breve ejercicio de instrospección (o memoria, si se quiere) con alguna dosis de nostalgia y poner por escrito lo que sentí al escuchar por primera vez The Great Southern Trendkill: el pepinazo de Pantera que me cambió la vida.
 
 <img
   data-sizes="auto"
@@ -47,7 +47,7 @@ Fue una amiga del colegio la que me pasó el disco en una cinta de cassete TDK g
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-Por aquellos entonces mi colección de discos estaba poblada de música reivindicativa cantada en español (Def Con Dos, Reincidentes, La Polla Records, Soziedad Alcohólica, etc.) Así que os podéis imaginar la ruptura de conceptos que supuso escuchar el alarido con que el tito <strong>Phil Anselmo</strong> -cabreado hasta la médula con la escena metalera, el postureo y las revistas especializadas de música-,  descarga toda su rabia de un plumazo. 
+Por aquellos entonces mi colección de discos estaba poblada de música reivindicativa cantada en español (Def Con Dos, Reincidentes, La Polla Records, Soziedad Alkohólika, etc.) Así que os podéis imaginar la ruptura de conceptos que supuso escuchar el alarido con que el tito <strong>Phil Anselmo</strong> -cabreado hasta la médula con la escena metalera, el postureo y las revistas especializadas de música-,  descarga toda su rabia de un plumazo. 
 
 <div class="alert alert-warning">
 "¡Joder, qué mierda es esta!", pensé.
@@ -59,7 +59,7 @@ Por aquellos entonces mi colección de discos estaba poblada de música reivindi
 
 Todas las canciones me parecían siniestras, oscuras, jodidas al fin y al cabo. Y eso que me he dado cuenta después, con el paso de los años y tras haberlo escuchado centenas de veces, de lo agobiante y sucio que es el álbum. Mis oidos pipiolos de aquellos entonces lo percibían en alguna medida, pero solo a nivel de superficie, nada con lo que de verdad es este disco.
 
-A ello hay que sumar que no tenía ni pajolera de inglés como para entnder las intenciones de las letras, el slang versado, el contexto en que se escribían y la lectura entre líneas. Ahora que sí puedo adentrarme más en los textos, acabo de entender toda la dimensión podrida de este disco.
+A ello hay que sumar que no tenía ni pajolera de inglés como para entender las intenciones de las letras, el slang versado, el contexto en que se escribían y la lectura entre líneas. Ahora que sí puedo adentrarme más en los textos, acabo de entender toda la dimensión podrida de este disco.
 
 <div class="alert alert-warning">
 Escuchar "13 Steps To Nowhere" y cagarme de miedo con el efecto de las notas oprimiéndome el cerebro, en la claustrofobia y aislamiento del Walkman. ¡Eso engancha!
