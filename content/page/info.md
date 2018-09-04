@@ -11,7 +11,7 @@ tags = ["Albumers"]
 draft = false
 toc = false
 +++  
-<p>##Esta web quiere ser un listado de los discos que cambiaron la vida de sus oyentes. Esos que les llevaron a querer aprender un instrumento, formar un grupo o no, pasar horas en un local de ensayo, vivir penurias y momentos de alegría aquí y allá.</p>
+<p>##Esta web quiere ser un listado de los discos que cambiaron la vida de sus oyentes. Esos que les llevaron a querer aprender un instrumento, formar un grupo o no, pasar horas en un local de ensayo, montar una distri o un sello, organizar bolos, vivir penurias y momentos de alegría aquí y allá.</p>
 
 <p>Ese álbum, esa colección de canciones, melodías, ritmos, riffs o gruñidos que despertaron algo en sus entrañas, que supusieron la primera piedra sobre la que erigir una especial relación con la música, que se cultiva y refina año tras año.</p>
 
