@@ -94,4 +94,4 @@ footnoteReturnLinkContents = "↩" # Provides a nicer footnote return link
   name = "Contacto"
   weight = 4
   identifier = "contact"
-  url = "/contact/contact-page/"
+  url = "/contact/form/"
