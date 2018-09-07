@@ -90,3 +90,8 @@ footnoteReturnLinkContents = "↩" # Provides a nicer footnote return link
   weight = 3
   identifier = "info"
   url = "/page/info/"
+[[menu.main]]
+  name = "Contacto"
+  weight = 4
+  identifier = "contact"
+  url = "/contact/form/"
