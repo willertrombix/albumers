@@ -21,3 +21,11 @@ a[itemprop="url"]:hover {
 img {
     width: 100%;
 }
+.btn-form {
+	width: 62%;
+}
+@media (max-width: 768px) {
+ .btn-form {
+	width: 100%;
+}
+}
