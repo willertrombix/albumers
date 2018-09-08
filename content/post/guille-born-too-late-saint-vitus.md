@@ -152,6 +152,19 @@ Preparé un bong, abrí una cerveza y acabé igual de ciego que siempre que me p
 
 Lo escucho con la frecuencia que se merece.
 
+<div class="banner-box">
+<a href="https://rover.ebay.com/rover/1/1185-53479-19255-0/1?icep_id=114&ipn=icep&toolid=20004&campid=5338374800&mpre=https%3A%2F%2Fwww.ebay.es%2Fitm%2FSAINT-VITUS-BORN-TOO-LATE-LP-VINYL-NEW%2F332731566646%3Fhash%3Ditem4d7858ca36%3Ag%3AyR4AAOSwqw1bV5cn" target="_blank" rel="nofollow noopener">
+<img
+  data-sizes="auto"
+  data-src="/images/Saint-Vitus-Born-Too-Late Banner.jpg"
+  alt="Saint Vitus Born Too Late Comprar vinilo"
+  class="lazyload banner"> 
+</a>
+
+<p><a href="https://rover.ebay.com/rover/1/1185-53479-19255-0/1?icep_id=114&ipn=icep&toolid=20004&campid=5338374800&mpre=https%3A%2F%2Fwww.ebay.es%2Fitm%2FSAINT-VITUS-BORN-TOO-LATE-LP-VINYL-NEW%2F332731566646%3Fhash%3Ditem4d7858ca36%3Ag%3AyR4AAOSwqw1bV5cn" target="_blank" rel="external nofollow noopener">Hazte con el puto vinilo "Born Too Late" de Saint Vitus.</a></p>
+</div>
+
+
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <ins class="adsbygoogle"
      style="display:block; text-align:center;"
