@@ -28,7 +28,11 @@ img.banner {
   margin: 0px 20px 0px 0px;
   padding: 10px;
 }
-.banner-box{
+.italic {
+  font-style: italic;
+  text-decoration: underline;
+}
+.banner-box {
   width: 100%;
   border: 5px solid #ff3493;
   overflow: auto;
