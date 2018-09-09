@@ -1,6 +1,6 @@
 +++
 title = "Guille & Born Too Late (Saint Vitus)"
-date = 2018-08-18T08:25:33+02:00
+date = 2018-09-08
 description = "Guille (Double Horse) habla del disco de Saint Vitus que le voló el tarro"
 keywords = [
   "Saint Vitus",
