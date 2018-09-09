@@ -7,7 +7,7 @@ keywords = [
   "Lazharus",
   "Anal War of Gods",
   "Today Is The Day",
-  "Temple of the Morning Star",
+  "Temple of the Morning Star,"
 ]
 tags = ["VOR", "Lazharus", "Anal War of Gods", "Today Is The Day", "Temple of the Morning Star"] 
 images = [
@@ -19,7 +19,6 @@ draft = false
 Todo lo que toca Iván lo convierte en buena mierda. De esa que te perturba y no te deja dormir por las noches. 
 
 Si tuvieras una <strong>pesadilla en Elm Street</strong> seguramente serían las cuerdas de su bajo en <strong><a href="https://vorband.bandcamp.com/" title="VOR Bandcamp" target="_blank" rel="external noopener">VOR</a></strong> las que sonarían mientras Freddie se te aparece por la espalda. 
-
 
 <div class="video-container">
 <iframe width="100%" height="415" src="https://www.youtube.com/embed/7Y03gmdpTUU?rel=0" title="VOR - Cudgel, Depravador álbum, videoclip oficial" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
@@ -88,13 +87,6 @@ Como último apunte de este poliédrico músico del Noise en general que es Ivá
 </tbody>
 </table>
 
-<div class="alert alert-error">
-<strong>Nota del redactor:</strong> He tardado <strong>más tiempo en recopilar todas las bandas</strong> en las que estos cabrones han tocado a lo largo de su vida que en todo lo demás. ¡Putos genios!
-</div>
-<div class="alert alert-error">
-<strong>Nota del redactor 2:</strong> Jamás se me olvidará la primera vez que vi en directo a <strong>Wilson</strong>. Fue en un bolo con <strong>Scrub y Topocho's Crust Band en la CSA La Vayesa</strong> (creo) y me voló la cabeza muchísimo. 
-</div>
-
 <div class="alert alert-success">
 Aquí Iván con su hija Noa, a la que está enseñándole ya MUSICOTE desde bein pequeña
 </div>
@@ -110,41 +102,6 @@ Pregunta: ¿Dónde y cómo descubriste el disco que te cambió la vida?
 </div>
 
 RESPUESTA:
-
-Es una casualidad que justo ahora empieces con la página tronco, ya que <strong>hace poco me planteé esta misma pregunta</strong> e independientemente de hasta cuando me quiera remontar el resultado es siempre el mismo. 
-
-Hay <strong>tres etapas importantes en mi pasión por la música</strong> que no es que sean muy originales ni extraordinarias pero joder, no estaría aquí ahora sentado delante del PC escribiendo esto sin esos <strong>casettes que traía mi primo Migue desde Madrid en los 90</strong>, ni esa vez que, escuchando un cd llamado <strong>“Explosión naranja”</strong> con mis colegas Sevi y Fran descubrí a <strong>Chococripis</strong> y <strong>Tos Felpudo</strong>.
-
-<div class="video-container">
-<iframe width="100%" height="415" src="https://www.youtube.com/embed/n5EFk_cd7sg?rel=0" title="Chococrispis - Concierto Kasal popular Valencia 23/11/91" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-</div>
-
-
-La <strong>tercera</strong> fue con el <strong><a href="https://es.wikipedia.org/wiki/Soulseek" target="_blank" rel= "external nofollow noopener"> Soulseek</a></strong>, cuando entré directamente en el subsuelo de la música y donde a cada paso que daba me sentía más y más a gusto, hasta que escuché un grupo con <strong>una batería bestial</strong>, se lo puse a mi hermano y nos dijimos <strong>¡joder, tenemos que hacer esto!</strong> 
-
-<div class="alert alert-success">
-El grupo en cuestión era <strong><a href="https://zanussi.bandcamp.com/" title="Zanussi Bandcamp" target="_blank" rel="external noopener">Zanussi</a></strong>.
-</div>
-
-Cuando me hice con <strong>el Split compartido con E-150</strong>, entró directamente en el top de mi colección. 
-
-Tanto el concepto, como el diseño, la portada con <strong>Sacco y Vanzetti</strong> (esa es otra, la parte didáctica, la que te incita a leer y descubrir por uno mismo una parte de la historia que no te cuentan), cada uno de los temazos que contiene es insuperable. 
-
-<img
-  data-sizes="auto"
-  data-src="/images/zanussi-ep-e-150-portada-Sacco-y-Vanzetti.jpg"
-  alt="Zanussi - split EP dejemos el pesimismo para tiempos mejores"
-  class="lazyload">
-
-La cara de E-150 es una gozada también, pero ese caos brutal y redondo de Zanussi me enamoró.
-
-<div class="alert alert-warning">
-"Le puse Zanussi a mi hermano y nos dijimos <strong>¡joder, tenemos que hacer esto!</strong>."
-</div>
-
-<div class="video-container">
-<iframe width="100%" height="415" src="https://www.youtube.com/embed/8w4CuoVMaks?rel=0" title="Zanussi, Grindcore, Split E-150" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-</div>
 
 
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
@@ -164,42 +121,11 @@ Pregunta: ¿Tienes alguna anécdota que te haya pasado escuchando el disco o al 
 
 RESPUESTA:
 
-No tengo anécdotas de casi nada y <strong>sólo me sé dos chistes, soy un pelmazo.</strong>
-
-La primera vez que vi en directo a <strong>Óscar</strong> (<span class="italic">NDR: el batería de Zanussi</span>) fue ya con <strong>Car Crash Sleep</strong> en un bolo que dieron en L´Eliana, me perdí la primera época de Zanussi, pero flipé igualmente. Llego tarde a todo.
-
-<img
-  data-sizes="auto"
-  data-src="/images/The-Jukebox-Scenario-and-The-Car-Crash-Sleep.jpg"
-  alt="The Jukebox Scenario and The Car Crash Sleep EP"
-  class="lazyload">
-
 <div class="alert alert-info">
 Pregunta: ¿Por qué te influenció tanto? ¿Cambió tu manera de pensar y entender la música?  
 </div>
 
 RESPUESTA:
-
-Totalmente. 
-
-<div class="alert alert-warning">
-"Escuchar a <strong>Zanussi</strong> y en concreto este disco actuó como una especie de <strong>revelación mágica</strong> justo en el momento adecuado."
-</div>
-
-Fue descubrir una verdad fundamental que hasta ese momento la intuía pero la tenía velada. 
-
-Por mucha buena música que hubiera escuchado, esto sintetizaba perfectamente el camino que quería seguir. 
-
-Todo el <strong>hardcore</strong> que había escuchado tenía su sentido justo ahí. Allí era donde quería estar sin dudarlo. 
-
-<div class="video-container">
-<iframe width="100%" height="415" src="https://www.youtube.com/embed/Y-iSacyyBHc?rel=0" title="ZANUSSI en Directo - Orxata Fest 2008" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-</div> 
-
-Entré de cabeza en una parte de la música que desconocía. La <strong>autogestión y la colaboración</strong> como su parte fundamental. 
-
-En cuanto a lo musical fue la culminación de una etapa en la que cada vez me fijaba más en la parte rítmica de los grupos. <strong>Es curioso que tocando la guitarra mi mayor influencia haya sido un batería.</strong>
-
 
 <div class="alert alert-info">
 Pregunta: ¿Se sigue notando hoy en día el poso que me dejó?  
@@ -207,27 +133,12 @@ Pregunta: ¿Se sigue notando hoy en día el poso que me dejó?
 
 RESPUESTA:
 
-Creo que por <strong>muy gallofo</strong> que me esté volviendo con el transcurso de los años, <strong>siempre me quedará ese lado cafre y rítmico</strong>, que igual canalizo de forma diferente a cuando empecé allá por el 2000 y poco pero ahí está. 
-
-De hecho, <strong>una parte fundamental de un riff para mí es el ritmo.</strong>
-
-Hoy mismo he enviado a los Capajes un <strong>audio con claqueta y una explicación del compás de un riff</strong> que nos está costando más de la cuenta. 
-
-Como siempre seguro <strong>se lo pasan por el forro de los cojones</strong>, pero me da igual y les sigo llenado el móvil con mierdas que nunca escuchan.
-
 <div class="alert alert-info">
 Pregunta: ¿Sigues escuchando ese disco? ¿Con qué frecuencia? 
 </div>
 
 RESPUESTA:
 
-La verdad es que desde hace bastante tiempo estoy reventando los <strong>últimos discos que han sacado dos grupos ingleses</strong> que me flipan.
-
-No diré su nombre porque, tal y como dijeron <strong>Zanussi</strong> en una entrevista <strong>“así no sabrás de quien me copio”.</strong>
-
-<div class="alert alert-error">
-<strong>Nota del redactor:</strong> Y así, queridxs amigxs, es como se deja a alguien con las ganas de saber más. Te lo sonsacaré algún día, Carlos :)
-</div>
 
 <div class="banner-box">
 <a href="http://www.culpablerecords.com/portfolio/capaje-redox-cr14/" target="_blank" rel="nofollow noopener">
