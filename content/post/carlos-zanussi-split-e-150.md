@@ -1,6 +1,6 @@
 +++
 title = "Carlos & el split de Zanussi con E-150"
-date = 2018-08-18T08:25:33+02:00
+date = 2018-09-09
 description = "Carlos (Capaje) habla de cómo los ritmos de batería le influyeron como guitarrista"
 keywords = [
   "Zanussi",
