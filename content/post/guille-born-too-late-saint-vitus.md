@@ -43,6 +43,8 @@ Dentro de poco prevén sacar su próximo disco, así que si te va su onda, sígu
 Pregunta: ¿Dónde y cómo descubriste el disco que te cambió la vida?
 </div>
 
+RESPUESTA:
+
 El disco del que quiero hablar es <strong>Born Too Late</strong> de <strong>Saint Vitus</strong>. Lo descubrí cuando tenía 22 años y viajaba en el tren, en un viaje de vuelta de Barcelona. 
 
 Mi novia me enseñó algunos temas míticos como “Born too late” o “Dying inside” y yo me quedé asombrado ante esa manera de hacer música. Para mí era como coger un disco de Saxon y ralentizarlo, era heavy metal lento y pesado en el que podías apreciar cada golpe como algo único y aislado. 
@@ -65,6 +67,8 @@ Mi novia me enseñó algunos temas míticos como “Born too late” o “Dying 
 <div class="alert alert-info">
 Pregunta: ¿Tienes alguna anécdota que te haya pasado escuchando el disco o al grupo? 
 </div>
+
+RESPUESTA:
 
 Al poco de escucharlo compramos el disco y lo escuchamos infinidad de veces. He de decir que muchas de estas escuchas se realizaban en estados de embriaguez, por lo que era muy divertido y estimulante. 
 
@@ -110,6 +114,8 @@ Fue algo inolvidable, mi estado de euforia en ese momento era indescriptible.
 Pregunta: ¿Por qué te influenció tanto? ¿Cambió tu manera de pensar y entender la música?  
 </div>
 
+RESPUESTA:
+
 Cambió totalmente mi forma de ver la música. Como ya he dicho, para mí era una nueva forma de escuchar el <strong>heavy metal</strong>, un género que desde mucho antes escuchaba. 
 
 Pero esto era algo nuevo, una nueva forma de expresar la rabia, más lenta, más pesada, más contundente.
@@ -119,6 +125,8 @@ Conseguía que la música me llegase más hondo. Recuerdo sentirme totalmente id
 <div class="alert alert-info">
 Pregunta: ¿Se sigue notando hoy en día el poso que me dejó?  
 </div>
+
+RESPUESTA:
 
 Enormemente. Estoy sumergido día a día en las peores pesadillas por su culpa. (Risas) 
 
@@ -145,6 +153,8 @@ Realmente el paso fúnebre siempre ha sido lento…
 <div class="alert alert-info">
 Pregunta: ¿Sigues escuchando ese disco? ¿Con qué frecuencia? 
 </div>
+
+RESPUESTA:
 
 Mientras escribía esta entrevista volví a sacar el disco de la estantería y a hacerlo rodar. 
 

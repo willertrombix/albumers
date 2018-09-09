@@ -30,6 +30,10 @@ Lo suyo no solo ha sido unir personalidades e inquietudes. Lo suyo es mucho más
 
 <strong>CA y JE son hermanos</strong>, y a eso se le presupone un grado de entendimiento superior, además de haber estado ya anteriormente en super bandas muy admiradas como <strong><a href="https://hiroshi.bandcamp.com/" title="Hirosi Bandcamp" target="_blank" rel="external noopener">Hirosi</a></strong>, <strong><a href="https://www.youtube.com/watch?v=DY46y9MZvE8" title="Chancleta Grindcore Valencia" target="_blank" rel="external nofollow">Chancleta</a></strong> o <strong><a href="https://wilsoncrece.bandcamp.com/releases" title="Wilson Bandcamp Grindcore Valencia" target="_blank" rel="external noopener">Wilson</a></strong> (banda esta última que montaron con Dani, batería de <strong><a href="https://trocotombix.bandcamp.com/" title="Trocotombix Bandcamp" target="_blank" rel="external noopener">Trocotombix</a></strong>, al que me consta que le influyeron para empezar a soltarse con los <strong><a href="https://www.youtube.com/watch?v=QQ2gkF141TE" target="_blank" rel="external nofollow">blast beats</a></strong>, así que les debo muchísimo). 
 
+<div class="video-container">
+<iframe width="100%" height="415" src="https://www.youtube.com/embed/DY46y9MZvE8?rel=0" title="Chancleta, Grindcore, Split Crani Séptic" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
+
 Si añades a la ecuación a <strong>una personalidad como la de PA</strong>, curtida en mil batallas y bandas de infinita variedad y calidad como <strong><a href="https://milkhouseoficial.bandcamp.com/" title="Milkhouse Bandcamp" target="_blank" rel="external noopener">Milkhouse</a></strong>, <strong><a href="https://www.youtube.com/watch?v=p3fJdbkwmfs" title="Heroïna Momentos de Pánico (Álbum Completo)" target="_blank" rel="external noopener">Heroïna</a></strong>, <strong><a href="https://desguace.bandcamp.com/" title="Desguace Bandcamp" target="_blank" rel="external noopener">Desguace</a></strong>, <strong><a href="https://madrepost.bandcamp.com/" title="Madre post Rock Hardcore Bandcamp" target="_blank" rel="external noopener">Madre</a></strong> (con Xiu de <strong>Trocotombix</strong> a la guitarra y voces, por cierto, que Valencia es un moco), <strong><a href="https://pissonnation.bandcamp.com/" title="Piss On Nation Bandcamp" target="_blank" rel="external noopener">Piss On Nation</a></strong> (y vete a saber si me dejo alguna) además de ser el puto CEO de <strong><a href="http://www.culpablerecords.com/" title="Culpable Records Discográfica" target="_blank" rel="external noopener">Culpable Records</a></strong>, pues te salen las cuentas.
 
 ¿Qué cuentas? Pues que <strong>1+1=2000 bofetadas</strong>, una tras otra, con la mano abierta. Ostias bien dadas, y no dadas por dar. 
@@ -58,6 +62,8 @@ Aquí abajo Carlos sujetando el disco que le cambió
 <div class="alert alert-info">
 Pregunta: ¿Dónde y cómo descubriste el disco que te cambió la vida?
 </div>
+
+RESPUESTA:
 
 Es una casualidad que justo ahora empieces con la página tronco, ya que <strong>hace poco me planteé esta misma pregunta</strong> e independientemente de hasta cuando me quiera remontar el resultado es siempre el mismo. 
 
@@ -90,6 +96,11 @@ La cara de E-150 es una gozada también, pero ese caos brutal y redondo de Zanus
 "Le puse Zanussi a mi hermano y nos dijimos <strong>¡joder, tenemos que hacer esto!</strong>."
 </div>
 
+<div class="video-container">
+<iframe width="100%" height="415" src="https://www.youtube.com/embed/8w4CuoVMaks?rel=0" title="Zanussi, Grindcore, Split E-150" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
+
+
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <ins class="adsbygoogle"
      style="display:block; text-align:center;"
@@ -105,6 +116,8 @@ La cara de E-150 es una gozada también, pero ese caos brutal y redondo de Zanus
 Pregunta: ¿Tienes alguna anécdota que te haya pasado escuchando el disco o al grupo? 
 </div>
 
+RESPUESTA:
+
 No tengo anécdotas de casi nada y <strong>sólo me sé dos chistes, soy un pelmazo.</strong>
 
 La primera vez que vi en directo a <strong>Óscar</strong> (<span class="italic">NDR: el batería de Zanussi</span>) fue ya con <strong>Car Crash Sleep</strong> en un bolo que dieron en L´Eliana, me perdí la primera época de Zanussi, pero flipé igualmente. Llego tarde a todo.
@@ -119,20 +132,34 @@ La primera vez que vi en directo a <strong>Óscar</strong> (<span class="italic"
 Pregunta: ¿Por qué te influenció tanto? ¿Cambió tu manera de pensar y entender la música?  
 </div>
 
-Totalmente. Entré de cabeza en una parte de la música que desconocía. 
+RESPUESTA:
 
-La <strong>autogestión</strong> como su parte fundamental. En cuanto a lo musical fue la culminación de una etapa en la que cada vez me fijaba más en la parte rítmica de los grupos. 
+Totalmente. 
 
-<strong>Es curioso que tocando la guitarra mi mayor influencia haya sido un batería.</strong>
+<div class="alert alert-warning">
+"Escuchar a <strong>Zanussi</strong> y en concreto este disco actuó como una especie de <strong>revelación mágica</strong> justo en el momento adecuado."
+</div>
+
+Fue descubrir una verdad fundamental que hasta ese momento la intuía pero la tenía velada. 
+
+Por mucha buena música que hubiera escuchado, esto sintetizaba perfectamente el camino que quería seguir. 
+
+Todo el <strong>hardcore</strong> que había escuchado tenía su sentido justo ahí. Allí era donde quería estar sin dudarlo. 
 
 <div class="video-container">
 <iframe width="100%" height="415" src="https://www.youtube.com/embed/Y-iSacyyBHc?rel=0" title="ZANUSSI en Directo - Orxata Fest 2008" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-</div>
+</div> 
+
+Entré de cabeza en una parte de la música que desconocía. La <strong>autogestión y la colaboración</strong> como su parte fundamental. 
+
+En cuanto a lo musical fue la culminación de una etapa en la que cada vez me fijaba más en la parte rítmica de los grupos. <strong>Es curioso que tocando la guitarra mi mayor influencia haya sido un batería.</strong>
 
 
 <div class="alert alert-info">
 Pregunta: ¿Se sigue notando hoy en día el poso que me dejó?  
 </div>
+
+RESPUESTA:
 
 Creo que por <strong>muy gallofo</strong> que me esté volviendo con el transcurso de los años, <strong>siempre me quedará ese lado cafre y rítmico</strong>, que igual canalizo de forma diferente a cuando empecé allá por el 2000 y poco pero ahí está. 
 
@@ -145,6 +172,8 @@ Como siempre seguro <strong>se lo pasan por el forro de los cojones</strong>, pe
 <div class="alert alert-info">
 Pregunta: ¿Sigues escuchando ese disco? ¿Con qué frecuencia? 
 </div>
+
+RESPUESTA:
 
 La verdad es que desde hace bastante tiempo estoy reventando los <strong>últimos discos que han sacado dos grupos ingleses</strong> que me flipan.
 
