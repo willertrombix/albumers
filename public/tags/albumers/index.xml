@@ -5,11 +5,23 @@
     <link>https://albumers.org/tags/albumers/</link>
     <description>Recent content in Albumers on ALBUMERS - Gente que habla de los álbumes que les cambiaron la vida</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>es-es</language>
-    <lastBuildDate>Tue, 28 Aug 2018 00:00:00 +0200</lastBuildDate>
+    <language>es</language>
+    <lastBuildDate>Thu, 06 Sep 2018 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://albumers.org/tags/albumers/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Contacta!</title>
+      <link>https://albumers.org/contact/form/</link>
+      <pubDate>Thu, 06 Sep 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://albumers.org/contact/form/</guid>
+      <description>##Participa :)
+Si te gusta el proyecto y quieres enviarnos tu texto rememorando esos momentos de pura magia descubriendo el álbum de tu vida, eres bienvenidx.
+Escríbeme un mensaje privado en mi perfil de Facebook o envíamos un correo a través del formulario de aquí abajo con el texto y te escribiré de vuelta pidiéndote un par de fotos tuyas para incluirlas en la web.
+¡Gracias!</description>
+    </item>
     
     <item>
       <title>¿Qué es ALBUMERS?</title>
@@ -17,7 +29,7 @@
       <pubDate>Tue, 28 Aug 2018 00:00:00 +0200</pubDate>
       
       <guid>https://albumers.org/page/info/</guid>
-      <description>##Esta web quiere ser un listado de los discos que cambiaron la vida de sus oyentes. Esos que les llevaron a querer aprender un instrumento, formar un grupo o no, pasar horas en un local de ensayo, vivir penurias y momentos de alegría aquí y allá.
+      <description>##Esta web quiere ser un listado de los discos que cambiaron la vida de sus oyentes. Esos que les llevaron a querer aprender un instrumento, formar un grupo o no, pasar horas en un local de ensayo, montar una distri o un sello, organizar bolos, vivir penurias y momentos de alegría aquí y allá.
 Ese álbum, esa colección de canciones, melodías, ritmos, riffs o gruñidos que despertaron algo en sus entrañas, que supusieron la primera piedra sobre la que erigir una especial relación con la música, que se cultiva y refina año tras año.</description>
     </item>
     

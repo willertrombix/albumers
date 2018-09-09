@@ -5,18 +5,63 @@
     <link>https://albumers.org/tags/</link>
     <description>Recent content in Tags on ALBUMERS - Gente que habla de los álbumes que les cambiaron la vida</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>es-es</language>
-    <lastBuildDate>Tue, 28 Aug 2018 00:00:00 +0200</lastBuildDate>
+    <language>es</language>
+    <lastBuildDate>Thu, 06 Sep 2018 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://albumers.org/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title></title>
+      <link>https://albumers.org/tags/</link>
+      <pubDate>Thu, 06 Sep 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://albumers.org/tags/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Albumers</title>
       <link>https://albumers.org/tags/albumers/</link>
-      <pubDate>Tue, 28 Aug 2018 00:00:00 +0200</pubDate>
+      <pubDate>Thu, 06 Sep 2018 00:00:00 +0200</pubDate>
       
       <guid>https://albumers.org/tags/albumers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Born Too Late</title>
+      <link>https://albumers.org/tags/born-too-late/</link>
+      <pubDate>Sat, 08 Sep 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://albumers.org/tags/born-too-late/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cabalgata Cósmica</title>
+      <link>https://albumers.org/tags/cabalgata-c%C3%B3smica/</link>
+      <pubDate>Sat, 18 Aug 2018 08:25:33 +0200</pubDate>
+      
+      <guid>https://albumers.org/tags/cabalgata-c%C3%B3smica/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Capaje</title>
+      <link>https://albumers.org/tags/capaje/</link>
+      <pubDate>Sun, 09 Sep 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://albumers.org/tags/capaje/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Double Horse</title>
+      <link>https://albumers.org/tags/double-horse/</link>
+      <pubDate>Sat, 08 Sep 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://albumers.org/tags/double-horse/</guid>
       <description></description>
     </item>
     
@@ -39,6 +84,15 @@
     </item>
     
     <item>
+      <title>Saint Vitus</title>
+      <link>https://albumers.org/tags/saint-vitus/</link>
+      <pubDate>Sat, 08 Sep 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://albumers.org/tags/saint-vitus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>The Great Southern Trendkill</title>
       <link>https://albumers.org/tags/the-great-southern-trendkill/</link>
       <pubDate>Sat, 18 Aug 2018 08:25:33 +0200</pubDate>
@@ -53,6 +107,15 @@
       <pubDate>Sat, 18 Aug 2018 08:25:33 +0200</pubDate>
       
       <guid>https://albumers.org/tags/trocotombix/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zanussi</title>
+      <link>https://albumers.org/tags/zanussi/</link>
+      <pubDate>Sun, 09 Sep 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://albumers.org/tags/zanussi/</guid>
       <description></description>
     </item>
     
