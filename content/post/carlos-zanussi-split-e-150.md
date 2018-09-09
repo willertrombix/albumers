@@ -30,6 +30,10 @@ Lo suyo no solo ha sido unir personalidades e inquietudes. Lo suyo es mucho más
 
 <strong>CA y JE son hermanos</strong>, y a eso se le presupone un grado de entendimiento superior, además de haber estado ya anteriormente en super bandas muy admiradas como <strong><a href="https://hiroshi.bandcamp.com/" title="Hirosi Bandcamp" target="_blank" rel="external noopener">Hirosi</a></strong>, <strong><a href="https://www.youtube.com/watch?v=DY46y9MZvE8" title="Chancleta Grindcore Valencia" target="_blank" rel="external nofollow">Chancleta</a></strong> o <strong><a href="https://wilsoncrece.bandcamp.com/releases" title="Wilson Bandcamp Grindcore Valencia" target="_blank" rel="external noopener">Wilson</a></strong> (banda esta última que montaron con Dani, batería de <strong><a href="https://trocotombix.bandcamp.com/" title="Trocotombix Bandcamp" target="_blank" rel="external noopener">Trocotombix</a></strong>, al que me consta que le influyeron para empezar a soltarse con los <strong><a href="https://www.youtube.com/watch?v=QQ2gkF141TE" target="_blank" rel="external nofollow">blast beats</a></strong>, así que les debo muchísimo). 
 
+<div class="video-container">
+<iframe width="100%" height="415" src="https://www.youtube.com/embed/DY46y9MZvE8?rel=0" title="Chancleta, Grindcore, Split Crani Séptic" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
+
 Si añades a la ecuación a <strong>una personalidad como la de PA</strong>, curtida en mil batallas y bandas de infinita variedad y calidad como <strong><a href="https://milkhouseoficial.bandcamp.com/" title="Milkhouse Bandcamp" target="_blank" rel="external noopener">Milkhouse</a></strong>, <strong><a href="https://www.youtube.com/watch?v=p3fJdbkwmfs" title="Heroïna Momentos de Pánico (Álbum Completo)" target="_blank" rel="external noopener">Heroïna</a></strong>, <strong><a href="https://desguace.bandcamp.com/" title="Desguace Bandcamp" target="_blank" rel="external noopener">Desguace</a></strong>, <strong><a href="https://madrepost.bandcamp.com/" title="Madre post Rock Hardcore Bandcamp" target="_blank" rel="external noopener">Madre</a></strong> (con Xiu de <strong>Trocotombix</strong> a la guitarra y voces, por cierto, que Valencia es un moco), <strong><a href="https://pissonnation.bandcamp.com/" title="Piss On Nation Bandcamp" target="_blank" rel="external noopener">Piss On Nation</a></strong> (y vete a saber si me dejo alguna) además de ser el puto CEO de <strong><a href="http://www.culpablerecords.com/" title="Culpable Records Discográfica" target="_blank" rel="external noopener">Culpable Records</a></strong>, pues te salen las cuentas.
 
 ¿Qué cuentas? Pues que <strong>1+1=2000 bofetadas</strong>, una tras otra, con la mano abierta. Ostias bien dadas, y no dadas por dar. 
@@ -91,6 +95,11 @@ La cara de E-150 es una gozada también, pero ese caos brutal y redondo de Zanus
 <div class="alert alert-warning">
 "Le puse Zanussi a mi hermano y nos dijimos <strong>¡joder, tenemos que hacer esto!</strong>."
 </div>
+
+<div class="video-container">
+<iframe width="100%" height="415" src="https://www.youtube.com/embed/8w4CuoVMaks?rel=0" title="Zanussi, Grindcore, Split E-150" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
+
 
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <ins class="adsbygoogle"
