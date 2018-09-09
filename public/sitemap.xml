@@ -3,6 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://albumers.org/post/carlos-zanussi-split-e-150/</loc>
+    <lastmod>2018-09-09T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://albumers.org/post/guille-born-too-late-saint-vitus/</loc>
+    <lastmod>2018-09-08T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://albumers.org/contact/form/</loc>
+    <lastmod>2018-09-06T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://albumers.org/page/success/</loc>
+    <lastmod>2018-09-06T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://albumers.org/page/info/</loc>
     <lastmod>2018-08-28T00:00:00+02:00</lastmod>
   </url>
@@ -13,19 +33,55 @@
   </url>
   
   <url>
+    <loc>https://albumers.org/tags/</loc>
+    <lastmod>2018-09-06T00:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://albumers.org/</loc>
-    <lastmod>2018-08-28T00:00:00+02:00</lastmod>
+    <lastmod>2018-09-09T00:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://albumers.org/tags/albumers/</loc>
-    <lastmod>2018-08-28T00:00:00+02:00</lastmod>
+    <lastmod>2018-09-06T00:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://albumers.org/tags/born-too-late/</loc>
+    <lastmod>2018-09-08T00:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://albumers.org/search/</loc>
+  </url>
+  
+  <url>
+    <loc>https://albumers.org/tags/cabalgata-c%C3%B3smica/</loc>
+    <lastmod>2018-08-18T08:25:33+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://albumers.org/tags/capaje/</loc>
+    <lastmod>2018-09-09T00:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://albumers.org/contact/</loc>
+    <lastmod>2018-09-06T00:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://albumers.org/tags/double-horse/</loc>
+    <lastmod>2018-09-08T00:00:00+02:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -36,7 +92,7 @@
   
   <url>
     <loc>https://albumers.org/page/</loc>
-    <lastmod>2018-08-28T00:00:00+02:00</lastmod>
+    <lastmod>2018-09-06T00:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -48,13 +104,19 @@
   
   <url>
     <loc>https://albumers.org/post/</loc>
-    <lastmod>2018-08-18T08:25:33+02:00</lastmod>
+    <lastmod>2018-09-09T00:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://albumers.org/tags/saint-vitus/</loc>
+    <lastmod>2018-09-08T00:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://albumers.org/tags/</loc>
-    <lastmod>2018-08-28T00:00:00+02:00</lastmod>
+    <lastmod>2018-09-06T00:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -72,6 +134,12 @@
   
   <url>
     <loc>https://albumers.org/true/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://albumers.org/tags/zanussi/</loc>
+    <lastmod>2018-09-09T00:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   

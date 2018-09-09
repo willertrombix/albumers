@@ -5,11 +5,56 @@
     <link>https://albumers.org/</link>
     <description>Recent content on ALBUMERS - Gente que habla de los álbumes que les cambiaron la vida</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>es-es</language>
-    <lastBuildDate>Tue, 28 Aug 2018 00:00:00 +0200</lastBuildDate>
+    <language>es</language>
+    <lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://albumers.org/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Carlos &amp; el split de Zanussi con E-150</title>
+      <link>https://albumers.org/post/carlos-zanussi-split-e-150/</link>
+      <pubDate>Sun, 09 Sep 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://albumers.org/post/carlos-zanussi-split-e-150/</guid>
+      <description>Capaje es la melodía que te golpea en la cara Es difícil catalogar la música de Capaje. Y eso en sí mismo ya dice mucho de la banda.
+Lo único que se da por cierto es que son intensos, son sinceros y que detrás de su música hay un discurso pensado y bien pulido.
+Discurso que llevan moldeando desde 2009, año en que la banda, compuesta por Carlos (CA), Pablo (PA) y Jesús (JE) decidieron sudar juntos en el local de ensayo.</description>
+    </item>
+    
+    <item>
+      <title>Guille &amp; Born Too Late (Saint Vitus)</title>
+      <link>https://albumers.org/post/guille-born-too-late-saint-vitus/</link>
+      <pubDate>Sat, 08 Sep 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://albumers.org/post/guille-born-too-late-saint-vitus/</guid>
+      <description>Double Horse es Doom, Psicodelia, Densidad y Brujerismo Quienes ya conocen Double Horse, y sobre todo quienes les han visto en directo, saben que lo suyo son los riffs bañados en el terror de serie B, en el ocultismo y los devaneos satánicos de las primeras bandas que forjaron el Heavy Metal y el Heavy Rock de los años 70 y primeros 80.
+Cada canción es como ir en el puto Tren de la Bruja, pero lo que hay a la vuelta de cada curva no son zombies de cartón-piedra sino toneladas de Hyper Fuzz y tritonos para cagarse en los pantalones.</description>
+    </item>
+    
+    <item>
+      <title>Contacta!</title>
+      <link>https://albumers.org/contact/form/</link>
+      <pubDate>Thu, 06 Sep 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://albumers.org/contact/form/</guid>
+      <description>##Participa :)
+Si te gusta el proyecto y quieres enviarnos tu texto rememorando esos momentos de pura magia descubriendo el álbum de tu vida, eres bienvenidx.
+Escríbeme un mensaje privado en mi perfil de Facebook o envíamos un correo a través del formulario de aquí abajo con el texto y te escribiré de vuelta pidiéndote un par de fotos tuyas para incluirlas en la web.
+¡Gracias!</description>
+    </item>
+    
+    <item>
+      <title>Gracias!</title>
+      <link>https://albumers.org/page/success/</link>
+      <pubDate>Thu, 06 Sep 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://albumers.org/page/success/</guid>
+      <description>##Tu mensaje ha sido enviado :)
+En breve me pondré en contacto contigo para publicar tu texto.
+Mientras tanto, échate un voltio por la web para leer las últimas novedades.
+¡Nos leemos!</description>
+    </item>
     
     <item>
       <title>¿Qué es ALBUMERS?</title>
@@ -17,7 +62,7 @@
       <pubDate>Tue, 28 Aug 2018 00:00:00 +0200</pubDate>
       
       <guid>https://albumers.org/page/info/</guid>
-      <description>##Esta web quiere ser un listado de los discos que cambiaron la vida de sus oyentes. Esos que les llevaron a querer aprender un instrumento, formar un grupo o no, pasar horas en un local de ensayo, vivir penurias y momentos de alegría aquí y allá.
+      <description>##Esta web quiere ser un listado de los discos que cambiaron la vida de sus oyentes. Esos que les llevaron a querer aprender un instrumento, formar un grupo o no, pasar horas en un local de ensayo, montar una distri o un sello, organizar bolos, vivir penurias y momentos de alegría aquí y allá.
 Ese álbum, esa colección de canciones, melodías, ritmos, riffs o gruñidos que despertaron algo en sus entrañas, que supusieron la primera piedra sobre la que erigir una especial relación con la música, que se cultiva y refina año tras año.</description>
     </item>
     
@@ -28,7 +73,7 @@ Ese álbum, esa colección de canciones, melodías, ritmos, riffs o gruñidos qu
       
       <guid>https://albumers.org/post/the-great-southern-trendkill/</guid>
       <description>Inicio la sección conmigo mismo. A riesgo de parecer ególatra, lo cierto es que necesito dar bola a la web con un primer contenido, y antes de enrolar a nadie he querido experimentar con algo facilito :)
-El mecanismo es fácil: tan solo hay que hacer un breve ejercicio de instrospección (o memoria, si se quiere) con alguna dosis de nostalgia y poner por escrito lo que sentí al escuchar por primera vez The Great Southern trendkill: el pepinazo de Pantera que me cambió la vida.</description>
+El mecanismo es fácil: tan solo hay que hacer un breve ejercicio de instrospección (o memoria, si se quiere) con alguna dosis de nostalgia y poner por escrito lo que sentí al escuchar por primera vez The Great Southern Trendkill: el pepinazo de Pantera que me cambió la vida.</description>
     </item>
     
   </channel>

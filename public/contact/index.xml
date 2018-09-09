@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Contacts on ALBUMERS - Gente que habla de los álbumes que les cambiaron la vida</title>
+    <link>https://albumers.org/contact/</link>
+    <description>Recent content in Contacts on ALBUMERS - Gente que habla de los álbumes que les cambiaron la vida</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Thu, 06 Sep 2018 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://albumers.org/contact/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Contacta!</title>
+      <link>https://albumers.org/contact/form/</link>
+      <pubDate>Thu, 06 Sep 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://albumers.org/contact/form/</guid>
+      <description>##Participa :)
+Si te gusta el proyecto y quieres enviarnos tu texto rememorando esos momentos de pura magia descubriendo el álbum de tu vida, eres bienvenidx.
+Escríbeme un mensaje privado en mi perfil de Facebook o envíamos un correo a través del formulario de aquí abajo con el texto y te escribiré de vuelta pidiéndote un par de fotos tuyas para incluirlas en la web.
+¡Gracias!</description>
+    </item>
+    
+  </channel>
+</rss>
