@@ -61,6 +61,12 @@ img.banner {
 .btn-form {
 	width: 62%;
 }
+.media-heading {
+    margin-top: 15px;
+}
+.alert{
+  margin:1.75rem 0rem 1.75rem 0rem;
+}
 @media (max-width: 768px) {
  .btn-form {
 	width: 100%;
