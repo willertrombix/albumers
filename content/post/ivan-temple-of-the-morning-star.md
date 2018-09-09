@@ -103,6 +103,13 @@ Pregunta: ¿Dónde y cómo descubriste el disco que te cambió la vida?
 
 RESPUESTA:
 
+Pues este disco (<strong>Temple of The Morning Star, Today Is The Day</strong>) lo descubrí por el 2003 o por ahí. 
+
+Me lo pasó un colega y me voló la cabeza a niveles que no entendía. Estábamos en el momento <strong>“Relapse”</strong> y era una locura la lluvia de bandas que me dejaban loco.
+
+Pero en  ese momento, no entendí que el <strong>señor Austin</strong> (voz, guitarra y samples) me quería marcar un camino que no podría dejar de seguir. Es un disco que con cada escucha <strong>me ha enseñado a ser más visceral e incorrecto en todos los sentidos</strong>. 
+
+Primero me lo pasaron en una cassete grabada con algo de <strong>Napalm Death</strong> en la cara B, no recuerdo qué disco.
 
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <ins class="adsbygoogle"
@@ -121,11 +128,25 @@ Pregunta: ¿Tienes alguna anécdota que te haya pasado escuchando el disco o al 
 
 RESPUESTA:
 
+Bueno, supongo que sería cuando <strong>en 2005 vi a la banda por primera vez en el Sant Feliu Hardcore Fest</strong>, y me reventó la cabeza. 
+
+Además, <strong>conocí en persona al señor Austin</strong> y me tomé algunas cosas con él, antes de que miembros de una de mis bandas lo tuvieran que <strong>meter en la ducha</strong> antes de salir porque no podía ni estar en pie. 
+
+Luego, me contó historias de <strong>armas y de perros...</strong> Todo muy normal.
+
+Ese año vi a <strong>Unsane</strong> y me pegué una farra legendaria con <strong>Edu de Moho</strong> y mira ahora con quién toco hahaha... Las ardillas se unieron y confabularon para ello.
+
 <div class="alert alert-info">
 Pregunta: ¿Por qué te influenció tanto? ¿Cambió tu manera de pensar y entender la música?  
 </div>
 
 RESPUESTA:
+
+El señor Austin es un <strong>experto en sacar mierda de dentro</strong> y hacerlo de la manera más visceral y pútrida del mundo.
+
+Está a otro nivel, a mí me sacó de mi zona de confort y me enseñó que <strong>no es real lo que vemos, que hay que usar tus defectos y tu mierda</strong> y dejarse la vida en cada acorde. 
+
+Para mí es lo que siempre he querido explicar con lo que hago, es difícil de explicar.
 
 <div class="alert alert-info">
 Pregunta: ¿Se sigue notando hoy en día el poso que me dejó?  
@@ -133,11 +154,24 @@ Pregunta: ¿Se sigue notando hoy en día el poso que me dejó?
 
 RESPUESTA:
 
+Siempre estará ahí por la sencilla razón de que <strong>este disco fue el punto de darme cuenta de que hay que arriesgar y hacer lo que te dé la gana</strong> y más hoy en día con tanta tecnología y el <strong>hype de tener todo custom y bonito para la foto</strong>. 
+
+
+<strong>Austin es un tío de verdad</strong> que supo muy bien de quien rodearse y trabajó muy duro. 
+
+Si podéis ver el documental que ha salido de su vida... Eso es la música arriesgada y lo que te ocurre cuando es una parte de tu vida importante.
+
+El sonido de <strong>Today is the Day</strong> es especial y <strong>a mucha gente le parece demencial</strong> y un poco descuidado, y <strong>realmente esa es su fuerza</strong>: la locura auténtica y la rabia que te sale desde las gónadas.
+
 <div class="alert alert-info">
 Pregunta: ¿Sigues escuchando ese disco? ¿Con qué frecuencia? 
 </div>
 
 RESPUESTA:
+
+<strong>Lo escucho muchísimo y muchos de sus discos también</strong>, pero éste es el que más ya que <strong>me ayudó en momentos muy jodidos de mi vida</strong> y me ayudó también a entender que la mierda es para usarla en la música y no contra las personas.
+
+Supongo que <strong>es como una terapia o algo así</strong> pero vamos, una vez a la semana cae siempre, <strong>es como un ritual</strong>.
 
 
 <div class="banner-box">
