@@ -59,6 +59,8 @@ Aquí abajo Carlos sujetando el disco que le cambió
 Pregunta: ¿Dónde y cómo descubriste el disco que te cambió la vida?
 </div>
 
+RESPUESTA:
+
 Es una casualidad que justo ahora empieces con la página tronco, ya que <strong>hace poco me planteé esta misma pregunta</strong> e independientemente de hasta cuando me quiera remontar el resultado es siempre el mismo. 
 
 Hay <strong>tres etapas importantes en mi pasión por la música</strong> que no es que sean muy originales ni extraordinarias pero joder, no estaría aquí ahora sentado delante del PC escribiendo esto sin esos <strong>casettes que traía mi primo Migue desde Madrid en los 90</strong>, ni esa vez que, escuchando un cd llamado <strong>“Explosión naranja”</strong> con mis colegas Sevi y Fran descubrí a <strong>Chococripis</strong> y <strong>Tos Felpudo</strong>.
@@ -105,6 +107,8 @@ La cara de E-150 es una gozada también, pero ese caos brutal y redondo de Zanus
 Pregunta: ¿Tienes alguna anécdota que te haya pasado escuchando el disco o al grupo? 
 </div>
 
+RESPUESTA:
+
 No tengo anécdotas de casi nada y <strong>sólo me sé dos chistes, soy un pelmazo.</strong>
 
 La primera vez que vi en directo a <strong>Óscar</strong> (<span class="italic">NDR: el batería de Zanussi</span>) fue ya con <strong>Car Crash Sleep</strong> en un bolo que dieron en L´Eliana, me perdí la primera época de Zanussi, pero flipé igualmente. Llego tarde a todo.
@@ -119,20 +123,34 @@ La primera vez que vi en directo a <strong>Óscar</strong> (<span class="italic"
 Pregunta: ¿Por qué te influenció tanto? ¿Cambió tu manera de pensar y entender la música?  
 </div>
 
-Totalmente. Entré de cabeza en una parte de la música que desconocía. 
+RESPUESTA:
 
-La <strong>autogestión</strong> como su parte fundamental. En cuanto a lo musical fue la culminación de una etapa en la que cada vez me fijaba más en la parte rítmica de los grupos. 
+Totalmente. 
 
-<strong>Es curioso que tocando la guitarra mi mayor influencia haya sido un batería.</strong>
+<div class="alert alert-warning">
+"Escuchar a <strong>Zanussi</strong> y en concreto este disco actuó como una especie de <strong>revelación mágica</strong> justo en el momento adecuado."
+</div>
+
+Fue descubrir una verdad fundamental que hasta ese momento la intuía pero la tenía velada. 
+
+Por mucha buena música que hubiera escuchado, esto sintetizaba perfectamente el camino que quería seguir. 
+
+Todo el <strong>hardcore</strong> que había escuchado tenía su sentido justo ahí. Allí era donde quería estar sin dudarlo. 
 
 <div class="video-container">
 <iframe width="100%" height="415" src="https://www.youtube.com/embed/Y-iSacyyBHc?rel=0" title="ZANUSSI en Directo - Orxata Fest 2008" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-</div>
+</div> 
+
+Entré de cabeza en una parte de la música que desconocía. La <strong>autogestión y la colaboración</strong> como su parte fundamental. 
+
+En cuanto a lo musical fue la culminación de una etapa en la que cada vez me fijaba más en la parte rítmica de los grupos. <strong>Es curioso que tocando la guitarra mi mayor influencia haya sido un batería.</strong>
 
 
 <div class="alert alert-info">
 Pregunta: ¿Se sigue notando hoy en día el poso que me dejó?  
 </div>
+
+RESPUESTA:
 
 Creo que por <strong>muy gallofo</strong> que me esté volviendo con el transcurso de los años, <strong>siempre me quedará ese lado cafre y rítmico</strong>, que igual canalizo de forma diferente a cuando empecé allá por el 2000 y poco pero ahí está. 
 
@@ -145,6 +163,8 @@ Como siempre seguro <strong>se lo pasan por el forro de los cojones</strong>, pe
 <div class="alert alert-info">
 Pregunta: ¿Sigues escuchando ese disco? ¿Con qué frecuencia? 
 </div>
+
+RESPUESTA:
 
 La verdad es que desde hace bastante tiempo estoy reventando los <strong>últimos discos que han sacado dos grupos ingleses</strong> que me flipan.
 
