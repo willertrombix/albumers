@@ -109,7 +109,7 @@ Pregunta: ¿Dónde y cómo descubriste el disco que te cambió la vida?
 <div class="alert alert-info">
 <h3>Today Is The Day - Temple Of The Morning Star [Versión Acústica]</h3>
 <p>Dale al PLAY y entra en trance con Steve</p>
-<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/497957445&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+<iframe width="100%" height="265" src="https://clyp.it/sxohrliw/widget" frameborder="0"></iframe>
 </div>
 
 <p>Pero en  ese momento, no entendí que el <strong>señor Austin</strong> (voz, guitarra y samples) me quería marcar un camino que no podría dejar de seguir. Es un disco que con cada escucha <strong>me ha enseñado a ser más visceral e incorrecto en todos los sentidos</strong>.</p>
