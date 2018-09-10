@@ -107,7 +107,7 @@ Pregunta: ¿Dónde y cómo descubriste el disco que te cambió la vida?
 <p>Me lo pasó un colega y me voló la cabeza a niveles que no entendía. Estábamos en el momento <strong><a href="https://store.relapse.com/" target="_blank" rel="external nofollow noopener">“Relapse”</a></strong> y era una locura la lluvia de bandas que me dejaban loco.</p>
 
   <div class="video-container">
-<iframe width="100%" height="415" src="https://www.youtube.com/embed/af_2wIlI9SI?rel=0" title="Today Is the Day - Temple of the Morning Star, versión acústica" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="100%" height="415" src="https://www.youtube.com/embed/lrm4EiX2kao?rel=0" title="Today Is the Day - Temple of the Morning Star, versión acústica" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 
 <p>Pero en  ese momento, no entendí que el <strong>señor Austin</strong> (voz, guitarra y samples) me quería marcar un camino que no podría dejar de seguir. Es un disco que con cada escucha <strong>me ha enseñado a ser más visceral e incorrecto en todos los sentidos</strong>.</p>
