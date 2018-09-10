@@ -69,17 +69,17 @@ draft = false
 </thead>
 <tbody>
 <tr>
-<td><a href="https://www.facebook.com/vornoise/" target="_blank" rel="external noopener" style="font-weight:normal;">Facebook</td>
+<td><a href="https://www.facebook.com/vornoise/" target="_blank" rel="external noopener" style="font-weight:normal;">Face.</td>
 <td><a href="https://www.facebook.com/lazharusoscuro/" target="_blank" rel="external noopener">Facebook</td>
-<td><a href="https://www.facebook.com/AWOG-400820496921614/" target="_blank" rel="external noopener">Facebook</td>
-<td><a href="https://www.facebook.com/GRASSA-DATO-124614660946794/" target="_blank" rel="external noopener">Facebook</td>
-<td><a href="https://www.facebook.com/Moribunder-229991914230059/" target="_blank" rel="external noopener">Facebook</td>
+<td><a href="https://www.facebook.com/AWOG-400820496921614/" target="_blank" rel="external noopener">Face.</td>
+<td><a href="https://www.facebook.com/GRASSA-DATO-124614660946794/" target="_blank" rel="external noopener">Face.</td>
+<td><a href="https://www.facebook.com/Moribunder-229991914230059/" target="_blank" rel="external noopener">Face.</td>
 </tr>
 <tr>
-<td><a href="https://www.instagram.com/vormadrid/" target="_blank" rel="external noopener" style="font-weight:normal;">Instagram</td>
-<td><a href="https://www.instagram.com/lazharus666/" target="_blank" rel="external noopener">Instagram</td>
-<td><a href="https://www.instagram.com/analwarofgodsband/" target="_blank" rel="external noopener">Instagram</td>
-<td><a href="https://www.youtube.com/user/GRASSADATO" target="_blank" rel="external noopener">Youtube</td>
+<td><a href="https://www.instagram.com/vormadrid/" target="_blank" rel="external noopener" style="font-weight:normal;">Insta.</td>
+<td><a href="https://www.instagram.com/lazharus666/" target="_blank" rel="external noopener">Insta.</td>
+<td><a href="https://www.instagram.com/analwarofgodsband/" target="_blank" rel="external noopener">Insta.</td>
+<td><a href="https://www.youtube.com/user/GRASSADATO" target="_blank" rel="external noopener">Yout.</td>
 <td style="text-align: center; color: #ff2e88;">XXX</td>
 </tr>
 </tbody>
