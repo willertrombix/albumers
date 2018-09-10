@@ -1,6 +1,6 @@
 +++
 title = "Iván & Temple of the Morning Star (Today Is The Day)"
-date = 2018-09-09
+date = 2018-09-10
 description = "Iván (VOR, Lazharus, Anal War of Gods) nos cuenta como Steve Austin le reventó la vida"
 keywords = [
   "VOR",
@@ -15,7 +15,7 @@ images = [
 ] # Suggested, controls default Open Graph images
 draft = false
 +++  
-<h2>Iván: lo suyo es la mugre sonora hecha desde el corazón</h2>
+<h2>Lo suyo es la mugre sonora hecha desde el corazón</h2>
 <p>Todo lo que toca Iván lo convierte en <strong>buena mierda</strong>. De esa que te perturba y no te deja dormir por las noches.</p>
 
 <p>Si tuvieras una <strong>pesadilla en Elm Street</strong> seguramente serían las cuerdas de su bajo en <strong><a href="https://vorband.bandcamp.com/" title="VOR Bandcamp" target="_blank" rel="external noopener">VOR</a></strong> las que sonarían mientras Freddie se te aparece por la espalda.</p>
@@ -162,6 +162,10 @@ Pregunta: ¿Se sigue notando hoy en día el poso que me dejó?
 <p>RESPUESTA:</p>
 
 <p>Siempre estará ahí por la sencilla razón de que <strong>este disco fue el punto de darme cuenta de que hay que arriesgar y hacer lo que te dé la gana</strong> y más hoy en día con tanta tecnología y el <strong>hype de tener todo custom y bonito para la foto</strong>.</p>
+
+<div class="video-container">
+<iframe width="100%" height="415" src="https://www.youtube.com/embed/T_X0QqQs-sY?rel=0" title="Documental de Steve Austin, Today Is the Day, Tráiler" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
 
 <p><strong>Austin es un tío de verdad</strong> que supo muy bien de quien rodearse y trabajó muy duro.</p>
 
