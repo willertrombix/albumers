@@ -104,7 +104,7 @@ Pregunta: ¿Dónde y cómo descubriste el disco que te cambió la vida?
 
 <p>Pues este disco (<strong>Temple of The Morning Star, Today Is The Day</strong>) lo descubrí por el 2003 o por ahí.</p>
 
-<p>Me lo pasó un colega y me voló la cabeza a niveles que no entendía. Estábamos en el momento <strong><a href="https://store.relapse.com/" target="_blank" rel="external nofollow noopener">“Relapse”</strong> y era una locura la lluvia de bandas que me dejaban loco.</p>
+<p>Me lo pasó un colega y me voló la cabeza a niveles que no entendía. Estábamos en el momento <strong><a href="https://store.relapse.com/" target="_blank" rel="external nofollow noopener">“Relapse”</a></strong> y era una locura la lluvia de bandas que me dejaban loco.</p>
 
   <div class="video-container">
 <iframe width="100%" height="415" src="https://www.youtube.com/embed/HDHakYnnpPY?rel=0" title="Today Is the Day - Temple of the Morning Star, Álbum completo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
