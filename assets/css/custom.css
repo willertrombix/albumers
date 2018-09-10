@@ -18,6 +18,21 @@ a[itemprop="url"]:hover {
 .hack .help-block {
   color: #e0e0e0;
 }
+.hack h1{
+  font-size: 1.4rem;
+  line-height: 1.5em;
+}
+.hack h2{
+  font-size: 1.2rem;
+  line-height: 1.3em;
+}
+.hack blockquote {
+  border: 1px solid #9E9E9E;
+  padding: 0.75rem;
+}
+.hack blockquote:after{
+  content: none;
+}
 img {
   width: 100%;
   margin: 15px 0px 15px 0px;
@@ -60,6 +75,12 @@ img.banner {
 }
 .btn-form {
 	width: 62%;
+}
+.media-heading {
+    margin-top: 15px;
+}
+.alert{
+  margin:1.75rem 0rem 1.75rem 0rem;
 }
 @media (max-width: 768px) {
  .btn-form {
