@@ -87,7 +87,7 @@ draft = false
 
 <br>
 <div class="alert alert-success">
-Aquí Iván con su hija Noa, a la que está enseñándole ya MUSICOTE desde bien pequeña
+Aquí Iván con su hija Noa, a la que está enseñándole ya <strong>MUSICOTE</strong> desde bien pequeña
 </div>
 
 <img
@@ -104,7 +104,11 @@ Pregunta: ¿Dónde y cómo descubriste el disco que te cambió la vida?
 
 <p>Pues este disco (<strong>Temple of The Morning Star, Today Is The Day</strong>) lo descubrí por el 2003 o por ahí.</p>
 
-<p>Me lo pasó un colega y me voló la cabeza a niveles que no entendía. Estábamos en el momento <strong>“Relapse”</strong> y era una locura la lluvia de bandas que me dejaban loco.</p>
+<p>Me lo pasó un colega y me voló la cabeza a niveles que no entendía. Estábamos en el momento <strong><a href="https://store.relapse.com/" target="_blank" rel="external nofollow noopener">“Relapse”</strong> y era una locura la lluvia de bandas que me dejaban loco.</p>
+
+  <div class="video-container">
+<iframe width="100%" height="415" src="https://www.youtube.com/embed/HDHakYnnpPY?rel=0" title="Today Is the Day - Temple of the Morning Star, Álbum completo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
 
 <p>Pero en  ese momento, no entendí que el <strong>señor Austin</strong> (voz, guitarra y samples) me quería marcar un camino que no podría dejar de seguir. Es un disco que con cada escucha <strong>me ha enseñado a ser más visceral e incorrecto en todos los sentidos</strong>.</p>
 
@@ -130,10 +134,6 @@ Pregunta: ¿Tienes alguna anécdota que te haya pasado escuchando el disco o al 
 <p>Bueno, supongo que sería cuando <strong>en 2005 vi a la banda por primera vez en el Sant Feliu Hardcore Fest</strong>, y me reventó la cabeza.</p>
 
 <p>Además, <strong>conocí en persona al señor Austin</strong> y me tomé algunas cosas con él, antes de que miembros de una de mis bandas lo tuvieran que <strong>meter en la ducha</strong> antes de salir porque no podía ni estar en pie.</p>
-
-<div class="video-container">
-<iframe width="100%" height="415" src="https://www.youtube.com/embed/HDHakYnnpPY?rel=0" title="Today Is the Day - Temple of the Morning Star, Álbum completo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-</div>
 
 <p>Luego, me contó historias de <strong>armas y de perros...</strong> Todo muy normal.</p>
 
