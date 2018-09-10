@@ -93,7 +93,7 @@ Aquí Iván con su hija Noa, a la que está enseñándole ya MUSICOTE desde bien
 <img
   data-sizes="auto"
   data-src="/images/ivan-temple-of-the-morning-star-TITD.jpg"
-  alt="Capaje - Post-hardcore Valencia"
+  alt="Iván, de Vor, con su disco favorito de Today is teh Day y su hija"
   class="lazyload">
 
 <div class="alert alert-info">
