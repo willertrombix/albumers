@@ -70,7 +70,7 @@ draft = false
 <tbody>
 <tr>
 <td><a href="https://www.facebook.com/vornoise/" target="_blank" rel="external noopener" style="font-weight:normal;">Face.</td>
-<td><a href="https://www.facebook.com/lazharusoscuro/" target="_blank" rel="external noopener">Facebook</td>
+<td><a href="https://www.facebook.com/lazharusoscuro/" target="_blank" rel="external noopener">Face.</td>
 <td><a href="https://www.facebook.com/AWOG-400820496921614/" target="_blank" rel="external noopener">Face.</td>
 <td><a href="https://www.facebook.com/GRASSA-DATO-124614660946794/" target="_blank" rel="external noopener">Face.</td>
 <td><a href="https://www.facebook.com/Moribunder-229991914230059/" target="_blank" rel="external noopener">Face.</td>
