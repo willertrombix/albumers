@@ -15,19 +15,19 @@ images = [
 ] # Suggested, controls default Open Graph images
 draft = false
 +++  
-<h2>Reventando la escena undergorund valenciana desde los 80</h2>
+<h2>Tejiendo la escena extrema valenciana desde los 90</h2>
 
-<p>Todo aquel que se mueve por las cloacas de Valencia, allí donde se cuece el inframundo musical de esta ciudad que huele a rata, conoce o -como poco- ha visto los rizos que asoman por debajo de su gorra.</p>
+<p>Todo aquel que se mueve por las <strong>cloacas de Valencia</strong>, allí donde se cuece el inframundo musical de esta ciudad que huele a rata, conoce o -como poco- ha visto los <strong>rizos que asoman por debajo de su gorra</strong>.</p>
 
-<p>Enfundado en una camiseta negra, sus vaqueros negros y sus zapatillas altas negras, haga 35º de calor o estemos en pleno Diciembre, Antonio -más conocido como <strong>"El Rizos"</strong>- es una de las personas que <strong>probablemente más haya contribuido a engordar la escena extrema</strong>de estos lares levantinos.</p>
+<p>Enfundado en una camiseta negra, sus vaqueros negros y sus zapatillas altas negras, <strong>haga 35º de calor o estemos en pleno diciembre</strong>, Antonio -más conocido como <strong>"El Rizos"</strong>- es una de las personas que <strong>probablemente más haya contribuido a engordar la escena extrema</strong> de estos lares levantinos.</p>
 
-<p>No en vano, es uno de los fundadores de bandas como <strong><a href="https://visceraldamage.bandcamp.com/" target="_blank" rel="external noopener">Visceral Damage</a></strong>, que este 2018 acaba de cumplir la friolera de 20 años en activo.</p>
+<p>No en vano, es uno de los fundadores de bandas como <strong><a href="https://visceraldamage.bandcamp.com/" target="_blank" rel="external noopener">Visceral Damage</a></strong>, que este 2018 acaba de cumplir <strong>la friolera de 20 años en activo</strong>.</p>
 
 <p>Un tiempo después descubriría en mis propias carnes que en Valencia se podía hacer un <strong>grindcore sin piedad</strong>, del que si te pilla te mata. 
 
-<p>Pura biela, un rodillo percutor, dientes contra bordillos...</p>
+<p>Pura biela, un rodillo percutor o dientes contra bordillos...</p>
 
-<p>Define como quieras el sonido empezó a definir <strong>Overnoise</strong>, quintaesencia de la tralla más sucia que se hacía a principios de cambio de siglo. Del 2000 es su primera demo, <strong>"Lethal ways to hell's kitchen doors"</strong>, que llegó a colarse en el catálogo de distribución de míticos sellos como <strong>"Relapse"</strong></p>
+<p>Define como quieras el sonido de <strong>Overnoise</strong>, quintaesencia de la tralla más sucia que se hacía a principios de cambio de siglo. Del <strong>2000</strong> es su primera demo, <strong>"Lethal ways to hell's kitchen doors"</strong>, que llegó a colarse en el catálogo de distribución de míticos sellos como <strong>"Relapse"</strong></p>
 
 <div class="video-container">
 <iframe width="100%" height="415" src="https://www.youtube.com/embed/50_C_EvFtmY?rel=0" title="Overnoise, tema Filth X3, Grindcore, Valencia (2008)" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
