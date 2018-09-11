@@ -15,23 +15,26 @@ images = [
 ] # Suggested, controls default Open Graph images
 draft = false
 +++  
-<h2>El Rizos</h2>
-<p>Pues estaba un día de 1986, en casa, después de hacer las tareas escolares y entreteniéndome con algún juego, cuando llegó mi hermano con un disco muy particular. </p>
+<h2>Reventando la escena undergorund valenciana desde los 80</h2>
 
-<p>Por aquel entonces ya hacía unos años que el <strong>Heavy Metal sonaba en casa</strong>. Grupos como <strong>Iron Maiden, Judas Priest o Saxon</strong> los escuchaba y me flipaban, pero lo mejor estaba por llegar.</p>
+<p>Todo aquel que se mueve por las cloacas de Valencia, allí donde se cuece el inframundo musical de esta ciudad que huele a rata, conoce o -como poco- ha visto los rizos que asoman por debajo de su gorra.</p>
 
-<p>El disco en cuestión fue el recopilatorio <strong>Speed Kills</strong>, donde aparecían una serie de grupos underground. Entre ellos se encontraban <strong>Metallica, Slayer, Exodus, Possessed, Celtic Frost, Voivod...</strong></p>
+<p>Enfundado en una camiseta negra, sus vaqueros negros y sus zapatillas altas negras, haga 35º de calor o estemos en pleno Diciembre, Antonio -más conocido como <strong>"El Rizos"</strong>- es una de las personas que <strong>probablemente más haya contribuido a engordar la escena extrema</strong>de estos lares levantinos.</p>
 
-<p>Me explotó la cabeza. A partir de ese momento, mi interés por la música extrema sutituyó a todo lo que había escuchado con anterioridad.</p>
+<p>No en vano, es uno de los fundadores de bandas como <strong><a href="https://visceraldamage.bandcamp.com/" target="_blank" rel="external noopener">Visceral Damage</a></strong>, que este 2018 acaba de cumplir la friolera de 20 años en activo.</p>
 
-<div class="alert alert-info">
-<h3>Slayer, Evil Has No Boundaries, Directo 1985</h3>
-<p>Este trallazo estaba incluido en el recopilatorio Speed Kills, Vol. 1 de 1985. <span class="italic">Are you EVIL? Let me hear you say EEEEVIL!"</span> gritaba Araya ante una masa deseosa de tralla a cascoporro.</p>
+<p>Un tiempo después descubriría en mis propias carnes que en Valencia se podía hacer un <strong>grindcore sin piedad</strong>, del que si te pilla te mata. 
+
+<p>Pura biela, un rodillo percutor, dientes contra bordillos...</p>
+
+<p>Define como quieras el sonido empezó a definir <strong>Overnoise</strong>, quintaesencia de la tralla más sucia que se hacía a principios de cambio de siglo. Del 2000 es su primera demo, <strong>"Lethal ways to hell's kitchen doors"</strong>, que llegó a colarse en el catálogo de distribución de míticos sellos como <strong>"Relapse"</strong></p>
+
 <div class="video-container">
-<iframe width="100%" height="415" src="https://www.youtube.com/embed/UUJEpof_pkA?start=35" title="Slayer, Evil Has No Boundaries, Directo 1985" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-</div>
+<iframe width="100%" height="415" src="https://www.youtube.com/embed/50_C_EvFtmY?rel=0" title="Overnoise, tema Filth X3, Grindcore, Valencia (2008)" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 
+
+#########
 
 
 <div class="video-container">
@@ -87,6 +90,26 @@ Aquí Iván con su hija Noa, a la que está enseñándole ya <strong>MUSICOTE</s
 <div class="alert alert-info">
 Pregunta: ¿Dónde y cómo descubriste el disco que te cambió la vida?
 </div>
+
+<p>RESPUESTA:</p>
+
+<p>Pues estaba un día de 1986, en casa, después de hacer las tareas escolares y entreteniéndome con algún juego, cuando llegó mi hermano con un disco muy particular. </p>
+
+<p>Por aquel entonces ya hacía unos años que el <strong>Heavy Metal sonaba en casa</strong>. Grupos como <strong>Iron Maiden, Judas Priest o Saxon</strong> los escuchaba y me flipaban, pero lo mejor estaba por llegar.</p>
+
+<p>El disco en cuestión fue el recopilatorio <strong>Speed Kills</strong>, donde aparecían una serie de grupos underground. Entre ellos se encontraban <strong>Metallica, Slayer, Exodus, Possessed, Celtic Frost, Voivod...</strong></p>
+
+<p>Me explotó la cabeza. A partir de ese momento, mi interés por la música extrema sutituyó a todo lo que había escuchado con anterioridad.</p>
+
+<div class="alert alert-info">
+<h3>Slayer, Evil Has No Boundaries, Directo 1985</h3>
+<p>Este trallazo estaba incluido en el recopilatorio Speed Kills, Vol. 1 de 1985. <span class="italic">Are you EVIL? Let me hear you say EEEEVIL!"</span> gritaba Araya ante una masa deseosa de tralla a cascoporro.</p>
+<div class="video-container">
+<iframe width="100%" height="415" src="https://www.youtube.com/embed/UUJEpof_pkA?start=35" title="Slayer, Evil Has No Boundaries, Directo 1985" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
+</div>
+
+
 
 <p>RESPUESTA:</p>
 
