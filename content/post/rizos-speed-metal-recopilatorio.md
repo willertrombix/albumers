@@ -33,6 +33,7 @@ draft = false
 <iframe width="100%" height="415" src="https://www.youtube.com/embed/50_C_EvFtmY?rel=0" title="Overnoise, tema Filth X3, Grindcore, Valencia (2008)" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 
+<p>Tras la disolución de Overnoise, llegarían bandas que son un referente en el grindcore penínsular, como los inmisericordes <strong><a href="https://encabronation.bandcamp.com/" target="_blank" rel="external noopener">Encabronation</a></strong>, cuyo plantel ha contado a lo largo de los años con miembros como <strong>Loren (Trocotombix)</strong>, Nacho (Necrotanke, Incertidumbre), Raúl (ex Overnoise, ex Visceral Damage, ex Topocho's Crust Band, El Hambre), El "Nen" (ex Death Rabbit) o Xito (Visceral Damage). 
 
 #########
 
