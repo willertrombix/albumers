@@ -1,13 +1,17 @@
 +++
 title = "Rizos & Seed Kills, recopilatorio 1985"
-date = 2018-09-10
+date = 2018-09-13
 description = "Aquí los orígenes del guitarrista de grupos como Necrotanke, Encabronation, Fvnësto e Incertidumbre"
 keywords = [
-  "VOR",
-  "Lazharus",
-  "Anal War of Gods",
-  "Today Is The Day",
-  "Temple of the Morning Star,"
+  "Speed Kills",
+  "recopilatorio",
+  "Necrotanke",
+  "Encabronation",
+  "El Hambre",
+  "Incertidumbre",
+  "Slayer",
+  "Metallica",
+  "Celtic Frost",
 ]
 tags = ["VOR", "Lazharus", "Anal War of Gods", "Today Is The Day", "Temple of the Morning Star"] 
 images = [
@@ -142,7 +146,7 @@ Pregunta: ¿Dónde y cómo descubriste el disco que te cambió la vida?
 
 <p>Por aquel entonces ya hacía unos años que el <strong>Heavy Metal sonaba en casa</strong>. Grupos como <strong>Iron Maiden, Judas Priest o Saxon</strong> los escuchaba y me flipaban, pero lo mejor estaba por llegar.</p>
 
-<p>El disco en cuestión fue el recopilatorio <strong>Speed Kills</strong>, donde aparecían una serie de grupos underground. Entre ellos se encontraban <strong>Metallica, Slayer, Exodus, Possessed, Celtic Frost, Voivod...</strong></p>
+<p>El disco en cuestión fue el recopilatorio <strong><a href="https://rover.ebay.com/rover/1/710-53481-19255-0/1?icep_id=114&ipn=icep&toolid=20004&campid=5338378088&mpre=https%3A%2F%2Fwww.ebay.co.uk%2Fitm%2FSpeed-Kills-the-very-best-in-speed-metal-MFN-54%2F323436014805%3Fhash%3Ditem4b4e49ecd5%3Ag%3AUm4AAOSw12pbinCP" target="_blank" rel="external noopener"> Speed Kills</a></strong>, donde aparecían una serie de grupos underground. Entre ellos se encontraban <strong>Metallica, Slayer, Exodus, Possessed, Celtic Frost, Voivod...</strong></p>
 
 <p>Me explotó la cabeza. A partir de ese momento, mi interés por la música extrema sutituyó a todo lo que había escuchado con anterioridad.</p>
 
@@ -241,7 +245,7 @@ Pregunta: ¿Sigues escuchando ese disco? ¿Con qué frecuencia?
 <p>Supongo que <strong>es como una terapia o algo así</strong> pero vamos, una vez a la semana cae siempre, <strong>es como un ritual</strong>.</p>
 
 <div class="banner-box">
-<a href="https://rover.ebay.com/rover/1/1185-53479-19255-0/1?icep_id=114&ipn=icep&toolid=20004&campid=5338375517&mpre=https%3A%2F%2Fwww.ebay.es%2Fitm%2FTODAY-IS-THE-DAY-TEMPLE-OF-THE-MORNING-STAR-20TH-ANNIVERSARY-DELUXE-EDITION-2%2F352329488274%3Fhash%3Ditem5208795792%3Ag%3AH-QAAOSwns1a0Vpv" target="_blank" rel="nofollow noopener">
+<a href="https://rover.ebay.com/rover/1/710-53481-19255-0/1?icep_id=114&ipn=icep&toolid=20004&campid=5338378088&mpre=https%3A%2F%2Fwww.ebay.co.uk%2Fitm%2FSpeed-Kills-the-very-best-in-speed-metal-MFN-54%2F323436014805%3Fhash%3Ditem4b4e49ecd5%3Ag%3AUm4AAOSw12pbinCP" target="_blank" rel="nofollow noopener">
 <img
   data-sizes="auto"
   data-src="/images/temple-of-the-morning-star-vinilo-comprar.jpg"
@@ -249,7 +253,7 @@ Pregunta: ¿Sigues escuchando ese disco? ¿Con qué frecuencia?
   class="lazyload banner"> 
 </a>
 
-<p><a href="https://rover.ebay.com/rover/1/1185-53479-19255-0/1?icep_id=114&ipn=icep&toolid=20004&campid=5338375517&mpre=https%3A%2F%2Fwww.ebay.es%2Fitm%2FTODAY-IS-THE-DAY-TEMPLE-OF-THE-MORNING-STAR-20TH-ANNIVERSARY-DELUXE-EDITION-2%2F352329488274%3Fhash%3Ditem5208795792%3Ag%3AH-QAAOSwns1a0Vpv" target="_blank" rel="external nofollow noopener">Hazte con el puto vinilo "TEMPLE OF THE MORNING STAR" de Today is the Day. <br>¡Viva la mugre!</a></p>
+<p><a href="https://rover.ebay.com/rover/1/710-53481-19255-0/1?icep_id=114&ipn=icep&toolid=20004&campid=5338378088&mpre=https%3A%2F%2Fwww.ebay.co.uk%2Fitm%2FSpeed-Kills-the-very-best-in-speed-metal-MFN-54%2F323436014805%3Fhash%3Ditem4b4e49ecd5%3Ag%3AUm4AAOSw12pbinCP" target="_blank" rel="external nofollow noopener">Hazte con el puto vinilo "TEMPLE OF THE MORNING STAR" de Today is the Day. <br>¡Viva la mugre!</a></p>
 </div>
 <br>
 
