@@ -35,20 +35,48 @@ draft = false
 
 <p>Define como quieras el sonido de <strong>Overnoise</strong>, quintaesencia de la tralla más sucia que se hacía a principios de cambio de siglo. Del <strong>2000</strong> es su primera demo, <strong>"Lethal ways to hell's kitchen doors"</strong>, que llegó a colarse en el catálogo de distribución de míticos sellos como <strong>"Relapse"</strong></p>
 
+<div class="alert alert-info">
+<h3>Overnoise, tema: Filth X3 </h3>
+<p>Así se las gastanban en su demo <span class="italic">Lethal ways to hell's kitchen doors</span>, grabado en el apocalíptico año 2000</p>
 <div class="video-container">
 <iframe width="100%" height="415" src="https://www.youtube.com/embed/50_C_EvFtmY?rel=0" title="Overnoise, tema Filth X3, Grindcore, Valencia (2008)" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
 </div>
 
 <p>Tras la disolución de Overnoise, llegarían bandas que son un referente en el grindcore penínsular, como los inmisericordes <strong><a href="https://encabronation.bandcamp.com/" target="_blank" rel="external noopener">Encabronation</a></strong>, cuyo plantel ha contado a lo largo de los años con miembros como <strong>Loren (Trocotombix)</strong>, <strong>Nacho (Necrotanke, Incertidumbre)</strong>, <strong>Raúl (ex Overnoise, ex Visceral Damage, ex Topocho's Crust Band, El Hambre)</strong>, <strong>El "Nen" (ex Death Rabbit)</strong> o <strong>Xito (Visceral Damage)</strong>. 
 
+<div class="alert alert-info">
+<h3>Encabronation, directo en Pre Vástagos (2017)</h3>
+<p>La crew de Castellón dándolo todo como siempre. Tocar allí es una bendición para cualquier banda de este rollo</p>
 <div class="video-container">
 <iframe width="100%" height="415" src="https://www.youtube.com/embed/GNigO38QeD0?rel=0" title="Encabronation, directo en Pre Vástagos (2017), Pub Terra, Castellón" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
+</div>
 
-<p>También habría tiempo y ganas de seguir aliméntandose de violencia y caos con otras formaciones como El Hambre, con piezas fundamentales del rollo como<strong>El Huevo</strong>, <strong>El Topocho</strong> o, una vez más <strong>Raúl</strong>. Esta vez <strong>El Rizos cambiaría la guitarra por lel bajo.</strong>. Le da igual con tal de que las cuerdas queden reducidas a cenizas.</p>
+<p>También habría tiempo y ganas de seguir aliméntandose de violencia y caos con otras formaciones como <strong><a href="https://elhambre.bandcamp.com/album/el-hambre" target="_blank" rel="external noopener">El Hambre</a></strong>, con piezas fundamentales del rollo como <strong>El Huevo</strong>, <strong>El Topocho</strong>, <strong>El Escrich</strong> <strong><a href="https://www.instagram.com/noisearmadadesign/?hl=es" target="_blank" rel="external noopener">(Noise Atmada)</a></strong> o, una vez más <strong>Raúl</strong>. Esta vez <strong>El Rizos cambiaría la guitarra por lel bajo.</strong>. Le da igual con tal de que las cuerdas queden reducidas a cenizas.</p>
+
+<div class="alert alert-info">
+<h3>El Hambre, split con CrisisChrist (2015)</h3>
+<p>Excelente música para destensar músculos y quizá ronperse algo también</p>
+<div class="video-container">
+<iframe width="100%" height="415" src="https://www.youtube.com/embed/_0sB5NUlwjg?rel=0" title="El Hambre, split con CrisisChrist (2015) Álbum completo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
+</div>
+
+<p>De un tiempo a esta parte anda metido en tres bandas algo distintas del habitual grindcore que siempre ha tocado. La primera de estas bandas es <strong><a href="https://www.facebook.com/Necrotanke-1613962138868746/">Necrotanke</a></strong>, que tengo la suerte de compartir con él, además de -otra vez- <strong>Raúl (el mismo de más arriba)</strong>, <strong>Ape (ex Automuro, ex Cuervo y ex Ape, Perry and Bonette)</strong> y de nuevo <strong>Nacho (Encabronation)</strong>. ATentos que estamos ahora mismo en fase de mezclar nuestro pirmer <strong>LP que "se te va la olla, nano"</strong>.
+
+<div class="alert alert-info">
+<h3>Necrotanke, tema: Innsmouth (directo 28-10-2017)</h3>
+<p>Mítica noche compartiendo cartel con Haemorraghe</p>
+<div class="video-container">
+<iframe width="100%" height="415" src="https://www.youtube.com/embed/_0sB5NUlwjg?rel=0" title="El Hambre, split con CrisisChrist (2015) Álbum completo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
+</div>
 
 
-
+<div class="alert alert-error">
+Al final va a ser verdad eso de que <strong>entre 5 personas en Valencia se forman 35 bandas</strong>
+</div>
 
 
 #########
