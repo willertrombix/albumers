@@ -13,7 +13,7 @@ keywords = [
   "Metallica",
   "Celtic Frost",
 ]
-tags = ["VOR", "Lazharus", "Anal War of Gods", "Today Is The Day", "Temple of the Morning Star"] 
+tags = ["Speed Kills", "recopilatorio", "Necrotanke", "Encabronation", "El Hambre", "Incertidumbre", "Slayer", "Metallica", "Celtic Frost"] 
 images = [
     "https://albumers.org/images/el-rizos-en-escaleruela-fest-2018.jpg"
 ] # Suggested, controls default Open Graph images
@@ -171,15 +171,13 @@ Pregunta: ¿Dónde y cómo descubriste el disco que te cambió la vida?
 
 #####
 
-<div class="video-container">
-<iframe width="100%" height="415" src="https://www.youtube.com/embed/7D6pVlgONlQ?rel=0" title="VENOM - Black Metal, recopilatorio Speed Kills (1985)" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-</div>
+
 
 <div class="video-container">
 <iframe width="100%" height="415" src="https://www.youtube.com/embed/hXREygA-vQ4?rel=0" title="Exciter - Riders from Darkness, recopilatorio Speed Kills (1985)" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 
-
+speed-kills-vol-1
 
 
 <div class="alert alert-info">
@@ -188,13 +186,15 @@ Pregunta: ¿Tienes alguna anécdota que te haya pasado escuchando el disco o al 
 
 <p>RESPUESTA:</p>
 
-<p>Bueno, supongo que sería cuando <strong>en 2005 vi a la banda por primera vez en el Sant Feliu Hardcore Fest</strong>, y me reventó la cabeza.</p>
+<p>Como anécdota, estaba con unos vecinos jugando a un juego de mesa y me dió por poner ese disco. Uno de ellos me dijo: <strong>"A ti te está ocurriendo algo, ¡esa música es de locos!</strong></p>
 
-<p>Además, <strong>conocí en persona al señor Austin</strong> y me tomé algunas cosas con él, antes de que miembros de una de mis bandas lo tuvieran que <strong>meter en la ducha</strong> antes de salir porque no podía ni estar en pie.</p>
-
-<p>Luego, me contó historias de <strong>armas y de perros...</strong> Todo muy normal.</p>
-
-<p>Ese año vi a <strong>Unsane</strong> y me pegué una farra legendaria con <strong>Edu de Moho</strong> y mira ahora con quién toco hahaha... Las ardillas se unieron y confabularon para ello.</p>
+<div class="alert alert-info">
+<h3>VENOM - Black Metal, versión de 1985</h3>
+<p>Venom, entre otros, salvó la década de los 80 musicalmente hablando. Aquí su versión del Black Metal a mediados de la nefasta época.</p>
+<div class="video-container">
+<iframe width="100%" height="415" src="https://www.youtube.com/embed/RAIco_CTtwo?rel=0" title="VENOM - Black Metal, recopilatorio Speed Kills (1985)" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
+</div>
 
 <div class="alert alert-info">
 Pregunta: ¿Por qué te influenció tanto? ¿Cambió tu manera de pensar y entender la música?  
@@ -202,93 +202,100 @@ Pregunta: ¿Por qué te influenció tanto? ¿Cambió tu manera de pensar y enten
 
 <p>RESPUESTA:</p>
 
-<p>El señor Austin es un <strong>experto en sacar mierda de dentro</strong> y hacerlo de la manera más visceral y pútrida del mundo.</p>
+<p>Aquellos grupos, de alguna manera, <strong>me incitaron a coger una guitarra</strong>, concretamente, un guitarrico para <strong>tocar jotas aragonesas</strong> que había por ahí cogiendo polvo y empecé a intentar sacar partes de temas que molaban.</p>
 
-<p>Está a otro nivel, a mí me sacó de mi zona de confort y me enseñó que <strong>no es real lo que vemos, que hay que usar tus defectos y tu mierda</strong> y dejarse la vida en cada acorde.</p>
-
-<p>Para mí es lo que siempre he querido explicar con lo que hago, es difícil de explicar.</p>
-
-<div class="video-container">
-<iframe width="100%" height="415" src="https://www.youtube.com/embed/WUo6Abp296w?rel=0" title="Today Is the Day, Live 1999, pre-Mastodon" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-</div>
+<p><strong>Usando de púa una moneda de 25 pesetas</strong>, me puse a sacar temas de <strong>Hellhammer</strong>, intuía que era lo único asequible para empezar.</p>
 
 <div class="alert alert-info">
-Pregunta: ¿Se sigue notando hoy en día el poso que me dejó?  
-</div>
-
-<p>RESPUESTA:</p>
-
-<p>Siempre estará ahí por la sencilla razón de que <strong>este disco fue el punto de darme cuenta de que hay que arriesgar y hacer lo que te dé la gana</strong> y más hoy en día con tanta tecnología y el <strong>hype de tener todo custom y bonito para la foto</strong>.</p>
-
+<h3>Hellhammer - Messiah (Satanic Rites, 1983)</h3>
+<p>¿Os imagináis a un <strong>imberbe mini-Rizos</strong> agitando su guitarrico aragonés al ritmo de este tema?</p>
+<p>Quizá eso explique por qué años después se pillaría su carismática guitarra <strong>Bc Rich Draco V Onyx</strong>, la puta guitarra más heavy sobre la faz de la Tierra.</p>
 <div class="video-container">
-<iframe width="100%" height="415" src="https://www.youtube.com/embed/T_X0QqQs-sY?rel=0" title="Documental de Steve Austin, Today Is the Day, Tráiler" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="100%" height="415" src="https://www.youtube.com/embed/F_dQwbsP7Sg?rel=0" title="Hellhammer - Messiah" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
 </div>
 
-<p><strong>Austin es un tío de verdad</strong> que supo muy bien de quien rodearse y trabajó muy duro.</p>
-
-<p>Si podéis ver <strong>el documental que ha salido de su vida</strong>... Eso es la música arriesgada y lo que te ocurre cuando es una parte importante de tu vida.</p>
-
-<div class="video-container">
-<iframe width="100%" height="415" src="https://www.youtube.com/embed/mvsyT0RonD4?rel=0" title="Documental de Steve Austin, Today Is the Day, Tráiler" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<div class="alert alert-success">
+<img
+  data-sizes="auto"
+  data-src="/images/Bc-Rich-Draco-V-Onyx.jpg"
+  alt="Guitarra Bc Rich Draco V Onyx en directo"
+  class="lazyload">
+<p>La "becerra" de Rizos en directo. ¡Hail Satán!</p>
 </div>
-
-<p>El sonido de <strong>Today is the Day</strong> es especial y <strong>a mucha gente le parece demencial</strong> y un poco descuidado, y <strong>realmente esa es su fuerza</strong>: la locura auténtica y la rabia que te sale desde las gónadas.</p>
-
-<div class="alert alert-info">
-Pregunta: ¿Sigues escuchando ese disco? ¿Con qué frecuencia? 
-</div>
-
-<p>RESPUESTA:</p>
-
-<p><strong>Lo escucho muchísimo y muchos de sus discos también</strong>, pero éste es el que más ya que <strong>me ayudó en momentos muy jodidos de mi vida</strong> y me ayudó también a entender que la mierda es para usarla en la música y no contra las personas.</p>
-
-<p>Supongo que <strong>es como una terapia o algo así</strong> pero vamos, una vez a la semana cae siempre, <strong>es como un ritual</strong>.</p>
 
 <div class="banner-box">
 <a href="https://rover.ebay.com/rover/1/710-53481-19255-0/1?icep_id=114&ipn=icep&toolid=20004&campid=5338378088&mpre=https%3A%2F%2Fwww.ebay.co.uk%2Fitm%2FSpeed-Kills-the-very-best-in-speed-metal-MFN-54%2F323436014805%3Fhash%3Ditem4b4e49ecd5%3Ag%3AUm4AAOSw12pbinCP" target="_blank" rel="nofollow noopener">
 <img
   data-sizes="auto"
-  data-src="/images/temple-of-the-morning-star-vinilo-comprar.jpg"
-  alt="Temple of the Morning Star comprar cd y vinilo"
+  data-src="/images/speed-kills-vol-1.jpg"
+  alt="Spped Kills Vol 1 comprar cd y vinilo"
   class="lazyload banner"> 
 </a>
 
-<p><a href="https://rover.ebay.com/rover/1/710-53481-19255-0/1?icep_id=114&ipn=icep&toolid=20004&campid=5338378088&mpre=https%3A%2F%2Fwww.ebay.co.uk%2Fitm%2FSpeed-Kills-the-very-best-in-speed-metal-MFN-54%2F323436014805%3Fhash%3Ditem4b4e49ecd5%3Ag%3AUm4AAOSw12pbinCP" target="_blank" rel="external nofollow noopener">Hazte con el puto vinilo "TEMPLE OF THE MORNING STAR" de Today is the Day. <br>¡Viva la mugre!</a></p>
+<p><a href="https://rover.ebay.com/rover/1/710-53481-19255-0/1?icep_id=114&ipn=icep&toolid=20004&campid=5338378088&mpre=https%3A%2F%2Fwww.ebay.co.uk%2Fitm%2FSpeed-Kills-the-very-best-in-speed-metal-MFN-54%2F323436014805%3Fhash%3Ditem4b4e49ecd5%3Ag%3AUm4AAOSw12pbinCP" target="_blank" rel="external nofollow noopener">El origen de todo. El plástico que todo coleccionista debería tener. <br>¡100% TRUE!</a></p>
 </div>
 <br>
 
-<h2>Más de Today is the Day</h2>
+<h2>Más de Bandas Incluidas en Speed Kills Vol. 1</h2>
 
 <div class="media">
   <div class="media-left">
     <img
   data-sizes="auto"
-  data-src="/images/comprar-animal-mother-cd-today-is-the-day.jpg"
-  alt="Animal Mother de Today is the Day, comprar cd"
+  data-src="/images/Slayer-Hell-Awaits-comprar-vinilo.jpg"
+  alt="Slayer, Hell Awaits, comprar vinilo remasterizado"
   class="lazyload">
   </div>
 <div class="media-body">
-    <div class="media-heading">Animal Mother - CD</div>
-    <div class="media-content"><p>Décimo álbum de la banda, editado en 2014 por Southern Lord Recordings y de venta en DISCOS MACARRAS.</p></div>
-    <p><strong><a href="https://www.discosmacarras.com/es/cds/1595-today-is-the-day-animal-mother-cd.html?search_query=today+is+the+day" target="_blank" rel="external noopener"> Comprar</a></strong></p>
+    <div class="media-heading">Slayer - Hell Awaits (Remasterizado, 2016)</div>
+    <div class="media-content"><p>180 gramos de puro frenetismo satánico. Un clásico que deberías tener si no luce ya en tu estantería. ¡Y además incluye póster!</p></div>
+    <p><strong><a href="https://rover.ebay.com/rover/1/710-53481-19255-0/1?icep_id=114&ipn=icep&toolid=20004&campid=5338378088&mpre=https%3A%2F%2Fwww.ebay.co.uk%2Fitm%2FSlayer-Hell-Awaits-LP-Remastered-180g-Black-Vinyl-2016-with-Poster%2F113149584401%3Fhash%3Ditem1a583da411%3Ag%3AO7MAAOSwYuNbShaW" target="_blank" rel="external noopener"> Comprar</a></strong></p>
   </div>
 </div>
 
-
-<h2>Cómprate lo último de Iván</h2>
+<div class="media">
+  <div class="media-left">
+    <img
+  data-sizes="auto"
+  data-src="/images/Celtic-Frost-Morbid-Tales-vinilo-comprar.jpg"
+  alt="Celtic Frost, Morbid Tales, comprar vinilo remasterizado"
+  class="lazyload">
+  </div>
+<div class="media-body">
+    <div class="media-heading">Celtic Frost - Morbid Tales (Remasterizado)</div>
+    <div class="media-content"><p>Oscuro debut de Tom Warrior y los suyos. Piedra angular de todo lo que vendría después en cuanto a Black y Death.</p></div>
+    <p><strong><a href="https://rover.ebay.com/rover/1/710-53481-19255-0/1?icep_id=114&ipn=icep&toolid=20004&campid=5338378088&mpre=https%3A%2F%2Fwww.ebay.co.uk%2Fitm%2FCeltic-Frost-Morbid-Tales-Remastered-NEW-2-VINYL-LP%2F352106180728%3Fepid%3D13002754566%26hash%3Ditem51fb29f078%3Ag%3AqIUAAOSwjiZaKvFP" target="_blank" rel="external noopener"> Comprar</a></strong></p>
+  </div>
+</div>
 
 <div class="media">
   <div class="media-left">
     <img
   data-sizes="auto"
-  data-src="/images/vor-depravador-cd.jpg"
-  alt="Animal Mother de Today is the Day, comprar cd"
+  data-src="/images/voivod-the-wake-2018-cd.jpg"
+  alt="Voivod, The Wake, comprar cd 2018"
   class="lazyload">
   </div>
 <div class="media-body">
-    <div class="media-heading">VOR - Depravador - CD</div>
-    <div class="media-content"><p>Flamante último disco de la banda. Grueso, butal, claustrofóbico, agónico. En fin, todo lo que debería gustarte.</p></div>
-    <p><strong><a href="https://www.discosmacarras.com/es/cds/1894-vor-depravador-cd.html" target="_blank" rel="external noopener"> Comprar</a></strong></p>
+    <div class="media-heading">Voivod - The Wake (Pre Order CD)- 2018</div>
+    <div class="media-content"><p>35 años de historia como referente del Trash Mateal canadiense y sumando: el 21 de Septiembre sacan disco.</p></div>
+    <p><strong><a href="https://rover.ebay.com/rover/1/710-53481-19255-0/1?icep_id=114&ipn=icep&toolid=20004&campid=5338378088&mpre=https%3A%2F%2Fwww.ebay.co.uk%2Fitm%2FVoivod-The-Wake-NEW-2-x-CD-Preorder-Out-21st-September%2F352451916148%3F_trkparms%3Daid%253D555017%2526algo%253DPL.CASSINI%2526ao%253D1%2526asc%253D53530%2526meid%253D7c42c2776bc74d8a80201c81efe8a276%2526pid%253D100505%2526rk%253D1%2526rkt%253D1%2526%2526itm%253D352451916148%26_trksid%3Dp2045573.c100505.m3226" target="_blank" rel="external noopener"> Comprar</a></strong></p>
+  </div>
+</div>
+
+<div class="media">
+  <div class="media-left">
+    <img
+  data-sizes="auto"
+  data-src="/images/BULLDOZER-The-day-of-wrath-&-The-exorcism-cd-digipack.jpg"
+  alt="BULLDOZER, The day of wrath & The exorcism, CD digipack"
+  class="lazyload">
+  </div>
+<div class="media-body">
+    <div class="media-heading">BULLDOZER “The day of wrath & The exorcism” (CD Digipack)</div>
+    <div class="media-content"><p>Genial edición de “The day of wrath & The exorcism” a un precio interesante tiniendo en cuenta la joya que te llevas.</p></div>
+    <p><strong><a href="https://rover.ebay.com/rover/1/710-53481-19255-0/1?icep_id=114&ipn=icep&toolid=20004&campid=5338378088&mpre=https%3A%2F%2Fwww.ebay.co.uk%2Fitm%2FBULLDOZER-The-Day-of-Wrath-The-Exorcism-DCD-DELUXE-DIGIBOOK%2F312097824055%3Fhash%3Ditem48aa7add37%3Ag%3AviUAAOSwWUlavAav" target="_blank" rel="external noopener"> Comprar</a></strong></p>
   </div>
 </div>
 
