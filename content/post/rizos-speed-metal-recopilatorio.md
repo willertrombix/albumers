@@ -1,6 +1,6 @@
 +++
 title = "Rizos & Seed Kills, recopilatorio 1985"
-date = 2018-09-13
+date = 2018-09-14
 description = "Aquí los orígenes del guitarrista de grupos como Necrotanke, Encabronation, Fvnësto e Incertidumbre"
 keywords = [
   "Speed Kills",
