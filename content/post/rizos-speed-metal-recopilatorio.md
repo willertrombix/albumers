@@ -11,7 +11,7 @@ keywords = [
 ]
 tags = ["VOR", "Lazharus", "Anal War of Gods", "Today Is The Day", "Temple of the Morning Star"] 
 images = [
-    "https://albumers.org/images/ivan-temple-of-the-morning-star-TITD.jpg"
+    "https://albumers.org/images/el-rizos-en-escaleruela-fest-2018.jpg"
 ] # Suggested, controls default Open Graph images
 draft = false
 +++  
@@ -21,12 +21,14 @@ draft = false
 
 <p>Enfundado en una camiseta negra, sus vaqueros negros y sus zapatillas altas negras, <strong>haga 35º de calor o estemos en pleno diciembre</strong>, Antonio -más conocido como <strong>"El Rizos"</strong>- es una de las personas que <strong>probablemente más haya contribuido a engordar la escena extrema</strong> de estos lares levantinos.</p>
 
+<div class="alert alert-success">
 <img
   data-sizes="auto"
-  data-src="/images/xxxxxxxxx.jpg"
+  data-src="/images/el-rizos-en-escaleruela-fest-2018.jpg"
   alt="El Rizos, guitarra Necrotanke, Encabronation, EL Hambre, Incertidumbre"
   class="lazyload">
-
+<p>Va de Grindcoreta salvaje, pero todos sabemos que es un trozo de pan, un tío achuchable</p>
+</div>
 <p>No en vano, es uno de los fundadores de bandas como <strong><a href="https://visceraldamage.bandcamp.com/" target="_blank" rel="external noopener">Visceral Damage</a></strong>, que este 2018 acaba de cumplir <strong>la friolera de 20 años en activo</strong>.</p>
 
 <p>Un tiempo después descubriría en mis propias carnes que en Valencia se podía hacer un <strong>grindcore sin piedad</strong>, del que si te pilla te mata. 
@@ -53,7 +55,7 @@ draft = false
 </div>
 </div>
 
-<p>También habría tiempo y ganas de seguir aliméntandose de violencia y caos con otras formaciones como <strong><a href="https://elhambre.bandcamp.com/album/el-hambre" target="_blank" rel="external noopener">El Hambre</a></strong>, con piezas fundamentales del rollo como <strong>El Huevo</strong>, <strong>El Topocho</strong>, <strong>El Escrich</strong> <strong><a href="https://www.instagram.com/noisearmadadesign/?hl=es" target="_blank" rel="external noopener">(Noise Atmada)</a></strong> o, una vez más <strong>Raúl</strong>. Esta vez <strong>El Rizos cambiaría la guitarra por lel bajo.</strong>. Le da igual con tal de que las cuerdas queden reducidas a cenizas.</p>
+<p>También habría tiempo y ganas de seguir aliméntandose de violencia y caos con otras formaciones como <strong><a href="https://elhambre.bandcamp.com/album/el-hambre" target="_blank" rel="external noopener">El Hambre</a></strong>, con miembros fundamentales del rollito como <strong>El Huevo</strong>, <strong>El Topocho</strong>, <strong>El Escrich</strong> <strong><a href="https://www.instagram.com/noisearmadadesign/?hl=es" target="_blank" rel="external noopener">(Noise Armada)</a></strong> o, una vez más, <strong>Raúl</strong>. Esta vez <strong>El Rizos cambiaría la guitarra por el bajo...</strong> Le da igual con tal de que las cuerdas queden reducidas a cenizas.</p>
 
 <div class="alert alert-info">
 <h3>El Hambre, split con CrisisChrist (2015)</h3>
@@ -63,35 +65,35 @@ draft = false
 </div>
 </div>
 
-<p>De un tiempo a esta parte anda metido en tres bandas algo distintas del habitual grindcore que siempre ha tocado. La primera de estas bandas es <strong><a href="https://www.facebook.com/Necrotanke-1613962138868746/">Necrotanke</a></strong>, que tengo la suerte de compartir con él, además de -otra vez- <strong>Raúl (el mismo de más arriba)</strong>, <strong>Ape (ex Automuro, ex Cuervo y ex Ape, Perry and Bonette)</strong> y de nuevo <strong>Nacho (Encabronation)</strong>. ATentos que estamos ahora mismo en fase de mezclar nuestro pirmer <strong>LP que "se te va la olla, nano"</strong>.
+<p>De un tiempo a esta parte anda metido en tres bandas algo distintas del habitual grindcore que siempre ha tocado.</p>
+
+<p><strong>La primera</strong> de estas bandas es <strong><a href="https://www.facebook.com/Necrotanke-1613962138868746/" target="_blank" rel="external noopener">Necrotanke</a></strong>, que tengo la suerte de compartir con él, además de -otra vez- <strong>Raúl</strong>(el mismo de más arriba, el batería Grind por antonomasia), <strong>Ape (ex Automuro, ex Cuervo y ex Ape, Perry and Bonette)</strong> y de nuevo <strong>Nacho (Encabronation, Incertidumbre)</strong>. Atentos que estamos ahora mismo en fase de mezclar nuestro primer <strong class="italic">LP que "se te va la olla, nano"</strong>.
 
 <div class="alert alert-info">
 <h3>Necrotanke, tema: Innsmouth (directo 28-10-2017)</h3>
 <p>Mítica noche compartiendo cartel con Haemorraghe</p>
 <div class="video-container">
-<iframe width="100%" height="415" src="https://www.youtube.com/embed/_0sB5NUlwjg?rel=0" title="El Hambre, split con CrisisChrist (2015) Álbum completo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="100%" height="415" src="https://www.youtube.com/embed/g1n4GCnayDQ?rel=0" title="Necrotanke: Black Metal, Crust. Directo Sala Paberse (Sedaví, Valencia)" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 </div>
 
+<p><strong>La segunda</strong> de las bandas que no son pura velocidad es <strong><a href="https://fvnesto.bandcamp.com/releases" target="_blank" rel="external noopener">Fvnestö</a></strong> que, de hecho, es todo lo contrario: un proyecto versado en el Doom y en lo siniestro a fuego lento, con el mismo <strong>Ape</strong> de Necrotanke, <strong>Txuli</strong> y <strong>Marco</strong> (bajo y batería que compartieron sudor antes en grupos como <strong>Factótum</strong> o <strong>Bosque</strong>). 
+
+<div class="alert alert-info">
+<h3>Fvnestö (directo 15-06-2018)</h3>
+<p>Estos chicos saben cómo borrarte la sonrisa de la cara</p>
+<div class="video-container">
+<iframe width="100%" height="415" src="https://www.youtube.com/embed/vWXgVgBVtI8?rel=0" title="Fvnestö: Doom (directo Darkness Pub, Sedaví, Valencia)" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
+</div>
+
+<p>Por último, <strong>Incertidumbre</strong> es la nueva banda en la que se ha alistado <strong>El Rizos</strong>, junto a (¡sorpresa!) <strong>Nacho</strong> (Necrotanke, Encabronation) y nueva sangre -que a veces hay que renovarla-, concretamente, la que corre por las venas de <strong>Kate</strong> y <strong>Olga</strong>. De momento no hay documentación de esta banda, pero permaneced atentos a vuestras pantallas, <strong>moderfakers</strong>.
 
 <div class="alert alert-error">
-Al final va a ser verdad eso de que <strong>entre 5 personas en Valencia se forman 35 bandas</strong>
+Al final va a ser verdad eso de que <strong>entre 5 personas en Valencia se forman 35 bandas</strong>. TRUE STORY.
 </div>
 
-
-#########
-
-
-<div class="video-container">
-<iframe width="100%" height="415" src="https://www.youtube.com/embed/7D6pVlgONlQ?rel=0" title="VENOM - Black Metal, recopilatorio Speed Kills (1985)" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-</div>
-
-<div class="video-container">
-<iframe width="100%" height="415" src="https://www.youtube.com/embed/hXREygA-vQ4?rel=0" title="Exciter - Riders from Darkness, recopilatorio Speed Kills (1985)" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-</div>
-
-<p>Hazte con todos, como si fueran putos Pokemons</p>
-
+<h3>Hazte con todas, como si fueran putos Pokemons</h3>
 
 <table>
 <thead>
@@ -99,38 +101,36 @@ Al final va a ser verdad eso de que <strong>entre 5 personas en Valencia se form
 <th>Necrotanke</th>
 <th>Encabronation</th>
 <th>El Hambre</th>
-<th>Incertidumbre</th>
-<th>???</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td><a href="https://www.facebook.com/vornoise/" target="_blank" rel="external noopener" style="font-weight:normal;">Face.</td>
-<td><a href="https://www.facebook.com/lazharusoscuro/" target="_blank" rel="external noopener">Face.</td>
-<td><a href="https://www.facebook.com/AWOG-400820496921614/" target="_blank" rel="external noopener">Face.</td>
-<td><a href="https://www.facebook.com/GRASSA-DATO-124614660946794/" target="_blank" rel="external noopener">Face.</td>
-<td><a href="https://www.facebook.com/Moribunder-229991914230059/" target="_blank" rel="external noopener">Face.</td>
+<td><a href="https://www.facebook.com/Necrotanke-1613962138868746/" target="_blank" rel="external noopener" style="font-weight:normal;">Facebook</td>
+<td><a href="https://www.facebook.com/Encabronation-446386562109828/" target="_blank" rel="external noopener">Facebook</td>
+<td><a href="https://www.facebook.com/ElHambre666/" target="_blank" rel="external noopener">Facebook</td>
 </tr>
+</tbody>
+</table>
+<table>
+<thead>
 <tr>
-<td><a href="https://www.instagram.com/vormadrid/" target="_blank" rel="external noopener" style="font-weight:normal;">Insta.</td>
-<td><a href="https://www.instagram.com/lazharus666/" target="_blank" rel="external noopener">Insta.</td>
-<td><a href="https://www.instagram.com/analwarofgodsband/" target="_blank" rel="external noopener">Insta.</td>
-<td><a href="https://www.youtube.com/user/GRASSADATO" target="_blank" rel="external noopener">Yout.</td>
+<th>Fvnestö</th>
+<th>Incertidumbre</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://www.facebook.com/Fvnesto/" target="_blank" rel="external noopener" style="font-weight:normal;">Facebook</td>
 <td style="text-align: center; color: #ff2e88;">XXX</td>
 </tr>
 </tbody>
 </table>
 
 <br>
-<div class="alert alert-success">
-Aquí Iván con su hija Noa, a la que está enseñándole ya <strong>MUSICOTE</strong> desde bien pequeña
-</div>
 
-<img
-  data-sizes="auto"
-  data-src="/images/ivan-temple-of-the-morning-star-TITD.jpg"
-  alt="Iván, de Vor, con su disco favorito de Today is teh Day y su hija"
-  class="lazyload">
+<div class="alert alert-success">
+<h3>Ahora, por fin, le cedemos el turno al Rizos</h3>
+</div>
 
 <div class="alert alert-info">
 Pregunta: ¿Dónde y cómo descubriste el disco que te cambió la vida?
@@ -138,7 +138,7 @@ Pregunta: ¿Dónde y cómo descubriste el disco que te cambió la vida?
 
 <p>RESPUESTA:</p>
 
-<p>Pues estaba un día de 1986, en casa, después de hacer las tareas escolares y entreteniéndome con algún juego, cuando llegó mi hermano con un disco muy particular. </p>
+<p>Pues estaba <strong>un día de 1986</strong>, en casa, después de hacer las tareas escolares y entreteniéndome con algún juego, cuando llegó mi hermano con un disco muy particular. </p>
 
 <p>Por aquel entonces ya hacía unos años que el <strong>Heavy Metal sonaba en casa</strong>. Grupos como <strong>Iron Maiden, Judas Priest o Saxon</strong> los escuchaba y me flipaban, pero lo mejor estaba por llegar.</p>
 
@@ -154,16 +154,6 @@ Pregunta: ¿Dónde y cómo descubriste el disco que te cambió la vida?
 </div>
 </div>
 
-
-
-<p>RESPUESTA:</p>
-
-<div class="alert alert-info">
-<h3>Today Is The Day - Temple Of The Morning Star [Versión Acústica]</h3>
-<p>Dale al PLAY y entra en trance con Steve</p>
-<iframe width="100%" height="265" src="https://clyp.it/sxohrliw/widget" frameborder="0"></iframe>
-</div>
-
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <ins class="adsbygoogle"
      style="display:block; text-align:center;"
@@ -174,6 +164,19 @@ Pregunta: ¿Dónde y cómo descubriste el disco que te cambió la vida?
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
+
+#####
+
+<div class="video-container">
+<iframe width="100%" height="415" src="https://www.youtube.com/embed/7D6pVlgONlQ?rel=0" title="VENOM - Black Metal, recopilatorio Speed Kills (1985)" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
+
+<div class="video-container">
+<iframe width="100%" height="415" src="https://www.youtube.com/embed/hXREygA-vQ4?rel=0" title="Exciter - Riders from Darkness, recopilatorio Speed Kills (1985)" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
+
+
+
 
 <div class="alert alert-info">
 Pregunta: ¿Tienes alguna anécdota que te haya pasado escuchando el disco o al grupo? 
