@@ -35,7 +35,7 @@ draft = false
 </div>
 <p>No en vano, es uno de los fundadores de bandas como <strong><a href="https://visceraldamage.bandcamp.com/" target="_blank" rel="external noopener">Visceral Damage</a></strong>, que este 2018 acaba de cumplir <strong>la friolera de 20 años en activo</strong>.</p>
 
-<p>Un tiempo después descubriría en mis propias carnes que en Valencia se podía hacer un <strong>grindcore sin piedad</strong>, del que si te pilla te mata. 
+<p>Un tiempo después descubriría en mis propias carnes que en Valencia se podía hacer un <strong>grindcore sin piedad</strong>, del que si te pilla te mata.</p>
 
 <p>Pura biela, un rodillo percutor o dientes contra bordillos...</p>
 
@@ -167,17 +167,6 @@ Pregunta: ¿Dónde y cómo descubriste el disco que te cambió la vida?
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
-
-#####
-
-
-
-<div class="video-container">
-<iframe width="100%" height="415" src="https://www.youtube.com/embed/hXREygA-vQ4?rel=0" title="Exciter - Riders from Darkness, recopilatorio Speed Kills (1985)" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-</div>
-
-speed-kills-vol-1
-
 
 <div class="alert alert-info">
 Pregunta: ¿Tienes alguna anécdota que te haya pasado escuchando el disco o al grupo? 
