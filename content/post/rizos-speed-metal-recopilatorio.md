@@ -205,9 +205,7 @@ Pregunta: ¿Por qué te influenció tanto? ¿Cambió tu manera de pensar y enten
 <h3>Hellhammer - Messiah (Satanic Rites, 1983)</h3>
 <p>¿Os imagináis a un <strong>imberbe mini-Rizos</strong> agitando su guitarrico aragonés al ritmo de este tema?</p>
 <p>Quizá eso explique por qué años después se pillaría su carismática guitarra <strong>Bc Rich Draco V Onyx</strong>, la puta guitarra más heavy sobre la faz de la Tierra.</p>
-<div class="video-container">
-<iframe width="100%" height="415" src="https://www.youtube.com/embed/F_dQwbsP7Sg?rel=0" title="Hellhammer - Messiah" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-</div>
+<iframe width="100%" height="265" src="https://clyp.it/mffbs1vm/widget" frameborder="0"></iframe>
 </div>
 
 <div class="alert alert-success">
