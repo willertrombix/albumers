@@ -69,6 +69,15 @@ draft = false
 </div>
 </div>
 
+<div class="alert alert-success">
+<img
+  data-sizes="auto"
+  data-src="/images/rizos-huevo-topocho-raul-willer.jpg"
+  alt="Rizos, Huevo, Topocho, Raúl, Willer"
+  class="lazyload">
+<p>La pandilla Crusty en algún lugar del norte</p>
+</div>
+
 <p>De un tiempo a esta parte anda metido en tres bandas algo distintas del habitual grindcore que siempre ha tocado.</p>
 
 <p><strong>La primera</strong> de estas bandas es <strong><a href="https://www.facebook.com/Necrotanke-1613962138868746/" target="_blank" rel="external noopener">Necrotanke</a></strong>, que tengo la suerte de compartir con él, además de -otra vez- <strong>Raúl</strong>(el mismo de más arriba, el batería Grind por antonomasia), <strong>Ape (ex Automuro, ex Cuervo y ex Ape, Perry and Bonette)</strong> y de nuevo <strong>Nacho (Encabronation, Incertidumbre)</strong>. Atentos que estamos ahora mismo en fase de mezclar nuestro primer <strong class="italic">LP que "se te va la olla, nano"</strong>.
