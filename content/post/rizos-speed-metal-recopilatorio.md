@@ -128,9 +128,18 @@ Al final va a ser verdad eso de que <strong>entre 5 personas en Valencia se form
 </tr>
 </tbody>
 </table>
-
 <br>
-
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-2032573255527749"
+     data-ad-slot="2857659837"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+<br>
 <div class="alert alert-success">
 <h3>Ahora, por fin, le cedemos el turno al Rizos</h3>
 </div>
@@ -156,17 +165,6 @@ Pregunta: ¿Dónde y cómo descubriste el disco que te cambió la vida?
 <iframe width="100%" height="415" src="https://www.youtube.com/embed/UUJEpof_pkA?start=35" title="Slayer, Evil Has No Boundaries, Directo 1985" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 </div>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-2032573255527749"
-     data-ad-slot="2857659837"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 <div class="alert alert-info">
 Pregunta: ¿Tienes alguna anécdota que te haya pasado escuchando el disco o al grupo? 
