@@ -98,7 +98,6 @@ Al final va a ser verdad eso de que <strong>entre 5 personas en Valencia se form
 </div>
 
 <h3>Hazte con todas, como si fueran putos Pokemons</h3>
-
 <table>
 <thead>
 <tr>
