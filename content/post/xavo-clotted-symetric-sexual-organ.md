@@ -79,8 +79,19 @@ draft = false
 
 <p>"Hey gente, el bueno de Will me dice que os hable de uno de los discos que más me han influenciado en esto de hacer ruido.</p>
 
- <p>Tras mucho darle vueltas me he decidido por un EP que marcó <strong>un antes y un después en mi puta vida</strong>, dos canciones y en total unos 10 minutos les bastó a <strong>C.S.S.O.</strong>, siglas de <strong>Clotted Symmetric Sexual Organ</strong>, para volarnos el cerebro a mí y a mis compares en la gris e insulsa Alzira de finales de los noventa,con "Diversion of former customary trite composition 7" (1997), 
-( 1. Shake it up Bokan + 2. Diversion of former customary trite composition part1 - Don´t play guitar sitting on chair part2 - Long hair mathematics teacher part3 - Hey, Tonny! (aka Anal Bloody Anal) part4 - Eclectic birth)   
+ <p>Tras mucho darle vueltas me he decidido por un EP que marcó <strong>un antes y un después en mi puta vida</strong>, dos canciones y en total unos 10 minutos les bastó a <strong>C.S.S.O.</strong>, siglas de <strong>Clotted Symmetric Sexual Organ</strong>, para volarnos el cerebro a mí y a mis compares en la <strong>gris e insulsa Alzira de finales de los noventa</strong>, con <strong>"Diversion of former customary trite composition" (1997)</strong>.
+
+<p></p>
+
+<pre><code>
+├── Aquí el tacklist:
+    ├── 1. Shake it up Bokan (Side A)
+    ├── 2. Diversion of former customary trite composition
+        ├── part1 - Don´t play guitar sitting on chair
+        ├── part2 - Long hair mathematics teacher
+        ├── part3 - Hey, Tonny! (aka Anal Bloody Anal)
+        └── part4 - Eclectic birth
+</code></pre>
 
 <div class="alert alert-success">
 <img
@@ -92,16 +103,24 @@ draft = false
 </div>
 
 <div class="alert alert-info">
-<h3>C.S.S.O. - Diversion of former customary trite composition</h3>
+<h3>C.S.S.O. - Shake it up Bokan (side A)</h3>
 <p>Guarreridas musicales con altas dosis de noise espasmódico, pero también con groove. <strong>Salseo del bueno</strong>, en resumidas cuentas.</p>
 <div class="video-container">
-<iframe width="100%" height="415" src="https://www.youtube.com/embed/4giWhpgmcg8?rel=0" title="C.S.S.O. Albúm: Diversion of former customary trite composition (1997)" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="100%" height="415" src="https://www.youtube.com/embed/THFNxmO5a5o?rel=0" title="C.S.S.O. Albúm: Diversion of former customary trite composition (1997)" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 </div>
 
  <p>10 minutos en los que cabía <strong>grindcore reloco a la japonesa, psicodelía, guitarra clásica, Hendrix, cambios de ritmo y originalidad a raudales</strong>.</p>
 
  <p>La banda japonesa no volvería jamás a realizar algo al nivel de estas dos composiciones que <strong>suenan a gloria infernal</strong> en reluciente vinilo (la banda, todavía en activo, <strong>tiene un montón de referencias entre demos, splits y discos desde 1993</strong>) y pocos han podido llegar a estas cotas de <strong>fresca locura perfectamente controlada</strong>.</p>
+
+ <div class="alert alert-info">
+<h3>C.S.S.O. - Diversion of former customary trite composition (side B)</h3>
+<p>La cara B de un EP lleno de soirpresas y diversión. Es como ir <strong>cuesta abajo con una vespino y sin frenos. Conduce el mono.</strong></p>
+<div class="video-container">
+<iframe width="100%" height="415" src="https://www.youtube.com/embed/4giWhpgmcg8?rel=0" title="C.S.S.O. Albúm: Diversion of former customary trite composition (1997)" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
+</div>
 
 <div class="alert alert-info">
 Pregunta: ¿Dónde y cómo descubriste el disco que te cambió la vida?
@@ -119,6 +138,12 @@ Pregunta: ¿Tienes alguna anécdota que te haya pasado escuchando el disco o al 
 
 <div class="alert alert-info">
 Pregunta: ¿Por qué te influenció tanto? ¿Cambió tu manera de pensar y entender la música?  
+</div>
+
+<p>RESPUESTA:</p>
+
+<div class="alert alert-info">
+Pregunta: ¿Se sigue notando hoy en día el poso que me dejó?  
 </div>
 
 <p>RESPUESTA:</p>
