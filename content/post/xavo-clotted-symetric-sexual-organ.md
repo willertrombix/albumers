@@ -114,9 +114,9 @@ draft = false
 
  <p>La banda japonesa no volvería jamás a realizar algo al nivel de estas dos composiciones que <strong>suenan a gloria infernal</strong> en reluciente vinilo (la banda, todavía en activo, <strong>tiene un montón de referencias entre demos, splits y discos desde 1993</strong>) y pocos han podido llegar a estas cotas de <strong>fresca locura perfectamente controlada</strong>.</p>
 
- <div class="alert alert-info">
+<div class="alert alert-info">
 <h3>C.S.S.O. - Diversion of former customary trite composition (side B)</h3>
-<p>La cara B de un EP lleno de soirpresas y diversión. Es como ir <strong>cuesta abajo con una vespino y sin frenos. Conduce el mono.</strong></p>
+<p>La <strong>cara B</strong> de un EP lleno de soirpresas y diversión. Es como ir <strong>cuesta abajo con una vespino y sin frenos. Conduce el mono.</strong></p>
 <div class="video-container">
 <iframe width="100%" height="415" src="https://www.youtube.com/embed/4giWhpgmcg8?rel=0" title="C.S.S.O. Albúm: Diversion of former customary trite composition (1997)" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
@@ -127,6 +127,36 @@ Pregunta: ¿Dónde y cómo descubriste el disco que te cambió la vida?
 </div>
 
 <p>RESPUESTA:</p>
+
+<p>Durante el segundo año de instituto me lancé como un loco a por todo lo que sonara a <strong>grindcore y a noise</strong>, también  a por el <strong>death metal clásico</strong> y la <strong>primera hornada del Black metal noruego</strong>.</p>
+
+<p>Es ahí que ya empezaba a desmarcarme de los sonidos habituales: <strong>punk moñas, rock de “akí” y del mainstream así en general</strong>.</p>
+
+<p>Toda la pasta que no me gastaba en <strong>costo apaleao y en tripis del palo</strong> me la pulía pidiendo discos</p>.
+
+<p>Recuerdo pedidos legendarios para la formación de mi background como aquellos en los que me llegaron el <strong>Kill Trend Suicide</strong> de <strong><a href="https://brutaltruth.bandcamp.com/" target="_blank" rel="external noopener"></a> Brutal Truth</strong> o el <strong>Seven Deadly Sins</strong> de <strong>Daemon</strong> (con <strong>Nickie Royal de Entombed</strong> y de los, por aquel entonces incipientes, <strong>Hellacopters</strong> a la batería en un pepinazo de <strong>Death n´roll gorrino</strong> al que le debería dedicar otro artículo a parte)</p>
+
+<div class="alert alert-info">
+<h3>Brutal Truth - Kill Trend Suicide (1996)</h3>
+<p>Clásico básico de tus neoyorkinos preferidos</p>
+<div class="video-container">
+<iframe width="100%" height="415" src="https://www.youtube.com/embed/T2csZEIWYj4?rel=0" title="Brutal Truth: Kill Trend Suicide (1996, álbum completo)" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
+</div>
+
+<div class="alert alert-info">
+<h3>DAEMON - Seven Deadly Sins (1996)</h3>
+<p>Proyecto paralelo de la peñita de <strong>Entombed</strong> y <strong>Konkhra</strong>. Luego no digas que no te lo avisé.</p>
+<div class="video-container">
+<iframe width="100%" height="415" src="https://www.youtube.com/embed/zCr0tELpRMA?rel=0" title="DAEMON: Seven Deadly Sins (1996, álbum completo)" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
+</div>
+
+<p>Recuerdo que en uno de los paquetes que encargábamos a la extinta <strong>Repulse Records</strong> me llegó este disco, <strong>el C.S.S.O. - Diversion of former customary trite composition</strong>, que todavía guardo oro en paño, junto con el <strong>Grume</strong> de <strong><a href="https://haemorrhage.bandcamp.com/" target="_blank" rel="external noopener">Haemorraghe</a></strong> y un mini Cd de un grupo de Europa del Este: <strong>SOCIAL DEFORMITY ("Daltonism”)</strong> que era y es un <strong>pasote serio</strong>.</p>
+
+<p>Supongo que me llamaría la atención la descripición del género en el que se aglutinaba todo lo que me gustaba: <span class="italic"> twisted grindcore noise rock n´roll</span> o algo así.</p>
+
+<p>El formato en 7”, el precioso coloreado en lila jaspeado del vinilo, la portada tan trash y lo jodidamente kitsch de la presentación me dejaron loco perdido, pero lo mejor estaba por llegar a través del contenido.</p>
 
 
 <div class="alert alert-info">
