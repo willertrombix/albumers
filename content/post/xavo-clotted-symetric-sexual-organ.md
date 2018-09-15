@@ -128,13 +128,13 @@ Pregunta: ¿Dónde y cómo descubriste el disco que te cambió la vida?
 
 <p>RESPUESTA:</p>
 
-<p>Durante el segundo año de instituto me lancé como un loco a por todo lo que sonara a <strong>grindcore y a noise</strong>, también  a por el <strong>death metal clásico</strong> y la <strong>primera hornada del Black metal noruego</strong>.</p>
+<p>Durante el segundo año de instituto me lancé como un loco a por todo lo que sonara a <strong>grindcore y a noise</strong>, también  a por el <strong>death metal clásico</strong> y la <strong>primera hornada del Black Metal noruego</strong>.</p>
 
 <p>Es ahí que ya empezaba a desmarcarme de los sonidos habituales: <strong>punk moñas, rock de “akí” y del mainstream así en general</strong>.</p>
 
-<p>Toda la pasta que no me gastaba en <strong>costo apaleao y en tripis del palo</strong> me la pulía pidiendo discos</p>.
+<p>Toda la pasta que no me gastaba en <strong>costo apaleao y en tripis del palo</strong> me la pulía pidiendo discos.</p>
 
-<p>Recuerdo pedidos legendarios para la formación de mi background como aquellos en los que me llegaron el <strong>Kill Trend Suicide</strong> de <strong><a href="https://brutaltruth.bandcamp.com/" target="_blank" rel="external noopener"></a> Brutal Truth</strong> o el <strong>Seven Deadly Sins</strong> de <strong>Daemon</strong> (con <strong>Nickie Royal de Entombed</strong> y de los, por aquel entonces incipientes, <strong>Hellacopters</strong> a la batería en un pepinazo de <strong>Death n´roll gorrino</strong> al que le debería dedicar otro artículo a parte)</p>
+<p>Recuerdo pedidos legendarios para la formación de mi background como aquellos en los que me llegaron el <strong>Kill Trend Suicide</strong> de <strong><a href="https://brutaltruth.bandcamp.com/" target="_blank" rel="external noopener">Brutal Truth</a></strong> o el <strong>Seven Deadly Sins</strong> de <strong>Daemon</strong> (con <strong>Nickie Royal</strong> de <strong><a href="https://entombedband.bandcamp.com/" target="_blank" rel="external noopener">Entombed</a></strong> y de los, por aquel entonces incipientes, <strong>Hellacopters</strong> a la batería en un pepinazo de <strong>Death n´roll gorrino</strong> al que le debería dedicar otro artículo a parte)</p>
 
 <div class="alert alert-info">
 <h3>Brutal Truth - Kill Trend Suicide (1996)</h3>
@@ -152,11 +152,11 @@ Pregunta: ¿Dónde y cómo descubriste el disco que te cambió la vida?
 </div>
 </div>
 
-<p>Recuerdo que en uno de los paquetes que encargábamos a la extinta <strong>Repulse Records</strong> me llegó este disco, <strong>el C.S.S.O. - Diversion of former customary trite composition</strong>, que todavía guardo oro en paño, junto con el <strong>Grume</strong> de <strong><a href="https://haemorrhage.bandcamp.com/" target="_blank" rel="external noopener">Haemorraghe</a></strong> y un mini Cd de un grupo de Europa del Este: <strong>SOCIAL DEFORMITY ("Daltonism”)</strong> que era y es un <strong>pasote serio</strong>.</p>
+<p>Recuerdo que en uno de los paquetes que encargábamos a la extinta <strong><a href="https://rover.ebay.com/rover/1/1185-53479-19255-0/1?icep_id=114&ipn=icep&toolid=20004&campid=5338379132&mpre=https%3A%2F%2Fwww.ebay.es%2Fsch%2Fi.html%3F_from%3DR40%26_sacat%3D0%26_nkw%3Drepulse%2Brecords%26rt%3Dnc%26LH_PrefLoc%3D1" target="_blank" rel="external noopener">Repulse Records</a></strong> me llegó este disco, <strong>el C.S.S.O. - Diversion of former customary trite composition</strong>, que todavía guardo oro en paño, junto con el <strong>Grume</strong> de <strong><a href="https://haemorrhage.bandcamp.com/" target="_blank" rel="external noopener">Haemorraghe</a></strong> y un mini Cd de un grupo de Europa del Este: <strong><a href="https://rover.ebay.com/rover/1/1185-53479-19255-0/1?icep_id=114&ipn=icep&toolid=20004&campid=5338379132&mpre=https%3A%2F%2Fwww.ebay.es%2Fitm%2FSOCIAL-DEFORMITY-DALTONISM-CD-1996%2F201447621120%3Fhash%3Ditem2ee736c200%3Ag%3AxvAAAOSwwbdWG-hz" target="_blank" rel="external noopener">SOCIAL DEFORMITY ("Daltonism”)</a></strong> que era y es un <strong>pasote serio</strong>.</p>
 
 <p>Supongo que me llamaría la atención la descripición del género en el que se aglutinaba todo lo que me gustaba: <span class="italic"> twisted grindcore noise rock n´roll</span> o algo así.</p>
 
-<p>El formato en 7”, el precioso coloreado en lila jaspeado del vinilo, la portada tan trash y lo jodidamente kitsch de la presentación me dejaron loco perdido, pero lo mejor estaba por llegar a través del contenido.</p>
+<p>El formato en 7”, el precioso coloreado en <strong>lila jaspeado</strong> del vinilo, la <strong>portada tan trash</strong> y lo <strong>jodidamente kitsch</strong> de la presentación me dejaron loco perdido, pero lo mejor estaba por llegar a través del contenido.</p>
 
 
 <div class="alert alert-info">
@@ -165,6 +165,15 @@ Pregunta: ¿Tienes alguna anécdota que te haya pasado escuchando el disco o al 
 
 <p>RESPUESTA:</p>
 
+<p>Pues hace poco lo compartí en mi <strong>página de Facebook</strong> y me <strong>lo bloquearon por la imagen de las tetas</strong> de la portada (no creo que se pararan a mirar el nombre del grupo).</p>
+
+<div class="alert alert-error">
+<p>¡Zuckerberg, cabrón saluda a la afición!</p>
+</div>
+
+<p>Otra vez <strong>lo pinché enterito en una rave</strong> y alguna gente se puso <strong>muy nerviosa</strong>, más de lo habitual diría yo, a otros les resultó una <strong>puta mierda</strong> y a un pequeño reducto les alegré la existencia.</p>
+
+<p>Una situación <strong>metáfora de la vida misma</strong>, supongo.</p>
 
 <div class="alert alert-info">
 Pregunta: ¿Por qué te influenció tanto? ¿Cambió tu manera de pensar y entender la música?  
@@ -172,17 +181,53 @@ Pregunta: ¿Por qué te influenció tanto? ¿Cambió tu manera de pensar y enten
 
 <p>RESPUESTA:</p>
 
+<p>Este disco hizo que me decantara por buscar cosas digamos <strong>“más de vanguardia”</strong>, cosas oscuras: escuela de <strong><a href="https://es.wikipedia.org/wiki/John_Zorn" target="_blank" rel="external noopener nofollow">John Zorn</a></strong>, <strong><a href="https://es.wikipedia.org/wiki/Glenn_Branca" target="_blank" rel="external noopener nofollow">Glenn Branca</a></strong>, buscar en <strong>Jimmy Hendrix</strong> y toparme de rebote con <strong><a href="https://boredoms.bandcamp.com/" target="_blank" rel="external noopener">Boredoms</a></strong>, con el Kraut Rock y con el post punk de <strong><a href="https://einstrzendeneubauten.bandcamp.com/" target="_blank" rel="external noopener">Einstürzende Neubauten</a></strong> …y de ahí vanagloriar a <a href="https://fantomasofficial.bandcamp.com/album/fantomas" target="_blank" rel="external noopener nofollow">Fantômas</a> sobre todas las cosas.</p>
+
+<div class="alert alert-info">
+<h3>Fantômas: The Director's Cut en directo</h3>
+<p>El proyecto probablemente más vanguardista del <strong>General Patton</strong>, con Tenientes Capitanes del peso de <strong>Trevor Dunn</strong>, <strong>Buzz Osborne</strong> y <strong>Dave Lombardo</strong>, aunque en el siguiente video de su afamado LP "The Director's Cut" -versiones de <strong>B.S.O. de pelis</strong> como <strong>"El Padrino"</strong> o <strong>"La semilla del Diablo"</strong>-, cuentan con <strong>Dale Crover</strong> a las baquetas</p>
+<div class="video-container">
+<iframe width="100%" height="415" src="https://www.youtube.com/embed/0OaASobS2eM?start=86" title="Fantômas: The Director's Cut en directo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
+</div>
+
+<p>También esa apertura del <span class="italic">todo vale</span> que parece un <strong>“sinsentido”</strong> pero que en este trabajo se contextualiza perfectamente sin ser una simple amalgama de ritmos superpuestos y contínuos cambios.</p>
+
+<p>Hay una linealidad en las <strong>canciones</strong> que me parecen muy interesante porque van hacia delante, <strong>sin repetir estrofas ni estribillos ni mierdas de esas</strong> pero que a su vez redondean los temas a cada vez que se van sucediendo sus diferentes partes, <strong>en fin: me flipa</strong>.</p>
+
 <div class="alert alert-info">
 Pregunta: ¿Se sigue notando hoy en día el poso que me dejó?  
 </div>
 
 <p>RESPUESTA:</p>
 
+<p><strong>En la música que me gusta sí</strong> porque me gustan tantas cosas, estilos y bandas diferentes entre sí... No sé... Me gusta pensar que esa <strong>apertura de mente</strong> me la trajo este pequeñito artefacto musical... </p>
+
+<p>Luego ya <strong>en mi forma de tocar y componer pues algo debe de haber</strong>...</p>
+
+<p>Su guitarrista <strong>Sumito (Super Wet Cheese)</strong> tiene una <strong>forma de tocar que me flipa</strong> y en su momento mamé bastante de él gracias a un <strong>VHS con el que me hice a finales de los 90</strong> en el que habían un montón de <strong>tomas en directo suyas</strong>, gastaba un montón el <strong>wah y otros efectos</strong> y eso <strong>en una banda de grindcore es muy “rara avis”</strong>, pero ya ha quedao claro que <strong>no eran una banda de grindcore muy normal</strong>.</p>
+
+<div class="alert alert-info">
+<h3>C.S.S.O. en directo (2000)</h3>
+<p>Uhmmm... Esteeeeee... Pueeeesssss... Sí, <strong>va a ser verdad que muy normales no son</strong> los nipones estos. Mola que hagan una <strong>música loca</strong> pero parezca que <strong>van vestidos</strong> para tocar en <strong>las fiestas de tu pueblo</strong>.</p>
+<div class="video-container">
+<iframe width="100%" height="415" src="https://www.youtube.com/embed/TP_YI11pGRM" title="C.S.S.O. en directo (2000)" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
+</div>
+
+
 <div class="alert alert-info">
 Pregunta: ¿Sigues escuchando ese disco? ¿Con qué frecuencia? 
 </div>
 
 <p>RESPUESTA:</p>
+
+<p>De vez en cuando hago un <strong>ritual matinal</strong> en el que me coloco <strong>montones de Ep´s a toda ostia</strong></p>
+
+<p>Este siempre cae, <strong>cara A y Cara B</strong>.</p> 
+
+<p>Si lo encontráis por ahí dadle una oportunidad. Lo vale!!</p>
+
 
 <div class="banner-box">
 <a href="https://rover.ebay.com/rover/1/710-53481-19255-0/1?icep_id=114&ipn=icep&toolid=20004&campid=5338378088&mpre=https%3A%2F%2Fwww.ebay.co.uk%2Fitm%2FSpeed-Kills-the-very-best-in-speed-metal-MFN-54%2F323436014805%3Fhash%3Ditem4b4e49ecd5%3Ag%3AUm4AAOSw12pbinCP" target="_blank" rel="nofollow noopener">
