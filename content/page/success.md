@@ -6,6 +6,7 @@ keywords = [""]
 tags = [""]
 draft = false
 toc = false
+noindex = true
 +++  
 <p>##Tu mensaje ha sido enviado :)</p>
 
