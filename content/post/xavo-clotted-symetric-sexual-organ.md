@@ -1,6 +1,6 @@
 +++
 title = "Xavo & Diversion of former customary trite composition (C.S.S.O.)"
-date = 2018-09-14
+date = 2018-09-16
 description = "El guitarrista de Revengas nos habla de los 10 minutos que cambiaron su manera de entender la música"
 keywords = [
   "Clotted Symmetric Sexual Organ",
