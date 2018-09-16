@@ -1,7 +1,7 @@
 +++
 title = "Xavo & Diversion of former customary trite composition (C.S.S.O.)"
 date = 2018-09-14
-description = "Alzira"
+description = "El guitarrista de Revengas nos habla de los 10 minutos que cambiaron su manera de entender la música"
 keywords = [
   "Clotted Symmetric Sexual Organ",
   "Diversion of former customary trite composition",
@@ -15,53 +15,83 @@ images = [
 ] # Suggested, controls default Open Graph images
 draft = false
 +++  
-<h2>Título</h2>
+<h2>Buscando más allá del Grind y del Noise</h2>
 
-<p>Bio</p>
+<p>De siempre he admirado a la gente capaz de montarse su propia escena.</p> 
+
+<p><strong>"Si no hay de esto en mi pueblo, pues me lo invento"</strong>.</p>
+
+<p>Siempre me ha parecido la manera más auténtica de disfrutar de lo que crees y lo que respiras. <strong>Pero es fácil decirlo y muy difícl hacerlo</strong>.</p>
+
+<p>Hacen falta dosis de energía extra y <strong>mentes inquietas</strong>.</p>
+
+<p>Quizá esas sean dos de las cualidades que mejor definan a <strong>Xavo Ros</strong>. Un tipo de los que tienen claro que <strong>su diversión no se la van a regalar</strong>. Su diversión hay que construirla. Hay que cultivarla y moldearla.</p>
+
+<p>Eso explicaría que quisiera llenar de matices su -en sus propias palabras- <strong>"gris Alzira"</strong>. Buscar una escapatoria que se alejara de los sonidos convencionales, que aportara <strong>color</strong> y que le ayudara a dibujarse <strong>su propia dimesión paralela en la que cabe TODO</strong>.</p>
 
 <div class="alert alert-success">
 <img
   data-sizes="auto"
-  data-src="/images/Xavo-Clotted-Symmetric-Sexual-Organ.jpg"
-  alt="Xavo con el EP de Clotted Symmetric Sexual Organ"
+  data-src="/images/xavier-ros.jpg"
+  alt="Xavo Ros"
   class="lazyload">
-<p>Buscar foto sin el disco</p>
+<p>Xavo haciendo las cosas del Xavo</p>
 </div>
 
-<p>Más texto bio</p>
+<p>Así empezarían sus primeros devaneos con <strong><a href="https://brutalfreack.bandcamp.com/" target="_blank" rel="external noopener"> Brutal Freack</a></strong>. Mítica banda extrema y brutal de la Ribera Alta.</p>
 
-<h3>Hazte con todas, como si fueran putos Pokemons</h3>
+<div class="alert alert-info">
+<h3>Brutal Freack - Zombie infection (2011)</h3>
+<p>Videoclip grabado con imágenes del videojuego <strong>CodWaw Zombie</strong> o de <strong>las calles de Alzira un domingo a mediodía</strong>.</p>
+<div class="video-container">
+<iframe width="100%" height="415" src="https://www.youtube.com/embed/4OKQrYuoVvQ?rel=0" title="Brutal Freack, Zombie infection (2011)" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
+</div>
+
+<p>Más tarde llegaría el momento de la <strong>fiesta cavernícola</strong>, el punk rock desenfrenado, el <strong>garaje grasoso</strong>. La música hecha, una vez más, <strong>DIVERSIÓN en mayúsculas</strong> y con chupa de cuero.</p>
+
+<p>Era la época de <strong><a href="https://huessos.bandcamp.com/" target="_blank" rel="external noopener">Huessos</a></strong>, banda formada con <strong>personalidades diversas</strong> -a las que les unía una mente abierta y un interés por la <strong>música sin tapujos</strong>- provenientes de lugares tan dispares como <strong><a href="https://monkeyhole.bandcamp.com/" target="_blank" rel="external noopener">Monkey Hole</a></strong> o <strong>Speedyzen</strong>.</p>
+
+<div class="alert alert-error">
+<p><strong>Nota del redactor</strong>: tanto <strong>Monkey Hole</strong> como <strong>Speedyzen</strong> han sido bandas claves en mi vida. La primera porque me flipaba de adolescente y la segunda porque, además de fliparme, me permitió conocer a personas geniales.</p>
+</div>
+
+<div class="alert alert-info">
+<h3>HUESSOS - Una experiencia cercana a la muerte (2013)</h3>
+<p>Huesos y <strong>hasta un culo</strong> en esta "experiencia cercana a la muerte", en directo desde la sala Hot Rod de Sueca</strong>.</p>
+<div class="video-container">
+<iframe width="100%" height="415" src="https://www.youtube.com/embed/hcH_vaWjCz4" title="HUESSOS: una experiencia cercana a la muerte (2013, Sueca)" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
+</div>
+
+<p>Y de ahí saltamos a la actualidad de Xavo en su nueva banda: <strong><a href="https://www.facebook.com/revengas13/" target="_blank" rel="external noopener">REVENGAS</a></strong>.</p>
+
+<p>Una actualidad enfangada en el <strong>space-rock de tintes industriales</strong>. Máquinitas avanzando por ríos de Fuzz y paranoia. <strong>Mala baba, oscuridad, densidad, drogas, viaje a ninguna parte</strong>. 
+
+<div class="alert alert-info">
+<p>A la espera de su primer LP, os dejamos con una demo de 2016 que me pasó, grabada en el local de ensayo.</p>
+<iframe width="100%" height="265" src="https://clyp.it/322trgfl/widget" frameborder="0"></iframe>
+</div>
+
+<h3>Presente y pasado de Xavo. Sigue, sigue sigue</h3>
 <table>
 <thead>
 <tr>
-<th>Necrotanke</th>
-<th>Encabronation</th>
-<th>El Hambre</th>
+<th>Revengas</th>
+<th>Huessos</th>
+<th>Brutal Freack</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td><a href="https://www.facebook.com/Necrotanke-1613962138868746/" target="_blank" rel="external noopener" style="font-weight:normal;">Facebook</td>
-<td><a href="https://www.facebook.com/Encabronation-446386562109828/" target="_blank" rel="external noopener">Facebook</td>
-<td><a href="https://www.facebook.com/ElHambre666/" target="_blank" rel="external noopener">Facebook</td>
-</tr>
-</tbody>
-</table>
-<table>
-<thead>
-<tr>
-<th>Fvnestö</th>
-<th>Incertidumbre</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><a href="https://www.facebook.com/Fvnesto/" target="_blank" rel="external noopener" style="font-weight:normal;">Facebook</td>
-<td style="text-align: center; color: #ff2e88;">XXX</td>
+<td><a href="https://www.facebook.com/revengas13/" target="_blank" rel="external nofollow noopener" style="font-weight:normal;">Facebook</td>
+<td><a href="https://www.facebook.com/huessos.munones/" target="_blank" rel="external noopener">Facebook</td>
+<td><a href="https://www.facebook.com/BrutalFreack/" target="_blank" rel="external noopener">Facebook</td>
 </tr>
 </tbody>
 </table>
 <br>
+
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <ins class="adsbygoogle"
      style="display:block; text-align:center;"
@@ -74,7 +104,7 @@ draft = false
 </script>
 <br>
 <div class="alert alert-success">
-<h3>A partir de aquí el micro lo lleva <strong>Xavo</strong>, que, <strong>a modo introductorio</strong> nos escribe este mensaje</h3>
+<h3>A partir de aquí <strong>el micro lo lleva Xavo</strong>, que, <strong>a modo introductorio</strong> nos escribe este mensaje</h3>
 </div>
 
 <p>"Hey gente, el bueno de Will me dice que os hable de uno de los discos que más me han influenciado en esto de hacer ruido.</p>
@@ -181,7 +211,7 @@ Pregunta: ¿Por qué te influenció tanto? ¿Cambió tu manera de pensar y enten
 
 <p>RESPUESTA:</p>
 
-<p>Este disco hizo que me decantara por buscar cosas digamos <strong>“más de vanguardia”</strong>, cosas oscuras: escuela de <strong><a href="https://es.wikipedia.org/wiki/John_Zorn" target="_blank" rel="external noopener nofollow">John Zorn</a></strong>, <strong><a href="https://es.wikipedia.org/wiki/Glenn_Branca" target="_blank" rel="external noopener nofollow">Glenn Branca</a></strong>, buscar en <strong>Jimmy Hendrix</strong> y toparme de rebote con <strong><a href="https://boredoms.bandcamp.com/" target="_blank" rel="external noopener">Boredoms</a></strong>, con el Kraut Rock y con el post punk de <strong><a href="https://einstrzendeneubauten.bandcamp.com/" target="_blank" rel="external noopener">Einstürzende Neubauten</a></strong> …y de ahí vanagloriar a <a href="https://fantomasofficial.bandcamp.com/album/fantomas" target="_blank" rel="external noopener nofollow">Fantômas</a> sobre todas las cosas.</p>
+<p>Este disco hizo que me decantara por buscar cosas digamos <strong>“más de vanguardia”</strong>, cosas oscuras: escuela de <strong><a href="https://es.wikipedia.org/wiki/John_Zorn" target="_blank" rel="external noopener nofollow">John Zorn</a></strong>, <strong><a href="https://es.wikipedia.org/wiki/Glenn_Branca" target="_blank" rel="external noopener nofollow">Glenn Branca</a></strong>, buscar en <strong>Jimmy Hendrix</strong> y toparme de rebote con <strong><a href="https://boredoms.bandcamp.com/" target="_blank" rel="external noopener">Boredoms</a></strong>, con el Kraut Rock y con el post punk de <strong><a href="https://einstrzendeneubauten.bandcamp.com/" target="_blank" rel="external noopener">Einstürzende Neubauten</a></strong> …y de ahí vanagloriar a <strong><a href="https://fantomasofficial.bandcamp.com/album/fantomas" target="_blank" rel="external noopener nofollow">Fantômas</a></strong> sobre todas las cosas.</p>
 
 <div class="alert alert-info">
 <h3>Fantômas: The Director's Cut en directo</h3>
@@ -226,36 +256,36 @@ Pregunta: ¿Sigues escuchando ese disco? ¿Con qué frecuencia?
 
 <p>Este siempre cae, <strong>cara A y Cara B</strong>.</p> 
 
-<p>Si lo encontráis por ahí dadle una oportunidad. Lo vale!!</p>
+<p>Si lo encontráis por ahí <strong>dadle una oportunidad. ¡¡Lo vale!!</strong></p>
 
 
 <div class="banner-box">
-<a href="https://rover.ebay.com/rover/1/710-53481-19255-0/1?icep_id=114&ipn=icep&toolid=20004&campid=5338378088&mpre=https%3A%2F%2Fwww.ebay.co.uk%2Fitm%2FSpeed-Kills-the-very-best-in-speed-metal-MFN-54%2F323436014805%3Fhash%3Ditem4b4e49ecd5%3Ag%3AUm4AAOSw12pbinCP" target="_blank" rel="nofollow noopener">
+<a href="https://www.discogs.com/sell/release/1493494?ev=rb" target="_blank" rel="nofollow noopener">
 <img
   data-sizes="auto"
-  data-src="/images/speed-kills-vol-1.jpg"
+  data-src="/images/Diversion-of-former-customary-trite-composition-LP.jpg"
   alt="Spped Kills Vol 1 comprar cd y vinilo"
   class="lazyload banner"> 
 </a>
 
-<p><a href="https://rover.ebay.com/rover/1/710-53481-19255-0/1?icep_id=114&ipn=icep&toolid=20004&campid=5338378088&mpre=https%3A%2F%2Fwww.ebay.co.uk%2Fitm%2FSpeed-Kills-the-very-best-in-speed-metal-MFN-54%2F323436014805%3Fhash%3Ditem4b4e49ecd5%3Ag%3AUm4AAOSw12pbinCP" target="_blank" rel="external nofollow noopener">El origen de todo. El plástico que todo coleccionista debería tener. <br>¡100% TRUE!</a></p>
+<p><a href="https://www.discogs.com/sell/release/1493494?ev=rb" target="_blank" rel="external nofollow noopener">Pues sí que lo vale, así que te dejamos un listado de Discogs, a ver si te apaña alguno.<br>BENDITA LOCURA</a></p>
 </div>
 <br>
 
-<h2>Más de Bandas Incluidas en Speed Kills Vol. 1</h2>
+<h2>Más de CSSO</h2>
 
 <div class="media">
   <div class="media-left">
     <img
   data-sizes="auto"
-  data-src="/images/Slayer-Hell-Awaits-comprar-vinilo.jpg"
-  alt="Slayer, Hell Awaits, comprar vinilo remasterizado"
+  data-src="/images/CSSO-nagro-lauxes-VIII-CD.jpg"
+  alt="CSSO, Nagrö Läuxes VIII, CD"
   class="lazyload">
   </div>
 <div class="media-body">
-    <div class="media-heading">Slayer - Hell Awaits (Remasterizado, 2016)</div>
-    <div class="media-content"><p>180 gramos de puro frenetismo satánico. Un clásico que deberías tener si no luce ya en tu estantería. ¡Y además incluye póster!</p></div>
-    <p><strong><a href="https://rover.ebay.com/rover/1/710-53481-19255-0/1?icep_id=114&ipn=icep&toolid=20004&campid=5338378088&mpre=https%3A%2F%2Fwww.ebay.co.uk%2Fitm%2FSlayer-Hell-Awaits-LP-Remastered-180g-Black-Vinyl-2016-with-Poster%2F113149584401%3Fhash%3Ditem1a583da411%3Ag%3AO7MAAOSwYuNbShaW" target="_blank" rel="external noopener"> Comprar</a></strong></p>
+    <div class="media-heading">Álbum: Nagrö läuxes VIII (CD)</div>
+    <div class="media-content"><p>Como dijo alguien en Youtube: "Una crónica decía que este disco solo es escuchable tras 6 cervezas. Pero a mí con la cuarta ya me empezó a gustar"</p></div>
+    <p><strong><a href="https://rover.ebay.com/rover/1/1185-53479-19255-0/1?icep_id=114&ipn=icep&toolid=20004&campid=5338379132&mpre=https%3A%2F%2Fwww.ebay.es%2Fitm%2FCSSO-CLOTTED-SYMMETRIC-SEXUAL-ORGAN-Nagro-Lauxes-VIII-CD-100034%2F302843348334%3Fhash%3Ditem4682dec56e%3Ag%3A98QAAOSw-AdbcdHv" target="_blank" rel="external noopener"> Comprar</a></strong></p>
   </div>
 </div>
 
@@ -263,14 +293,14 @@ Pregunta: ¿Sigues escuchando ese disco? ¿Con qué frecuencia?
   <div class="media-left">
     <img
   data-sizes="auto"
-  data-src="/images/Celtic-Frost-Morbid-Tales-vinilo-comprar.jpg"
-  alt="Celtic Frost, Morbid Tales, comprar vinilo remasterizado"
+  data-src="/images/Haemorrhage-CSSO-Dead-Infection-Grind-Over-Europe-1996.jpg"
+  alt="Haemorrhage, CSSO, Dead Infection, recopilatorio Grind Over Europe 1996"
   class="lazyload">
   </div>
 <div class="media-body">
-    <div class="media-heading">Celtic Frost - Morbid Tales (Remasterizado)</div>
-    <div class="media-content"><p>Oscuro debut de Tom Warrior y los suyos. Piedra angular de todo lo que vendría después en cuanto a Black y Death.</p></div>
-    <p><strong><a href="https://rover.ebay.com/rover/1/710-53481-19255-0/1?icep_id=114&ipn=icep&toolid=20004&campid=5338378088&mpre=https%3A%2F%2Fwww.ebay.co.uk%2Fitm%2FCeltic-Frost-Morbid-Tales-Remastered-NEW-2-VINYL-LP%2F352106180728%3Fepid%3D13002754566%26hash%3Ditem51fb29f078%3Ag%3AqIUAAOSwjiZaKvFP" target="_blank" rel="external noopener"> Comprar</a></strong></p>
+    <div class="media-heading">Grind Over Europe: Haemorrhage, CSSO, Dead Infection (1996)</div>
+    <div class="media-content"><p>Cassete de la mítica gira de estas 4 banzadas por Europa. El resumen de un despiporre contínuo, con un cartel irrepetible.</p></div>
+    <p><strong><a href="https://www.discogs.com/sell/release/857276?ev=rb" target="_blank" rel="external noopener"> Comprar</a></strong></p>
   </div>
 </div>
 
@@ -278,29 +308,14 @@ Pregunta: ¿Sigues escuchando ese disco? ¿Con qué frecuencia?
   <div class="media-left">
     <img
   data-sizes="auto"
-  data-src="/images/voivod-the-wake-2018-cd.jpg"
-  alt="Voivod, The Wake, comprar cd 2018"
+  data-src="/images/csso-are-you-excrements.jpg"
+  alt="CSSO, Are you Excrements?, comprar vinilo"
   class="lazyload">
   </div>
 <div class="media-body">
-    <div class="media-heading">Voivod - The Wake (Pre Order CD)- 2018</div>
+    <div class="media-heading">CSSO, Are you Excrements? (Vinilo)</div>
     <div class="media-content"><p>35 años de historia como referente del Trash Mateal canadiense y sumando: el 21 de Septiembre sacan disco.</p></div>
-    <p><strong><a href="https://rover.ebay.com/rover/1/710-53481-19255-0/1?icep_id=114&ipn=icep&toolid=20004&campid=5338378088&mpre=https%3A%2F%2Fwww.ebay.co.uk%2Fitm%2FVoivod-The-Wake-NEW-2-x-CD-Preorder-Out-21st-September%2F352451916148%3F_trkparms%3Daid%253D555017%2526algo%253DPL.CASSINI%2526ao%253D1%2526asc%253D53530%2526meid%253D7c42c2776bc74d8a80201c81efe8a276%2526pid%253D100505%2526rk%253D1%2526rkt%253D1%2526%2526itm%253D352451916148%26_trksid%3Dp2045573.c100505.m3226" target="_blank" rel="external noopener"> Comprar</a></strong></p>
-  </div>
-</div>
-
-<div class="media">
-  <div class="media-left">
-    <img
-  data-sizes="auto"
-  data-src="/images/BULLDOZER-The-day-of-wrath-&-The-exorcism-cd-digipack.jpg"
-  alt="BULLDOZER, The day of wrath & The exorcism, CD digipack"
-  class="lazyload">
-  </div>
-<div class="media-body">
-    <div class="media-heading">BULLDOZER “The day of wrath & The exorcism” (CD Digipack)</div>
-    <div class="media-content"><p>Genial edición de “The day of wrath & The exorcism” a un precio interesante tiniendo en cuenta la joya que te llevas.</p></div>
-    <p><strong><a href="https://rover.ebay.com/rover/1/710-53481-19255-0/1?icep_id=114&ipn=icep&toolid=20004&campid=5338378088&mpre=https%3A%2F%2Fwww.ebay.co.uk%2Fitm%2FBULLDOZER-The-Day-of-Wrath-The-Exorcism-DCD-DELUXE-DIGIBOOK%2F312097824055%3Fhash%3Ditem48aa7add37%3Ag%3AviUAAOSwWUlavAav" target="_blank" rel="external noopener"> Comprar</a></strong></p>
+    <p><strong><a href="https://www.discogs.com/sell/release/7755868?ev=rb" target="_blank" rel="external noopener"> Comprar</a></strong></p>
   </div>
 </div>
 
