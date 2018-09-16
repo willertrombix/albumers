@@ -69,7 +69,7 @@ draft = false
 <p>Una actualidad enfangada en el <strong>space-rock de tintes industriales</strong>. Máquinitas avanzando por ríos de Fuzz y paranoia. <strong>Mala baba, oscuridad, densidad, drogas, viaje a ninguna parte</strong>. 
 
 <div class="alert alert-info">
-<p>A la espera de su primer LP, os dejamos con una demo de 2016 que me pasó, grabada en el local de ensayo.</p>
+<p>A la espera de su primer LP, os dejamos con una <strong>demo de 2016</strong> que me pasó, grabada en el local de ensayo.</p>
 <iframe width="100%" height="265" src="https://clyp.it/322trgfl/widget" frameborder="0"></iframe>
 </div>
 
