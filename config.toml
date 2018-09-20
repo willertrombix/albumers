@@ -29,10 +29,6 @@ footnoteReturnLinkContents = "↩" # Provides a nicer footnote return link
   		"entrevistas música",
   		"disco que cambia la vida"
 	]
-	noindex_kinds = [
-    "taxonomy",
-    "taxonomyTerm"
-  ]
 
 [frontmatter]
   date = ["date", "publishDate", "lastmod"]
