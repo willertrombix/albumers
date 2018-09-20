@@ -7,6 +7,7 @@ tags = [""]
 draft = false
 toc = false
 noindex = true
+private = true
 +++  
 <p>##Tu mensaje ha sido enviado :)</p>
 
