@@ -7,7 +7,7 @@ tags = [""]
 draft = false
 toc = false
 noindex = true
-private = true
+sitemap_exclude = true
 +++  
 <p>##Tu mensaje ha sido enviado :)</p>
 
