@@ -22,13 +22,6 @@ footnoteReturnLinkContents = "↩" # Provides a nicer footnote return link
 	author = "Willer"
   hide_author = true
 	description = "La comunidad de músicos habla del disco que les marcó para siempre"
-	keywords = [
-  		"discos",
-  		"LP",
-  		"música",
-  		"entrevistas música",
-  		"disco que cambia la vida"
-	]
 
 [frontmatter]
   date = ["date", "publishDate", "lastmod"]
@@ -40,7 +33,8 @@ footnoteReturnLinkContents = "↩" # Provides a nicer footnote return link
 	filename = "sitemap.xml"
 
 [taxonomies]
-  tag = false
+  tag = ""
+  preserveTaxonomyNames = true
 
 [related]
 	threshold = 80

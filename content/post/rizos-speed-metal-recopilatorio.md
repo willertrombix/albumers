@@ -11,7 +11,7 @@ keywords = [
   "Incertidumbre",
   "Slayer",
   "Metallica",
-  "Celtic Frost",
+  "Celtic Frost"
 ]
 tags = ["Speed Kills", "recopilatorio", "Necrotanke", "Encabronation", "El Hambre", "Incertidumbre", "Slayer", "Metallica", "Celtic Frost"] 
 images = [

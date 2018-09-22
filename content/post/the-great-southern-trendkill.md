@@ -6,8 +6,9 @@ keywords = [
   "Pantera",
   "The Great Southern Trendkill",
   "vinilo",
-  "entrevista sobre discos",
-  "discos que cambian vidas"
+  "Trocotombix", 
+  "Necrotanke", 
+  "Cabalgata Cósmica"
 ]
 tags = ["Pantera", "The Great Southern Trendkill", "Trocotombix", "Necrotanke", "Cabalgata Cósmica"] 
 images = [
