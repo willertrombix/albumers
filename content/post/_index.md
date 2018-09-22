@@ -1,6 +1,6 @@
 +++
-title = "Buscar"
-layout = "search"
+title = "Posts"
+layout = "post"
 noindex = true
 sitemap_exclude = true
 +++

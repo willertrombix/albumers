@@ -7,7 +7,7 @@ keywords = [
   "Diversion of former customary trite composition",
   "Brutal Freak",
   "Huessos",
-  "Revengas",
+  "Revengas"
 ]
 tags = ["Clotted Symmetric Sexual Organ", "Diversion of former customary trite composition", "Brutal Freak", "Huessos", "Revengas"] 
 images = [

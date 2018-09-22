@@ -1,6 +1,6 @@
 +++
-title = "Buscar"
-layout = "search"
+title = "Páginas"
+layout = "page"
 noindex = true
 sitemap_exclude = true
 +++

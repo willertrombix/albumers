@@ -10,6 +10,7 @@ keywords = [
 tags = ["Albumers"]
 draft = false
 toc = false
+sitemap_exclude = true
 +++  
 <p>##Participa :)</p>
 
