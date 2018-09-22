@@ -40,9 +40,7 @@ footnoteReturnLinkContents = "↩" # Provides a nicer footnote return link
 	filename = "sitemap.xml"
 
 [taxonomies]
-	tag = ""
-  category = "true"
-	preserveTaxonomyNames = true
+  tag = false
 
 [related]
 	threshold = 80
