@@ -1,15 +1,16 @@
 +++
-title = "Xavo & Diversion of former customary trite composition (C.S.S.O.)"
+title = "Julio & Hecho, es simple (7 Notas 7 Colores)"
 date = 2018-09-16
-description = "El guitarrista de Revengas nos habla de los 10 minutos que cambiaron su manera de entender la música"
+description = "El cantante de El Lobo en Tu Puerta se pone hasta arriba de harina con este disco"
 keywords = [
-  "Clotted Symmetric Sexual Organ",
-  "Diversion of former customary trite composition",
-  "Brutal Freak",
-  "Huessos",
-  "Revengas"
+  "EL Lobo en Tu Puerta",
+  "7 Notas 7 Colores",
+  "Hecho es simple",
+  "rap",
+  "Public Enemy",
+  "The Roots"
 ]
-tags = ["Clotted Symmetric Sexual Organ", "Diversion of former customary trite composition", "Brutal Freak", "Huessos", "Revengas"] 
+tags = ["EL Lobo en Tu Puerta", "7 Notas 7 Colores", "Hecho es simple", "rap", "Public Enemy", "The Roots"] 
 images = [
     "https://albumers.org/images/Xavo-Clotted-Symmetric-Sexual-Organ.jpg"
 ] # Suggested, controls default Open Graph images
