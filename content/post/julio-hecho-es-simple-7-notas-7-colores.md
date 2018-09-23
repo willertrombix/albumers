@@ -1,6 +1,6 @@
 +++
 title = "Julio & Hecho, es simple (7 Notas 7 Colores)"
-date = 2018-09-16
+date = 2018-09-23
 description = "El cantante de El Lobo en Tu Puerta se pone hasta arriba de harina con este disco"
 keywords = [
   "El Lobo en Tu Puerta",
@@ -8,9 +8,10 @@ keywords = [
   "Hecho es simple",
   "rap",
   "Public Enemy",
-  "The Roots"
+  "The Roots",
+  "Black Sabbath"
 ]
-tags = ["El Lobo en Tu Puerta", "7 Notas 7 Colores", "Hecho es simple", "rap", "Public Enemy", "The Roots"] 
+tags = ["El Lobo en Tu Puerta", "7 Notas 7 Colores", "Hecho es simple", "rap", "Public Enemy", "The Roots", "Black Sabbath"] 
 images = [
     "https://albumers.org/images/X7-notas-7-colores-hecho-es-simple-cd-julio.jpg"
 ] # Suggested, controls default Open Graph images
