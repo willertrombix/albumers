@@ -48,9 +48,13 @@ draft = false
 </div>
 </div>
 
-<p>De un tiempo a esta parte, <strong>El Lobo en Tu Puerta</strong> no ha hecho más que crecer y crecer.</p>
-<p>Por un lado, a nivel compositivo, girando su sonido <strong>hacia el blues salvaje</strong> sin perder su <strong>esencia hip-hopera y su groove sexy</strong>.</p>
-<p>Por otro lado, a nivel de banda: cada vez tienen más presencia en los medios...</p>
+<p>De un tiempo a esta parte, <strong>El Lobo en Tu Puerta</strong> no ha hecho más que <strong>crecer y crecer</strong>.</p>
+
+<p>Por un lado, <strong>a nivel compositivo</strong>, girando su sonido <strong>hacia el blues salvaje</strong> sin perder su <strong>esencia hip-hopera y su groove sexy</strong>.</p>
+
+<p>Por otro lado, <strong>a nivel de banda</strong>: cada vez tienen más <strong>presencia en festivales emergentes</strong> y prensa especializada, que han reparado en el diamante embruto en forma de música que ofrecen.</p>
+
+<p>Y es que, la verdad sea dicha, <strong>no hay otra jodida banda</strong> en este país <strong>que suene igual, con esa mezcla,</strong> hoy por hoy.</p>
 
 <div class="alert alert-info">
 <h3>El Lobo en Tu Puerta, tema: No quiero verte (videoclip oficial, 2018)</h3>
@@ -89,7 +93,7 @@ draft = false
 </script>
 <br>
 <div class="alert alert-success">
-<h3>A partir de aquí <strong>el micro lo lleva Xavo</strong>, que, <strong>a modo introductorio</strong> nos escribe este mensaje</h3>
+<p>LLegó el momento de <strong>ceder el boli a Julio</strong> que, como se aprecia en la foto, lo flipó en su día con el álbum <strong>"Hecho, es simple" de 7 Notas 7 Colores</strong>.</p>
 </div>
 
 
@@ -156,7 +160,7 @@ Pregunta: ¿Por qué te influenció tanto? ¿Cambió tu manera de pensar y enten
 
 <p>RESPUESTA:</p>
 
-<p>Ya escuchaba algo de rap (<strong>"Public Enemy"</strong>) pero con este disco <strong>pensé que yo podía hacer rap en español</strong>.</p>
+<p>Ya escuchaba algo de rap (<strong>"Public Enemy"</strong>) pero con este disco <strong class="italic">pensé que yo podía hacer rap en español</strong>.</p>
 
 <p>Es el disco que me empujó a escribir.</p>
 
@@ -164,10 +168,18 @@ Pregunta: ¿Por qué te influenció tanto? ¿Cambió tu manera de pensar y enten
 
 <p>Sin este disco casi seguro que no estaría haciendo música ahora.</p>
 
+<div class="alert alert-error">
+<p><strong>### PARÉNTESIS DEL REDACTOR ###</strong></p>
+<p>La confesión sobre creer en sí mismo <strong class="italic">para hacer rap en español</strong> me hizo investigar un poco <strong>en el pasado de Julio</strong>.</p>
+
+<p>Así es como me topé con sus días en <strong><a href="https://www.facebook.com/hipnotikhk" target="_blank" rel="external noopener">Hipnotik</a></strong></p>
+
+<p><strong>Escuchemos un poco a continuación...</strong></p>
+
 <div class="alert alert-info">
 <h3>Hipnotik, tema: El patio de los dolores (Fondo sur, 2005)</h3>
-<p>Los <strong>inicios de Julio en el rap</strong> cantado en español se remontan a sus días en <strong><a href="https://www.facebook.com/hipnotikhk" target="_blank" rel="external noopener">Hipnotik</a></strong></p>
-<p>Este temazo es de 2005, pero si hubiese salido ayer <strong>te lo tragarías bien frescamente</strong>.</p>
+
+<p>Este temazo es de <strong>2005</strong>, pero si hubiese salido ayer <strong>te lo tragarías bien frescamente</strong>.</p>
 <p><strong>Vozarrón sobre una base que resucita muertos</strong>, a ritmo de <strong>copla, rock y flamenco</strong>, con una letra que te sumerje en una <strong>historia que podría ser la tuya</strong>, la de tu vecino, la de todos, la de la vida.</p>
 <div class="video-container">
 <iframe width="100%" height="415" src="https://www.youtube.com/embed/rNqQK8aUfqc?rel=0" title="Hipnotik, tema: El patio de los dolores, Álbum: Fondo sur (2005)" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
@@ -182,6 +194,8 @@ Pregunta: ¿Por qué te influenció tanto? ¿Cambió tu manera de pensar y enten
 <iframe src="https://player.vimeo.com/video/39241828" width="640" height="360" title="Hipnotik, tema: El chico nuevo, Álbum: Fondo sur (2005)" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </div>
 </div>
+<p><strong>### FIN DEL PARÉNTESIS. SIGUE LA ENTREVISTA ###</strong></p>
+</div>
 
 <div class="alert alert-info">
 Pregunta: ¿Se sigue notando hoy en día el poso que me dejó?  
@@ -189,7 +203,7 @@ Pregunta: ¿Se sigue notando hoy en día el poso que me dejó?
 
 <p>RESPUESTA:</p>
 
-<p>No estoy muy rapero ultimamente, pero... <stromg>Si escucho una sola palabra de este MC</stromg> me sale una sonrisa de aprobación automáticamente...</p>
+<p><strong>No estoy muy rapero ultimamente</strong>, pero... <stromg>Si escucho una sola palabra de este MC</stromg> me sale una sonrisa de aprobación automáticamente...</p>
 
 <p>Escucharle es <strong>un gran "Ouh Yes!"</strong></p>
 
@@ -197,7 +211,7 @@ Pregunta: ¿Se sigue notando hoy en día el poso que me dejó?
 
 <div class="alert alert-info">
 <h3>Cookin Bananas, tema: Aquí te pillo, aquí temazo</h3>
-<p>Cookin Bananas es la unión en 2010 de <strong>Mucho Muchacho con Cookin Soul</strong>, que durante 3 años conquistaron caderas de medio mundo con bases y samples como la de este "Aquí te pillo, aquí temazo", que usa el característico corte que recodarás de los <strong>títulos de crédito</strong> de las películas de <strong>Tarantino</strong>, compuesta por <strong>Keith Mansfield</strong> y titulada <strong><a href="https://www.youtube.com/watch?v=1i6Cpq8XBFw" target="_blank" rel="external noopener">"Funky Fanfare"</a>.</p>
+<p>Cookin Bananas es la unión en 2010 de <strong>Mucho Muchacho con Cookin Soul</strong>, que durante 3 años conquistaron caderas de medio mundo con bases y samples como la de este "Aquí te pillo, aquí temazo", que usa el característico corte que recodarás de los <strong>títulos de crédito</strong> de las películas de <strong>Tarantino</strong>, compuesta por <strong>Keith Mansfield</strong> y titulada <strong><a href="https://www.youtube.com/watch?v=1i6Cpq8XBFw" target="_blank" rel="external noopener">"Funky Fanfare"</a></strong>.</p>
 <div class="video-container">
 <iframe width="100%" height="415" src="https://www.youtube.com/embed/Fzzo-zz7Jjg?rel=0" title="Cookin Bananas, tema: Aquí te pillo, aquí temazo (2013)" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
@@ -218,13 +232,14 @@ Pregunta: ¿Sigues escuchando ese disco? ¿Con qué frecuencia?
 
 <div class="alert alert-info">
 <h3>The Roots, Freestyle (Directo en Rap City, 2004)</h3>
-<p>Las raíces surcando el subsuelo y rompiendo en la superficie para conquistar el plató del <stromg>programa Rap City</stromg> con un <strong>Freestyle</strong> que <strong>si tiene más flow te folla</strong>.</p>
+<p>Las raíces surcando el subsuelo y rompiendo en la superficie para conquistar el plató del <strong>programa Rap City</strong> con un <strong>Freestyle</strong> que <strong>si tiene más flow te folla</strong>.</p>
 <div class="video-container">
 <iframe width="100%" height="415" src="https://www.youtube.com/embed/1pSS4opZwdQ?rel=0" title="The Roots, Freestyle (Directo en Rap City, 2004)" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 </div>
 
 <div class="alert alert-error">
+<p><strong>### NOTA DEL REDACTOR ###</strong></p>
 <p>¿Tener en tu colección discos de <strong>Black Sabbath y de rap</strong> a la misma altura de preferencia?</p>
 <p>Bueno, a veces las extrañas parejas se llevan de fábula. <strong>El Lobo en Tu Puerta</strong> es la más evidente prueba de que <strang>se puede hacer si se hace con maestría</strang>.</p>  
 <p><strong>SIRVA DE MUESTRA ESTE ROMPECUELLOS:</strong></p>
@@ -243,7 +258,7 @@ Pregunta: ¿Sigues escuchando ese disco? ¿Con qué frecuencia?
   class="lazyload banner"> 
 </a>
 
-<p><a href="https://rover.ebay.com/rover/1/1185-53479-19255-0/1?icep_id=114&ipn=icep&toolid=20004&campid=5338384035&mpre=https%3A%2F%2Fwww.ebay.es%2Fitm%2F7-Notas-7-Colores-Hecho-Es-Simple-CD-1997%2F322429144900%3Fhash%3Ditem4b12464f44%3Ag%3ApmsAAOSwTuJYqo6K" target="_blank" rel="external nofollow noopener">Aquí el disco con las rimas y el flow más temible que se haya hecho nunca en español.<br>HAZTE CON ÉL</a></p>
+<p><a href="https://rover.ebay.com/rover/1/1185-53479-19255-0/1?icep_id=114&ipn=icep&toolid=20004&campid=5338384035&mpre=https%3A%2F%2Fwww.ebay.es%2Fitm%2F7-Notas-7-Colores-Hecho-Es-Simple-CD-1997%2F322429144900%3Fhash%3Ditem4b12464f44%3Ag%3ApmsAAOSwTuJYqo6K" target="_blank" rel="external nofollow noopener">Aquí el disco con que cambió a <strong class="italic">Julio</strong>. El flow más temible cantado en español.<br>HAZTE CON ÉL</a></p>
 </div>
 <br>
 
