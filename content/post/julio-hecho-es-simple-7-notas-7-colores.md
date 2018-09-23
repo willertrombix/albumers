@@ -24,29 +24,51 @@ draft = false
 
 <p>Cuando llegamos a la sala y conocimos en persona a <strong>Julio, Tanín y Búho</strong>, los integrantes de <strong>ELETP</strong>, no sabíamos muy bien a qué atenernos, pero su desparpajo, soltura, sinceridad y naturalidad nos proyectaba <strong>un buen rollo increíble</strong>.</p>
 
-<p>Y ese buen rollo se conviertió en la mayor y más grande de las fiestas sobre el entablado. Qué energía, qué </p>
+<p>Y ese buen rollo se convirtió en <strong>la mayor y más grande de las fiestas sobre el "entablao"</strong>. Qué energía, qué desparpajo...</p>
 
 <div class="alert alert-success">
 <img
   data-sizes="auto"
-  data-src="/images/7-notas-7-colores-hecho-es-simple-cd-julio.jpg"
-  alt="Xavo Ros"
+  data-src="/images/el-lobo-en-tu-puerta.jpg"
+  alt="El Lobo en Tu puerta, fotos en directo"
   class="lazyload">
-<p>7 notas, 7 colores descansan sobre un lobo con bigote y mucho flow</p>
+<p>El Lobo en Tu Puerta partiendo la pana en directo. Montaje a partir de fotos de <strong><a href="https://www.facebook.com/J.M.Grimaldi.Fotografo/" target="_blank" rel="external noopener">J.M. Grimaldi</a></strong></p>
 </div>
 
-<h3>Presente y pasado de Xavo. Sigue, sigue sigue</h3>
+
+<p>Puro contagio e incluso <strong>algo de ansiedad</strong> por tener la sensación de que no estaba moviéndome lo suficiente como para <strong>hacer justicia a la música</strong> que estaba calándome por los poros de la piel.</p>
+
+<p>La gente simplemente <strong>flipaba con las chispas</strong> que salían del <strong>theremin</strong> de Julio, los platos pintados de la <strong>batería</strong> que se turnan entre Tanín y Búho (que por cierto <strong>rompieron el parche de la caja</strong>, como prueba de que lo suyo es puro <strong>bestialismo</strong>), la guitarra de flecha -con pegatina <strong><a href="http://www.jimphillips.com/30thphotos.html" target="_blank" rel="external noopener">“Screaming Hand” de Jim Phillips</a></strong>- que también se rulan de uno a otro y esa <strong>mini-guitarra del demonio</strong> hecha con un <strong>trozo de tabla de skate</strong>. 
+
+<div class="alert alert-info">
+<h3>EL LOBO EN TU PUERTA, tema: "17", directo en Pub Kiss (Algeciras)</h3>
+<p><strong>Expertos en contagiar entusiasmo y desenfreno</strong>. Sus directos son ya conocidos por <strong>sudar hasta la última cerveza</strong>, por muchas que te hayas metido en el <strong>mítico Pub Kiss</strong> de Algeciras.</p>
+<div class="video-container">
+<iframe width="100%" height="415" src="https://www.youtube.com/embed/rAAFqJFVzKM?start=100" title="El Lobo en Tu Puerta, tema: 17, directo en Pub Kiss (Algeciras)" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
+</div>
+
+<p>De un tiempo a esta parte, <strong>El Lobo en Tu Puerta</strong> no ha hecho más que crecer y crecer. Tanto a nivel compositivo, girando su sonido <strong>hacia el blues salvaje</strong> sin perder su <strong>esencia hip-hopera y su groove sexy</strong>.</p>
+
+<div class="alert alert-info">
+<h3>El Lobo en Tu Puerta, tema: No quiero verte (videoclip oficial, 2018)</h3>
+<p><strong><a href="https://www.youtube.com/channel/UC2-pV1UOibo369wrpewctYw" target="_blank" rel="external noopener">Pitu García</a></strong>, videógrafo oficial de <strong>ELETP</strong> vuelve a clavar el cachondeo que los muchachos llevan en sus venas, esta vez acompañando al nefasto <strong>Trump</strong> por las calles de su ciudad.</p>
+<p>Una lástima que no se cruce en ningún momento de la noche con <strong>Tanín</strong>.</p>
+<div class="video-container">
+<iframe width="100%" height="415" src="https://www.youtube.com/embed/8fMi_HpoBA4" title="El Lobo en Tu Puerta, tema: No quiero verte (videoclip oficial, 2018)" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
+</div>
+
+<h3>Si llaman a tu puerta, ábreles. Morirás, pero habrá valido la pena</h3>
 <table>
 <thead>
 <tr>
 <th>El Lobo en tu puerta</th>
-<th>Hipnotik</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td><a href="https://www.facebook.com/revengas13/" target="_blank" rel="external nofollow noopener" style="font-weight:normal;">Facebook</td>
-<td><a href="https://www.facebook.com/hipnotikhk" target="_blank" rel="external noopener">Facebook</td>
+<td>¡Sígueles, copón! <a href="https://www.facebook.com/revengas13/" target="_blank" rel="external nofollow noopener" style="font-weight:normal;">Facebook</td>
 </tr>
 </tbody>
 </table>
@@ -71,10 +93,10 @@ draft = false
 <div class="alert alert-success">
 <img
   data-sizes="auto"
-  data-src="/images/Xavo-Clotted-Symmetric-Sexual-Organ.jpg"
-  alt="Xavo con el EP de Clotted Symmetric Sexual Organ"
+  data-src="/images/7-notas-7-colores-hecho-es-simple-cd-julio.jpg"
+  alt="Xavo Ros"
   class="lazyload">
-<p>Que Xavo sujete un <strong>disco tan guarro y perturbador rodeado de peluches</strong> hace que la foto nos joda aún más la cabeza. <strong>¡Xavo = genio del mal!</strong></p>
+<p>7 notas, 7 colores descansan sobre un lobo con bigote y mucho flow</p>
 </div>
 
 <div class="alert alert-info">
@@ -141,6 +163,7 @@ Pregunta: ¿Por qué te influenció tanto? ¿Cambió tu manera de pensar y enten
 
 <div class="alert alert-info">
 <h3>Hipnotik, tema: El patio de los dolores (Fondo sur, 2005)</h3>
+<p>Los <strong>inicios de Julio en el rap</strong> cantado en español se remontan a sus días en <strong><a href="https://www.facebook.com/hipnotikhk" target="_blank" rel="external noopener">Hipnotik</a></strong></p>
 <p>Este temazo es de 2005, pero si hubiese salido ayer <strong>te lo tragarías bien frescamente</strong>.</p>
 <p><strong>Vozarrón sobre una base que resucita muertos</strong>, a ritmo de <strong>copla, rock y flamenco</strong>, con una letra que te sumerje en una <strong>historia que podría ser la tuya</strong>, la de tu vecino, la de todos, la de la vida.</p>
 <div class="video-container">
