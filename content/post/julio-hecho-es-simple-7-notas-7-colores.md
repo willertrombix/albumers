@@ -21,7 +21,7 @@ draft = false
 
 <p>Conocí a <strong><a href="https://elloboentupuerta.bandcamp.com/album/bestias-del-sur-salvaje" target="_blank" rel="external noopener">El Lobo en Tu Puerta</a></strong> un poco antes del <strong>30 de enero de 2015</strong>, día en que <strong>Cabalgata Cósmica</strong> fuimos invitados a compartir escenario con ellos en la <strong>sala Hot Rod de Sueca</strong>.</p>
 
-<p>El sarao lo montaba <strong><a href="https://www.facebook.com/lalogia.delmambo" rel="external noopener">La Logia del Mambo</a></strong>, hermandad festera de la que es acólito <strong>Xavo</strong> -que estuvo el otro día por aquí y nos contó <strong><a href="https://albumers.org/post/xavo-clotted-symetric-sexual-organ/">cosas muy interesantes</a></strong>, por cierto-.
+<p>El sarao lo montaba <strong><a href="https://www.facebook.com/lalogia.delmambo" rel="external noopener">La Logia del Mambo</a></strong>, hermandad festera de la que es acólito <strong>Xavo</strong> -que estuvo el otro día por aquí y nos contó <strong><a href="https://albumers.org/post/xavo-clotted-symetric-sexual-organ/">cosas muy interesantes</a></strong>, por cierto-.</p>
 
 <p>Cuando llegamos a la sala y conocimos en persona a <strong>Julio, Tanín y Búho</strong>, los integrantes de <strong>ELETP</strong>, no sabíamos muy bien a qué atenernos, pero su desparpajo, soltura, sinceridad y naturalidad nos proyectaba <strong>un buen rollo increíble</strong>.</p>
 
