@@ -46,6 +46,7 @@ img.banner {
 .italic {
   font-style: italic;
   text-decoration: underline;
+  text-underline-position: under;
 }
 .banner-box {
   width: 100%;

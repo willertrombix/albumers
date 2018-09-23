@@ -16,11 +16,15 @@ images = [
 ] # Suggested, controls default Open Graph images
 draft = false
 +++  
-<h2>Título</h2>
+<h2>Chiclana tiene un flow especial</h2>
 
-<p>Bio</p> 
+<p>Conocí a <strong><a href="https://elloboentupuerta.bandcamp.com/album/bestias-del-sur-salvaje" target="_blank" rel="external noopener">El Lobo en Tu Puerta</a></strong> un poco antes del <strong>30 de enero de 2015</strong>, día en que <strong>Cabalgata Cósmica</strong> fuimos invitados a compartir escenario con ellos en la <strong>sala Hot Rod de Sueca</strong>.</p>
 
-<p><strong>"Si no hay de esto en mi pueblo, pues me lo invento"</strong>.</p>
+<p>El sarao lo montaba <strong><a href="https://www.facebook.com/lalogia.delmambo" rel="external noopener">La Logia del Mambo</a></strong>, hermandad festera de la que es acólito <strong>Xavo</strong> -que estuvo el otro día por aquí y nos contó <strong><a href="https://albumers.org/post/xavo-clotted-symetric-sexual-organ/">cosas muy interesantes</a></strong>, por cierto-.
+
+<p>Cuando llegamos a la sala y conocimos en persona a <strong>Julio, Tanín y Búho</strong>, los integrantes de <strong>ELETP</strong>, no sabíamos muy bien a qué atenernos, pero su desparpajo, soltura, sinceridad y naturalidad nos proyectaba <strong>un buen rollo increíble</strong>.</p>
+
+<p>Y ese buen rollo se conviertió en la mayor y más grande de las fiestas sobre el entablado. Qué energía, qué </p>
 
 <div class="alert alert-success">
 <img
@@ -35,16 +39,14 @@ draft = false
 <table>
 <thead>
 <tr>
-<th>Revengas</th>
-<th>Huessos</th>
-<th>Brutal Freack</th>
+<th>El Lobo en tu puerta</th>
+<th>Hipnotik</th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td><a href="https://www.facebook.com/revengas13/" target="_blank" rel="external nofollow noopener" style="font-weight:normal;">Facebook</td>
-<td><a href="https://www.facebook.com/huessos.munones/" target="_blank" rel="external noopener">Facebook</td>
-<td><a href="https://www.facebook.com/BrutalFreack/" target="_blank" rel="external noopener">Facebook</td>
+<td><a href="https://www.facebook.com/hipnotikhk" target="_blank" rel="external noopener">Facebook</td>
 </tr>
 </tbody>
 </table>
@@ -90,11 +92,19 @@ Pregunta: ¿Dónde y cómo descubriste el disco que te cambió la vida?
 <p>Así repetí la historia un par de semanas, <strong>no existía Internet, jejeje</strong>.</p>
 
 <div class="alert alert-error">
-Álvaro, no te conozco pero me caes bien. <strong>Mira el mosntruito</strong> que estabas creando <strong>en tu tienda de discos</strong>.  
+<p>Álvaro, no te conozco pero me caes bien. <strong>Mira el monstruito</strong> que estabas creando <strong>en tu tienda de discos</strong>.</p>  
 </div>
 
 <p>Cuando al fin lo compré se convirtió posiblemente en el disco que más escuché en mi vida.</p>
 
+<div class="alert alert-info">
+<h3>7 Notas 7 Colores, tema: Buah!</h3>
+<p>Videoclip recuperado de cuando se lanzó el disco <span class="italic">"Hecho, es simple"</span> en la <strong>primavera de 1997.</strong></p>
+<p>En efecto, había algo <strong>más alterado que la sangre en la primavera</strong> de ese año.</p>
+<div class="video-container">
+<iframe width="100%" height="415" src="https://www.youtube.com/embed/N1_A7RnyL7I?rel=0" title="7 Notas 7 Colores, tema: Buah!, Álbum: Hecho, es simple (1997)" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
+</div>
 
 <div class="alert alert-info">
 Pregunta: ¿Tienes alguna anécdota que te haya pasado escuchando el disco o al grupo? 
@@ -104,7 +114,16 @@ Pregunta: ¿Tienes alguna anécdota que te haya pasado escuchando el disco o al 
 
 <p>Al grupo aún no lo he visto en directo nunca.</p>
 
-<p>El disco lo tenía puesto en mi trabajo todo el tiempo, yo soy pastelero, y siempre estaba lleno de harina... Jajaja</p>
+<p>El disco <strong>lo tenía puesto en mi trabajo</strong> todo el tiempo, <strong>yo soy pastelero, y siempre estaba <span class="italic">lleno de harina...</span></strong> Jajaja</p>
+
+<div class="alert alert-info">
+<h3>El Lobo en Tu Puerta, tema: Bachata</h3>
+<p><strong>Llenos de harina o de Doritos con Fanta y Sangría</strong> o lo que mierdas sea eso que se lanzan por todas partes.</p>
+<p><strong>No son malos modales a la mesa</strong>, son los modales de tres <span class="italic">canis lupus</span> con <strong>ganas de comerse el mundo</strong> después de ponérselo por montera. <strong>¡Bon appetit!</strong></p>
+<div class="video-container">
+<iframe width="100%" height="415" src="https://www.youtube.com/embed/aKd6NOwVbSc?rel=0" title="El Lobo en Tu Puerta, tema: Bachata, Álbum: Bestias del sur salvaje (2017)" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
+</div>
 
 <div class="alert alert-info">
 Pregunta: ¿Por qué te influenció tanto? ¿Cambió tu manera de pensar y entender la música?  
@@ -112,7 +131,7 @@ Pregunta: ¿Por qué te influenció tanto? ¿Cambió tu manera de pensar y enten
 
 <p>RESPUESTA:</p>
 
-<p>Ya escuchaba algo de rap ("Public Enemy") pero con este disco pensé que yo podía hacer rap en español.</p>
+<p>Ya escuchaba algo de rap (<strong>"Public Enemy"</strong>) pero con este disco <strong>pensé que yo podía hacer rap en español</strong>.</p>
 
 <p>Es el disco que me empujó a escribir.</p>
 
@@ -121,16 +140,42 @@ Pregunta: ¿Por qué te influenció tanto? ¿Cambió tu manera de pensar y enten
 <p>Sin este disco casi seguro que no estaría haciendo música ahora.</p>
 
 <div class="alert alert-info">
+<h3>Hipnotik, tema: El patio de los dolores (Fondo sur, 2005)</h3>
+<p>Este temazo es de 2005, pero si hubiese salido ayer <strong>te lo tragarías bien frescamente</strong>.</p>
+<p><strong>Vozarrón sobre una base que resucita muertos</strong>, a ritmo de <strong>copla, rock y flamenco</strong>, con una letra que te sumerje en una <strong>historia que podría ser la tuya</strong>, la de tu vecino, la de todos, la de la vida.</p>
+<div class="video-container">
+<iframe width="100%" height="415" src="https://www.youtube.com/embed/rNqQK8aUfqc?rel=0" title="Hipnotik, tema: El patio de los dolores, Álbum: Fondo sur (2005)" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
+</div>
+
+<div class="alert alert-info">
+<h3>Hipnotik, tema: El chico nuevo (II II II, 2012)</h3>
+<p>Unos años más tarde <strong>Hipnotik</strong> evolucionaría hacía el <strong>rock, el funk y el High Energy</strong>. O lo que es lo mismo: el embrión de lo que después acabaría siendo <strong>El Lobo en Tu Puerta</strong>, maduro, hambriento, agresivo.</p>
+<p>Pero eso sería después, de momento, <strong>¡que empiece la fiesta!</strong></p>
+<div class="video-container">
+<iframe src="https://player.vimeo.com/video/39241828" width="640" height="360" title="Hipnotik, tema: El chico nuevo, Álbum: Fondo sur (2005)" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+</div>
+</div>
+
+<div class="alert alert-info">
 Pregunta: ¿Se sigue notando hoy en día el poso que me dejó?  
 </div>
 
 <p>RESPUESTA:</p>
 
-<p>No estoy muy rapero ultimamente, pero... Si escucho una sola palabra de este MC me sale una sonrisa de aprobación automáticamente...</p>
+<p>No estoy muy rapero ultimamente, pero... <stromg>Si escucho una sola palabra de este MC</stromg> me sale una sonrisa de aprobación automáticamente...</p>
 
-<p>Escucharle es un gran "Ouh Yes!".</p>
+<p>Escucharle es <strong>un gran "Ouh Yes!"</strong></p>
 
-<p>Aún nadie se acercó nisiquiera un poco al estilo y autenticidad de su flow.</p>
+<p>Aún nadie se acercó nisiquiera un poco al estilo y <strong>autenticidad de su flow</strong>.</p>
+
+<div class="alert alert-info">
+<h3>Cookin Bananas, tema: Aquí te pillo, aquí temazo</h3>
+<p>Cookin Bananas es la unión en 2010 de <strong>Mucho Muchacho con Cookin Soul</strong>, que durante 3 años conquistaron caderas de medio mundo con bases y samples como la de este "Aquí te pillo, aquí temazo", que usa el característico corte que recodarás de los <strong>títulos de crédito</strong> de las películas de <strong>Tarantino</strong>, compuesta por <strong>Keith Mansfield</strong> y titulada <strong><a href="https://www.youtube.com/watch?v=1i6Cpq8XBFw" target="_blank" rel="external noopener">"Funky Fanfare"</a>.</p>
+<div class="video-container">
+<iframe width="100%" height="415" src="https://www.youtube.com/embed/Fzzo-zz7Jjg?rel=0" title="Cookin Bananas, tema: Aquí te pillo, aquí temazo (2013)" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
+</div>
 
 
 <div class="alert alert-info">
@@ -139,38 +184,57 @@ Pregunta: ¿Sigues escuchando ese disco? ¿Con qué frecuencia?
 
 <p>RESPUESTA:</p>
 
-<p>Mi coleccion de discos está ordenada por gustos, mis favoritos están en una estantería especial.</p>
+<p>Mi coleccion de discos está ordenada por gustos, <strong>mis favoritos están en una estantería especial</strong>.</p>
 
-<p>Por supuesto esa estantería la capitanea Black Sabbath, mi colección de blues... Y de rap: la discografía de The Roots y este disco!</p>
+<p>Por supuesto esa estantería la capitanea <strong>Black Sabbath</strong>, mi <strong>colección de blues</strong>...</p>
 
+<p>Y de <strong>rap</strong>: la discografía de <strong>The Roots y este disco!</strong></p>
+
+<div class="alert alert-info">
+<h3>The Roots, Freestyle (Directo en Rap City, 2004)</h3>
+<p>Las raíces surcando el subsuelo y rompiendo en la superficie para conquistar el plató del <stromg>programa Rap City</stromg> con un <strong>Freestyle</strong> que <strong>si tiene más flow te folla</strong>.</p>
+<div class="video-container">
+<iframe width="100%" height="415" src="https://www.youtube.com/embed/1pSS4opZwdQ?rel=0" title="The Roots, Freestyle (Directo en Rap City, 2004)" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
+</div>
+
+<div class="alert alert-error">
+<p>¿Tener en tu colección discos de <strong>Black Sabbath y de rap</strong> a la misma altura de preferencia?</p>
+<p>Bueno, a veces las extrañas parejas se llevan de fábula. <strong>El Lobo en Tu Puerta</strong> es la más evidente prueba de que <strang>se puede hacer si se hace con maestría</strang>.</p>  
+<p><strong>SIRVA DE MUESTRA ESTE ROMPECUELLOS:</strong></p>
+<h3>El Lobo en tu puerta, Manny Pacquiao (Grabaciones sumergidas, 2015)</h3>
+<div class="video-container">
+<iframe width="100%" height="415" src="https://www.youtube.com/embed/fk6TSExU2Bo?rel=0" title="El Lobo en tu puerta, Manny Pacquiao (Grabaciones sumergidas, 2015)" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
+</div>
 
 <div class="banner-box">
-<a href="https://www.discogs.com/sell/release/1493494?ev=rb" target="_blank" rel="nofollow noopener">
+<a href="https://rover.ebay.com/rover/1/1185-53479-19255-0/1?icep_id=114&ipn=icep&toolid=20004&campid=5338384035&mpre=https%3A%2F%2Fwww.ebay.es%2Fitm%2F7-Notas-7-Colores-Hecho-Es-Simple-CD-1997%2F322429144900%3Fhash%3Ditem4b12464f44%3Ag%3ApmsAAOSwTuJYqo6K" target="_blank" rel="nofollow noopener">
 <img
   data-sizes="auto"
-  data-src="/images/Diversion-of-former-customary-trite-composition-LP.jpg"
-  alt="Spped Kills Vol 1 comprar cd y vinilo"
+  data-src="/images/7-notas-7-colores-hecho-es-simple-comprar-cd.jpg"
+  alt="7 Notas 7 Colores, Álbum: Hecho es simple (CD, 1997)"
   class="lazyload banner"> 
 </a>
 
-<p><a href="https://www.discogs.com/sell/release/1493494?ev=rb" target="_blank" rel="external nofollow noopener">Pues sí que lo vale, así que te dejamos un listado de Discogs, a ver si te apaña alguno.<br>BENDITA LOCURA</a></p>
+<p><a href="https://rover.ebay.com/rover/1/1185-53479-19255-0/1?icep_id=114&ipn=icep&toolid=20004&campid=5338384035&mpre=https%3A%2F%2Fwww.ebay.es%2Fitm%2F7-Notas-7-Colores-Hecho-Es-Simple-CD-1997%2F322429144900%3Fhash%3Ditem4b12464f44%3Ag%3ApmsAAOSwTuJYqo6K" target="_blank" rel="external nofollow noopener">Aquí el disco con las rimas y el flow más temible que se haya hecho nunca en español.<br>HAZTE CON ÉL</a></p>
 </div>
 <br>
 
-<h2>Más de CSSO</h2>
+<h2>Más de El Lobo en Tu Puerta</h2>
 
 <div class="media">
   <div class="media-left">
     <img
   data-sizes="auto"
-  data-src="/images/CSSO-nagro-lauxes-VIII-CD.jpg"
-  alt="CSSO, Nagrö Läuxes VIII, CD"
+  data-src="/images/El-lobo-en-tu-puerta-bestias-del-sur-salvaje-comprar-vinilo.jpg"
+  alt="El Lobo En Tu Puerta, álbum: Bestias Del Sur Salvaje, comprar vinilo"
   class="lazyload">
   </div>
 <div class="media-body">
-    <div class="media-heading">Álbum: Nagrö läuxes VIII (CD)</div>
-    <div class="media-content"><p>Como dijo alguien en Youtube: "Una crónica decía que este disco solo es escuchable tras 6 cervezas. Pero a mí con la cuarta ya me empezó a gustar"</p></div>
-    <p><strong><a href="https://rover.ebay.com/rover/1/1185-53479-19255-0/1?icep_id=114&ipn=icep&toolid=20004&campid=5338379132&mpre=https%3A%2F%2Fwww.ebay.es%2Fitm%2FCSSO-CLOTTED-SYMMETRIC-SEXUAL-ORGAN-Nagro-Lauxes-VIII-CD-100034%2F302843348334%3Fhash%3Ditem4682dec56e%3Ag%3A98QAAOSw-AdbcdHv" target="_blank" rel="external noopener"> Comprar</a></strong></p>
+    <div class="media-heading">Álbum: Bestias del Sur Salvaje (vinilo, 2017)</div>
+    <div class="media-content"><p>Rock, groove, high energy, heavy, blues, despiporre... Huele a sangre fresca y el lobo siempre acecha.</p></div>
+    <p><strong><a href="https://rover.ebay.com/rover/1/1185-53479-19255-0/1?icep_id=114&ipn=icep&toolid=20004&campid=5338384035&mpre=https%3A%2F%2Fwww.ebay.es%2Fitm%2FEL-LOBO-EN-TU-PUERTA-Bestias-Del-Sur-Salvaje-LP-the-black-keys-garage-mc5%2F152838190797%3Fhash%3Ditem2395ddb6cd%3Ag%3AHX8AAOSwCtJaPStI" target="_blank" rel="external noopener"> Comprar</a></strong></p>
   </div>
 </div>
 
@@ -178,29 +242,14 @@ Pregunta: ¿Sigues escuchando ese disco? ¿Con qué frecuencia?
   <div class="media-left">
     <img
   data-sizes="auto"
-  data-src="/images/Haemorrhage-CSSO-Dead-Infection-Grind-Over-Europe-1996.jpg"
-  alt="Haemorrhage, CSSO, Dead Infection, recopilatorio Grind Over Europe 1996"
+  data-src="/images/el-lobo-en-tu-puerta-grabaciones-sumergidas-cd.jpg"
+  alt="El lobo en tu puerta, Álbum: Grabaciones Sumergidas (bandcamp, 2015)"
   class="lazyload">
   </div>
 <div class="media-body">
-    <div class="media-heading">Grind Over Europe: Haemorrhage, CSSO, Dead Infection (1996)</div>
-    <div class="media-content"><p>Cassete de la mítica gira de estas 4 banzadas por Europa. El resumen de un despiporre contínuo, con un cartel irrepetible.</p></div>
-    <p><strong><a href="https://www.discogs.com/sell/release/857276?ev=rb" target="_blank" rel="external noopener"> Comprar</a></strong></p>
-  </div>
-</div>
-
-<div class="media">
-  <div class="media-left">
-    <img
-  data-sizes="auto"
-  data-src="/images/csso-are-you-excrements.jpg"
-  alt="CSSO, Are you Excrements?, comprar vinilo"
-  class="lazyload">
-  </div>
-<div class="media-body">
-    <div class="media-heading">CSSO, Are you Excrements? (Vinilo)</div>
-    <div class="media-content"><p>35 años de historia como referente del Trash Mateal canadiense y sumando: el 21 de Septiembre sacan disco.</p></div>
-    <p><strong><a href="https://www.discogs.com/sell/release/7755868?ev=rb" target="_blank" rel="external noopener"> Comprar</a></strong></p>
+    <div class="media-heading">Grabaciones Sumergidas (Digital, 2015)</div>
+    <div class="media-content"><p>Este disco debe estar todo vendido porque no lo encuentro en formato físico. Eso demuestra que ya tardas en pillártelo, aunque sea en digital.</p></div>
+    <p><strong><a href="https://elloboentupuerta.bandcamp.com/album/grabaciones-sumergidas-2015-2" target="_blank" rel="external noopener"> Comprar</a></strong></p>
   </div>
 </div>
 
