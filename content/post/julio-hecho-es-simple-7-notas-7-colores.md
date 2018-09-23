@@ -48,7 +48,9 @@ draft = false
 </div>
 </div>
 
-<p>De un tiempo a esta parte, <strong>El Lobo en Tu Puerta</strong> no ha hecho más que crecer y crecer. Tanto a nivel compositivo, girando su sonido <strong>hacia el blues salvaje</strong> sin perder su <strong>esencia hip-hopera y su groove sexy</strong>.</p>
+<p>De un tiempo a esta parte, <strong>El Lobo en Tu Puerta</strong> no ha hecho más que crecer y crecer.</p>
+<p>Por un lado, a nivel compositivo, girando su sonido <strong>hacia el blues salvaje</strong> sin perder su <strong>esencia hip-hopera y su groove sexy</strong>.</p>
+<p>Por otro lado, a nivel de banda: cada vez tienen más presencia en los medios...</p>
 
 <div class="alert alert-info">
 <h3>El Lobo en Tu Puerta, tema: No quiero verte (videoclip oficial, 2018)</h3>
