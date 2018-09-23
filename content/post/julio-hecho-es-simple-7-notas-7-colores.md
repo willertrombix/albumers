@@ -68,7 +68,8 @@ draft = false
 </thead>
 <tbody>
 <tr>
-<td>¡Sígueles, copón! <a href="https://www.facebook.com/revengas13/" target="_blank" rel="external nofollow noopener" style="font-weight:normal;">Facebook</td>
+<td><a href="https://www.facebook.com/elloboentupuerta/" target="_blank" rel="external nofollow noopener" style="font-weight:normal;">Facebook</td>
+  <td><a href="https://www.instagram.com/elloboentupuerta17/" target="_blank" rel="external nofollow noopener">Instagram</td>
 </tr>
 </tbody>
 </table>
