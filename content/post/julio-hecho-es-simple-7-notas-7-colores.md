@@ -13,7 +13,7 @@ keywords = [
 ]
 tags = ["El Lobo en Tu Puerta", "7 Notas 7 Colores", "Hecho es simple", "rap", "Public Enemy", "The Roots", "Black Sabbath"] 
 images = [
-    "https://albumers.org/images/X7-notas-7-colores-hecho-es-simple-cd-julio.jpg"
+    "https://albumers.org/images/7-notas-7-colores-hecho-es-simple-cd-julio.jpg"
 ] # Suggested, controls default Open Graph images
 draft = false
 +++  
