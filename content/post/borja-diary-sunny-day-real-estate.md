@@ -1,7 +1,7 @@
 +++
 title = "Borja & Diary (Sunny Day Real Estate)"
 date = 2018-09-27
-description = "El cantante de El Lobo en Tu Puerta se pone hasta arriba de harina con este disco"
+description = "El bajista de Perro Grande, Mad Robot y España nos cuenta las ventajas de la dislexia y su disco ferpecto"
 keywords = [
   "Diary",
   "Sunny Day Real Estate",
@@ -21,15 +21,9 @@ images = [
 ] # Suggested, controls default Open Graph images
 draft = false
 +++  
-<h2>Chiclana tiene un flow especial</h2>
+<h2>TITLE</h2>
 
-<p>Conocí a <strong><a href="https://elloboentupuerta.bandcamp.com/album/bestias-del-sur-salvaje" target="_blank" rel="external noopener">El Lobo en Tu Puerta</a></strong> un poco antes del <strong>30 de enero de 2015</strong>, día en que <strong>Cabalgata Cósmica</strong> fuimos invitados a compartir escenario con ellos en la <strong>sala Hot Rod de Sueca</strong>.</p>
-
-<p>El sarao lo montaba <strong><a href="https://www.facebook.com/lalogia.delmambo" rel="external noopener">La Logia del Mambo</a></strong>, hermandad festera de la que es acólito <strong>Xavo</strong> -que estuvo el otro día por aquí y nos contó <strong><a href="https://albumers.org/post/xavo-clotted-symetric-sexual-organ/">cosas muy interesantes</a></strong>, por cierto-.</p>
-
-<p>Cuando llegamos a la sala y conocimos en persona a <strong>Julio, Tanín y Búho</strong>, los integrantes de <strong>ELETP</strong>, no sabíamos muy bien a qué atenernos, pero su desparpajo, soltura, sinceridad y naturalidad nos proyectaba <strong>un buen rollo increíble</strong>.</p>
-
-<p>Y ese buen rollo se convirtió en <strong>la mayor y más grande de las fiestas sobre el "entablao"</strong>. Qué energía, qué desparpajo...</p>
+<p>BIO</p>
 
 <div class="alert alert-success">
 <img
@@ -37,44 +31,37 @@ draft = false
   data-src="/images/el-lobo-en-tu-puerta.jpg"
   alt="El Lobo en Tu puerta, fotos en directo"
   class="lazyload">
-<p>El Lobo en Tu Puerta partiendo la pana en directo. Montaje a partir de fotos de <strong><a href="https://www.facebook.com/J.M.Grimaldi.Fotografo/" target="_blank" rel="external noopener">J.M. Grimaldi</a></strong></p>
+<p>Foto</p>
 </div>
 
 
-<p>Puro contagio e incluso <strong>algo de ansiedad</strong> por tener la sensación de que no estaba moviéndome lo suficiente como para <strong>hacer justicia a la música</strong> que estaba calándome por los poros de la piel.</p>
-
-<p>La gente simplemente <strong>flipaba con las chispas</strong> que salían del <strong>theremin</strong> de Julio, los platos pintados de la <strong>batería</strong> que se turnan entre Tanín y Búho (que por cierto <strong>rompieron el parche de la caja</strong>, como prueba de que lo suyo es puro <strong>bestialismo</strong>), la guitarra de flecha -con pegatina <strong><a href="http://www.jimphillips.com/30thphotos.html" target="_blank" rel="external noopener">“Screaming Hand” de Jim Phillips</a></strong>- que también se rulan de uno a otro y esa <strong>mini-guitarra del demonio</strong> hecha con un <strong>trozo de tabla de skate</strong>. 
+<p>MÁS BIO</p>
 
 <div class="alert alert-info">
-<h3>EL LOBO EN TU PUERTA, tema: "17", directo en Pub Kiss (Algeciras)</h3>
-<p><strong>Expertos en contagiar entusiasmo y desenfreno</strong>. Sus directos son ya conocidos por <strong>sudar hasta la última cerveza</strong>, por muchas que te hayas metido en el <strong>mítico Pub Kiss</strong> de Algeciras.</p>
+<h3>Vídeo de banda</h3>
+<p><strong>Comentario</strong>.</p>
 <div class="video-container">
 <iframe width="100%" height="415" src="https://www.youtube.com/embed/rAAFqJFVzKM?start=100" title="El Lobo en Tu Puerta, tema: 17, directo en Pub Kiss (Algeciras)" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 </div>
 
-<p>De un tiempo a esta parte, <strong>El Lobo en Tu Puerta</strong> no ha hecho más que <strong>crecer y crecer</strong>.</p>
-
-<p>Por un lado, <strong>a nivel compositivo</strong>, girando su sonido <strong>hacia el blues salvaje</strong> sin perder su <strong>esencia hip-hopera y su groove sexy</strong>.</p>
-
-<p>Por otro lado, <strong>a nivel de banda</strong>: cada vez tienen más <strong>presencia en festivales emergentes</strong> y prensa especializada, que han reparado en el diamante embruto en forma de música que ofrecen.</p>
-
-<p>Y es que, la verdad sea dicha, <strong>no hay otra jodida banda</strong> en este país <strong>que suene igual, con esa mezcla,</strong> hoy por hoy.</p>
+<p>Más BIO</p>
 
 <div class="alert alert-info">
-<h3>El Lobo en Tu Puerta, tema: No quiero verte (videoclip oficial, 2018)</h3>
-<p><strong><a href="https://www.youtube.com/channel/UC2-pV1UOibo369wrpewctYw" target="_blank" rel="external noopener">Pitu García</a></strong>, videógrafo oficial de <strong>ELETP</strong> vuelve a clavar el cachondeo que los muchachos llevan en sus venas, esta vez acompañando al nefasto <strong>Trump</strong> por las calles de su ciudad.</p>
-<p>Una lástima que no se cruce en ningún momento de la noche con <strong>Tanín</strong>.</p>
+<h3>Vídeo de banda</h3>
+<p><strong>Comentario</strong></p>
 <div class="video-container">
 <iframe width="100%" height="415" src="https://www.youtube.com/embed/8fMi_HpoBA4" title="El Lobo en Tu Puerta, tema: No quiero verte (videoclip oficial, 2018)" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 </div>
 
-<h3>Si llaman a tu puerta, ábreles. Morirás, pero habrá valido la pena</h3>
+<h3>Diversidad y diversión para estar al tanto</h3>
 <table>
 <thead>
 <tr>
-<th>El Lobo en tu puerta</th>
+<th>Perro Grande</th>
+<th>Mad Robot</th>
+<th>España</th>
 </tr>
 </thead>
 <tbody>
