@@ -5,7 +5,6 @@ description = "El cantante de El Lobo en Tu Puerta se pone hasta arriba de harin
 keywords = [
   "Diary",
   "Sunny Day Real Estate",
-  "emo",
   "Perro Grande",
   "España",
   "Mad Robot",
@@ -16,7 +15,7 @@ keywords = [
   "Diabologum",
   "Manta Ray"
 ]
-tags = ["Diary", "Sunny Day Real Estate", "emo", "Perro Grande", "España", "Mad Robot", "Borx Records", "Radio Funny", "Monopolio Eclesial", "Punk Floyd", "Diabologum", "Manta Ray"] 
+tags = ["Diary", "Sunny Day Real Estate", "Perro Grande", "España", "Mad Robot", "Borx Records", "Radio Funny", "Monopolio Eclesial", "Punk Floyd", "Diabologum", "Manta Ray"] 
 images = [
     "https://albumers.org/images/Borja-Diary-Sunny-Day-Real-Estate-vinilo.jpg"
 ] # Suggested, controls default Open Graph images
@@ -311,3 +310,21 @@ Pregunta: ¿Sigues escuchando ese disco? ¿Con qué frecuencia?
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
+
+Soy malísimo para las fechas, los nombres, soy malo para todo en general, pero una vez un médico le dijo a mi madre que tenía dislexia y eso me salvó la vida. Cada vez que cagaba algo...es que tengo dislexia diagnosticada, soy dislexico con papeles. Por ello no recuerdo bien los años pero sí sé que por aquellos años estaba viviendo en Lleida y en los locales que dejaba La Paeria para aprender música y tocar se escuchaba Eskorbuto, Sangtrait, Nirvana, soul Asylum, Metallica, Bob Marley, Beatles,..., me daba una pereza tocar brutal. Pero bueno, ahí iba desaprendiendo a hacer solos. Como era " disléxico " (gracias al altísimo) no había forma de aprenderme ni un solo y los temas se me olvidaban todos, auténtico azote del virtuosismo, pero sí iba haciendo mis historias. Me acoplé con "los raros" peña que tocaba como le salía del ojete y salían marcianadas muy guapas. Por entonces no tenía ni walkman, escuchaba cintas en un reproductor de mi hermana cuando regresaba a casa y otro que había en un local, todo cintas grabadas de Larsen y comando 9mm, Bad Religion el against the grain, Angry Samoans, off sprint el smash, Faith No More el King for a day... escuchaba también en vinilo Alan Parson's Project que tenía mi padre, me quedaba pokemon,..., pero la verdad me daban bastante igual grupos como Green Day, The Cure o Nirvana, de hecho en algún vídeo que había visto de Nirvana me habían parecido unos payasos. 
+
+En clase de diédrico en cou estaba al lado de un metalero que se ponía en la última fila y simulaba todo el rato tocar la batería con bolis sobre el jersey de Megadeth enrollado, un día me lo veo haciendo redobles diferentes a los que hacía habitualmente. El pavo llevaba tal melenón que no se le veía ni el walkman, ni el cable, ni los cascos. Al salir de clase le pregunté qué estaba escuchando ese día, me dio la cinta y se piró. Cuando lo escuché me quedé todo palomo, me gustaban las baterías, la voz, las guitarras, el bajo, se escuchaba todo tremendo y al mismo tiempo distorsionado y pensé: esto mola. Al día siguiente estaba con "El Metales" en el local, un Aria Pro II, la Talmus y un Metal Zone practicando esa mandanga a nuestra manera. Dibujo técnico acabó como acabó.
+
+Por qué me influenció?
+
+Porque me pareció algo que tenía un estilo propio que no era ni una cosa ni la otra. Gracias a ellos descubrí otros grupos ya de carrerilla: Fugazi, The Van Pelt, Mineral, Indian Summer, Converge y al llegar a Valencia Furiuos Planet. Los vi en Torrefiel al aire libre en un escenario y no sé por qué me dio la impresión de que algo había parecido, luego ya en la facultad con mi amigo el Sr. Sena y Radio Funny me puse al día y formé parte de esa escena que no tenía dueño y vivía sin casi conocer de la explosión naranja o la onda metal que había en la ciudad. Con Augusto montamos dos grupos: Monopolio Eclesial con el Éxito "Mata a Jesús el Nazareno, mátalo ya es un camello", éxito porwue conseguimos que la grabara en cinta un policía local y Punk Floyd con los que grabamos dos cintas autoeditadas: "Devuélveme la pelota que es mía" y "No me cago en dios por si soy yo" en esta época el Sr. Sena y yo compartímos en ocasiones escenario y asistimos a conciertos de bandas como Tail, Felpudo Tos, Ulan Bator trío,..., nos lo comíamos todo, no hacíamos ascos a nada.
+
+Radio Funny con Vicente Maicas (El Croqueta), Miguel Ángel Travesía, El Cura, El Fletán (con quien toco en España) y Álvaro García (Criminal Records, que un día desapareció sin dejar rastro y que a mi siempre me trató con especial cariño y fue quien me hizo registrar mi único tema en la SGAE para editar un recopilatorio) me abrieron la cabeza a otros sonidos que sin ser en principio algo que me llamara luego llegué a apreciar, como por ejemplo: Quién puede matar un niño de Penelope Trip, entre otras cosas.
+
+Ya más tarde currando en Francia descubrí otro grupo que me marcó de la misma forma: Diabologum. Lo que se escuchaba en Francia me parecía un coñazo tremendo y con este grupo encontré la misma sensación que con Sunny Day Real State y gracias a ellos conocí a otro de los grupos que me ha flipado: Manta Ray. 
+
+En cierta forma todo esto puede ser que me haya influido llegando a tocar en bandas que van del post metal al punk o gestar un Remake del Tos Felpudo de Felpudo Tos. Un disco adelantado a cualquier tiempo y que Valencia y el mundo aún no valora como debe. El Remake está lleno de bandas en ocasiones difíciles de encasillar y muy dispares en género pero que dan un toque muy personal a todo lo que hacen, descartando las mías que están porque mando yo claro.
+
+En definitiva Sunny Day Real Estate fue una banda que en su día no se podía meter dentro de la moda del grunge y era difícil de clasificar y quizás en la música me he movido buscando de una forma u otra ese aspecto.
+
+ Si Dios no se le hubiera revelado a Jeremy todos seríamos hoy un poco más felices y tendríamos algún otro disco en la estantería.Soy malísimo para las fechas, los nombres, soy malo para todo en
