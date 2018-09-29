@@ -21,7 +21,7 @@ images = [
 ] # Suggested, controls default Open Graph images
 draft = false
 +++  
-<h2>TITLE</h2>
+<h2>Post-rock, punk, ruido, dislexia y risas: un cóctel llamado "Borja"</h2>
 
 <p>BIO</p>
 
@@ -68,13 +68,12 @@ draft = false
 <tr>
 <td><a href="https://www.facebook.com/noisyperro/" target="_blank" rel="external noopener" style="font-weight:normal;">Facebook</td>
 <td><a href="https://www.facebook.com/madrobotarmy/" target="_blank" rel="external noopener">Facebook</td>
-<td><a href="https://www.facebook.com/AWOG-400820496921614/" target="_blank" rel="external noopener">Facebook</td>
+<td><a href="https://www.facebook.com/espanyaoficial" target="_blank" rel="external noopener">Facebbok</td>
 </tr>
 <tr>
-<td><a href="https://www.instagram.com/vormadrid/" target="_blank" rel="external noopener" style="font-weight:normal;">Insta.</td>
-<td><a href="https://www.instagram.com/madrobotarmy/" target="_blank" rel="external noopener">Instagram</td>
-<td><a href="https://www.instagram.com/analwarofgodsband/" target="_blank" rel="external noopener">Insta.</td>
-<td style="text-align: center; color: #ff2e88;">XXX</td>
+<td><a href="https://perrograndeband.bandcamp.com/" target="_blank" rel="external noopener" style="font-weight:normal;">Bandcamp</td>
+<td><a href="https://madrobot.bandcamp.com/" target="_blank" rel="external noopener">Bandcamp</td>
+<td><a href="https://espanya.bandcamp.com/" target="_blank" rel="external noopener">Bandcamp</td>
 </tr>
 </tbody>
 </table>
@@ -111,19 +110,36 @@ Pregunta: ¿Dónde y cómo descubriste el disco que te cambió la vida?
 
 <p>RESPUESTA:</p>
 
-<p>Lo descubrí escuchando <strong><a href="http://www.rtve.es/alacarta/audios/siglo-21/" target="_blank" rel="external nofollow noopener">Siglo 21</a></strong> de <strong>Radio 3</strong>.</p>
+<p>Soy malísimo para las fechas, los nombres... Soy malo para todo en general, pero una vez un médico le dijo a mi madre que tenía dislexia y eso me salvó la vida.</p>
 
-<p>La gente llamaba para <strong>rajar de las letras</strong>, para decir que eso <strong>no era música</strong> y cosas parecidas.</p>
+<p>Cada vez que cagaba algo: "Es que tengo dislexia diagnosticada, soy disléxico con papeles".</p>
 
-<p>Al día siguiente fui a la <strong>tienda de discos</strong> que teniamos en <strong>Cádiz</strong>, <span class="italic">"Malamúsica"</span>, y le pedí al dueño, Álvaro, que <strong>me lo pusiera un par de veces...</strong></p>
+<p>Por ello no recuerdo bien los años pero sí sé que por aquellos entonces estaba viviendo en Lleida y en los locales que dejaba La Paeria para aprender música y tocar se escuchaba Eskorbuto, Sangtrait, Nirvana, soul Asylum, Metallica, Bob Marley, Beatles,...</p>
 
-<p>Así repetí la historia un par de semanas, <strong>no existía Internet, jejeje</strong>.</p>
+ <p>Me daba una pereza tocar brutal. Pero bueno, ahí iba desaprendiendo a hacer solos. Como era "disléxico" (gracias al altísimo) no había forma de aprenderme ni un solo y los temas se me olvidaban todos, auténtico azote del virtuosismo, pero sí iba haciendo mis historias.</p>
 
-<div class="alert alert-error">
-<p>Álvaro, no te conozco pero me caes bien. <strong>Mira el monstruito</strong> que estabas creando <strong>en tu tienda de discos</strong>.</p>  
-</div>
+ <p>Me acoplé con "los raros": peña que tocaba como le salía del ojete y salían marcianadas muy guapas.</p>
 
-<p>Cuando al fin lo compré se convirtió posiblemente en el disco que más escuché en mi vida.</p>
+ <p>Por entonces no tenía ni walkman, escuchaba cintas en un reproductor de mi hermana cuando regresaba a casa y otro que había en un local, todo cintas grabadas de Larsen y Comando 9mm, Bad Religion (el "Against The Grain"), Angry Samoans, Offspring (el "Smash"), Faith No More (el "King for a Day")...</p>
+
+ <p>Escuchaba también en vinilo Alan Parson's Project que tenía mi padre, me quedaba Pokemon,...</p>
+
+ <p>Pero la verdad, me daban bastante igual grupos como Green Day, The Cure o Nirvana. De hecho en algún vídeo que había visto de Nirvana me habían parecido unos payasos.</p>
+
+ <div class="alert alert-error">
+<p><strong>¡Chúpate esa, Dave Grohl!</strong></p>
+ </div>
+
+<p>En clase de Diédrico en C.O.U. estaba al lado de un metalero que se ponía en la última fila y simulaba todo el rato tocar la batería con bolis sobre el jersey de Megadeth enrollado.</p>
+
+<p>Un día me lo veo haciendo redobles diferentes a los que hacía habitualmente. El pavo llevaba tal melenón que no se le veía ni el walkman, ni el cable, ni los cascos.</p>
+
+<p>Al salir de clase le pregunté qué estaba escuchando ese día, me dio la cinta y se piró.</p>
+
+<p>Cuando lo escuché me quedé todo palomo: me gustaban las baterías, la voz, las guitarras, el bajo, se escuchaba todo tremendo y al mismo tiempo distorsionado y pensé "esto mola".</p>
+
+<p>Al día siguiente estaba con "El Metales" en el local, una Aria Pro II, la Talmus y un Metal Zone practicando esa mandanga a nuestra manera. Dibujo técnico acabó como acabó.</p>
+
 
 <div class="alert alert-info">
 <h3>7 Notas 7 Colores, tema: Buah!</h3>
@@ -305,9 +321,6 @@ Pregunta: ¿Sigues escuchando ese disco? ¿Con qué frecuencia?
 </script>
 
 
-Soy malísimo para las fechas, los nombres, soy malo para todo en general, pero una vez un médico le dijo a mi madre que tenía dislexia y eso me salvó la vida. Cada vez que cagaba algo...es que tengo dislexia diagnosticada, soy dislexico con papeles. Por ello no recuerdo bien los años pero sí sé que por aquellos años estaba viviendo en Lleida y en los locales que dejaba La Paeria para aprender música y tocar se escuchaba Eskorbuto, Sangtrait, Nirvana, soul Asylum, Metallica, Bob Marley, Beatles,..., me daba una pereza tocar brutal. Pero bueno, ahí iba desaprendiendo a hacer solos. Como era " disléxico " (gracias al altísimo) no había forma de aprenderme ni un solo y los temas se me olvidaban todos, auténtico azote del virtuosismo, pero sí iba haciendo mis historias. Me acoplé con "los raros" peña que tocaba como le salía del ojete y salían marcianadas muy guapas. Por entonces no tenía ni walkman, escuchaba cintas en un reproductor de mi hermana cuando regresaba a casa y otro que había en un local, todo cintas grabadas de Larsen y comando 9mm, Bad Religion el against the grain, Angry Samoans, off sprint el smash, Faith No More el King for a day... escuchaba también en vinilo Alan Parson's Project que tenía mi padre, me quedaba pokemon,..., pero la verdad me daban bastante igual grupos como Green Day, The Cure o Nirvana, de hecho en algún vídeo que había visto de Nirvana me habían parecido unos payasos. 
-
-En clase de diédrico en cou estaba al lado de un metalero que se ponía en la última fila y simulaba todo el rato tocar la batería con bolis sobre el jersey de Megadeth enrollado, un día me lo veo haciendo redobles diferentes a los que hacía habitualmente. El pavo llevaba tal melenón que no se le veía ni el walkman, ni el cable, ni los cascos. Al salir de clase le pregunté qué estaba escuchando ese día, me dio la cinta y se piró. Cuando lo escuché me quedé todo palomo, me gustaban las baterías, la voz, las guitarras, el bajo, se escuchaba todo tremendo y al mismo tiempo distorsionado y pensé: esto mola. Al día siguiente estaba con "El Metales" en el local, un Aria Pro II, la Talmus y un Metal Zone practicando esa mandanga a nuestra manera. Dibujo técnico acabó como acabó.
 
 Por qué me influenció?
 
