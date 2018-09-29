@@ -151,7 +151,7 @@ Pregunta: ¿Dónde y cómo descubriste el disco que te cambió la vida?
 </div>
 </div>
 
- <p>Pero la verdad, me daban bastante igual grupos como Green Day, The Cure o Nirvana. De hecho en algún vídeo que había visto de Nirvana me habían parecido unos payasos.</p>
+ <p>Pero la verdad, me daban bastante igual grupos como Green Day, The Cure o Nirvana. De hecho en algún vídeo que había visto de <strong>Nirvana me habían parecido unos payasos</strong>.</p>
 
 <div class="alert alert-error">
 <p><strong>¡Chúpate esa, Dave Grohl!</strong></p>
@@ -202,7 +202,7 @@ Pregunta: ¿Por qué te influenció el <span class="italic">Diary"</span> de Sun
 
 <p>Con <strong>Augusto</strong> montamos dos grupos: <strong>Monopolio Eclesial</strong> con el Éxito <strong>"Mata a Jesús el Nazareno, mátalo ya, es un camello"</strong>, éxito porque <strong>conseguimos que la grabara en cinta un policía local</strong> y <strong>Punk Floyd</strong> con los que grabamos <strong>dos cintas autoeditadas</strong>: <strong>"Devuélveme la pelota que es mía"</strong> y <strong>"No me cago en dios por si soy yo"</strong>.
 
- <div class="alert alert-info">
+<div class="alert alert-info">
 <h3>Punk Floyd - Franco era negro, ateo y yonki (1999)</h3>
 <p>Mitiquérrimo documento de la escena valenciana <strong>de cuando estaba de moda hablar del efecto 2000</strong>, que ya por entonces tuvo la lucidez de saber <strong>de qué pie cojeaba el generalísimo</strong>. ¡BRAVO!</p>
 <div class="video-container">
@@ -210,13 +210,40 @@ Pregunta: ¿Por qué te influenció el <span class="italic">Diary"</span> de Sun
 </div>
 </div>
 
-<p>En esta época el <strong>Sr. Sena y yo</strong> compartímos en ocasiones escenario y <strong>asistimos a conciertos de bandas</strong> como <strong>Tail</strong>, <strong>Felpudo Tos</strong>, <strong>Ulan Bator trío</strong>... <strong>Nos lo comíamos todo, no hacíamos ascos a nada</strong>.
+<p>En esta época el <strong>Sr. Sena y yo</strong> compartímos en ocasiones escenario y <strong>asistimos a conciertos de bandas</strong> como <strong>Tail</strong>, <strong>Felpudo Tos</strong>, <strong>Ulan Bator trío</strong>... <strong>Nos lo comíamos todo, no hacíamos ascos a nada</strong>.</p>
 
-Radio Funny con Vicente Maicas (El Croqueta), Miguel Ángel Travesía, El Cura, El Fletán (con quien toco en España) y Álvaro García (Criminal Records, que un día desapareció sin dejar rastro y que a mi siempre me trató con especial cariño y fue quien me hizo registrar mi único tema en la SGAE para editar un recopilatorio) me abrieron la cabeza a otros sonidos que sin ser en principio algo que me llamara luego llegué a apreciar, como por ejemplo: Quién puede matar un niño de Penelope Trip, entre otras cosas.
+<p><strong>Radio Funny</strong> con <strong>Vicente Maicas (El Croqueta)</strong>, <strong>iguel Ángel Travesía</strong>, <strong>El Cura</strong>, <strong>El Fletán</strong> (con quien toco en <strong>España</strong>) y <strong>Álvaro García<strong> (<strong>Criminal Records</strong>, que un día desapareció sin dejar rastro y que a mi siempre me trató con especial cariño y fue quien me hizo registrar mi único tema en la SGAE para editar un recopilatorio) <strong>me abrieron la cabeza a otros sonidos</strong> que sin ser en principio algo que me llamara luego llegué a apreciar, como por ejemplo: <strong>Quién puede matar un niño</strong> de <strong>Penelope Trip</strong>, entre otras cosas.</strong>
 
-Ya más tarde currando en Francia descubrí otro grupo que me marcó de la misma forma: Diabologum. Lo que se escuchaba en Francia me parecía un coñazo tremendo y con este grupo encontré la misma sensación que con Sunny Day Real State y gracias a ellos conocí a otro de los grupos que me ha flipado: Manta Ray. 
+<div class="alert alert-info">
+<h3>Penelope Trip - Infanticida (¿Quién puede matar a un niño?, 1996)</h3>
+<p>Temarral de un disco que hace homenaje a la<strong>película</strong> de mismo título del director <strong>Chicho Ibáñez Serrador</strong>.</p>
+<p><strong>Preciosismo matemático</strong> fluye tras cada acorde, en un disco en el que se nota que se divierten.</p>
+<div class="video-container">
+<iframe width="100%" height="415" src="https://www.youtube.com/embed/t7Btmev_2FE?rel=0" title="Penelope Trip, tema: Infanticida, Álbum: ¿Quién puede matar a un niño? (1996)" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
+</div>
 
-En cierta forma todo esto puede ser que me haya influido llegando a tocar en bandas que van del post metal al punk o gestar un Remake del Tos Felpudo de Felpudo Tos. Un disco adelantado a cualquier tiempo y que Valencia y el mundo aún no valora como debe. El Remake está lleno de bandas en ocasiones difíciles de encasillar y muy dispares en género pero que dan un toque muy personal a todo lo que hacen, descartando las mías que están porque mando yo claro.
+<p>Ya más tarde <strong>currando en Francia</strong> descubrí <strong>otro grupo que me marcó de la misma forma</strong>: <strong>Diabologum</strong>. Lo que se escuchaba en Francia me parecía un coñazo tremendo y con este grupo <strong>encontré la misma sensación que con Sunny Day Real State</strong> y gracias a ellos conocí a otro de los grupos que me ha flipado: <strong>Manta Ray</strong>. 
+
+<div class="alert alert-info">
+<h3>Diabologum - 365 jours ouvrables (Ce n'est pas perdu pour tout le monde, 1996)</h3>
+<p>Una de las piedras angulares del <strong>rock alternativo</strong> de mediados de los noventa en Francia. Y una vez más, otro <strong>grupo infravalorado</strong> de la época. ¿<strong>Karma</strong>, a qué esperas para <strong>hacer tu trabajo</strong>?</p>
+<div class="video-container">
+<iframe width="100%" height="415" src="https://www.youtube.com/embed/8EkEQecPtT8?rel=0" title="Diabologum, tema: 365 jours ouvrables, Álbum: Ce n'est pas perdu pour tout le monde (1996)" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
+</div>
+
+<p>En cierta forma todo esto puede ser que me haya influido llegando a tocar en <strong>bandas que van del post metal al punk</strong> o gestar un <strong><a href="http://borxrecords.com/producto/felpudo-tos-remade/" target="_blank" rel="external noopener"> Remake del Tos Felpudo de Felpudo Tos</a></strong>.</p>
+
+<p>Un <strong>disco adelantado a cualquier tiempo</strong> y que <strong>Valencia y el mundo aún no valora como debe</strong>. El Remake está lleno de bandas en ocasiones <strong>difíciles de encasillar</strong> y muy dispares en género pero que <strong>dan un toque muy personal a todo lo que hacen</strong>, descartando <strong>las mías que están porque mando yo, claro</strong>.
+
+<div class="alert alert-info">
+<h3>Mad Robot - Los árboles (Tos Felpudo Remade)</h3>
+<p>Extractos y montaje de la versión que <strong>Mad Robot</strong> hace del tema <strong>"Los árboles"</strong> de <strong><a href="https://mindabad.bandcamp.com/album/tos-felpudo-2" target="_blank" rel="external noopener"> Felpudo Tos</a></strong>, recogido en la edición de lujo de Borx Records (2016) que deberías adquirir ya mismo <strong><a href="http://borxrecords.com/producto/felpudo-tos-remade/" target="_blank" rel="external noopener"> aquí</a> o mato a un gatito</strong></p>
+<div class="video-container">
+<iframe width="100%" height="415" src="https://www.youtube.com/embed/l0iP6F1BUzU?rel=0" title="Mad Robot, tema: Los árboles, Álbum: Tos Felpudo Remade (2016)" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
+</div>
 
 En definitiva Sunny Day Real Estate fue una banda que en su día no se podía meter dentro de la moda del grunge y era difícil de clasificar y quizás en la música me he movido buscando de una forma u otra ese aspecto.
 
