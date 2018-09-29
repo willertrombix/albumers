@@ -66,8 +66,15 @@ draft = false
 </thead>
 <tbody>
 <tr>
-<td><a href="https://www.facebook.com/elloboentupuerta/" target="_blank" rel="external nofollow noopener" style="font-weight:normal;">Facebook</td>
-  <td><a href="https://www.instagram.com/elloboentupuerta17/" target="_blank" rel="external nofollow noopener">Instagram</td>
+<td><a href="https://www.facebook.com/noisyperro/" target="_blank" rel="external noopener" style="font-weight:normal;">Facebook</td>
+<td><a href="https://www.facebook.com/madrobotarmy/" target="_blank" rel="external noopener">Facebook</td>
+<td><a href="https://www.facebook.com/AWOG-400820496921614/" target="_blank" rel="external noopener">Facebook</td>
+</tr>
+<tr>
+<td><a href="https://www.instagram.com/vormadrid/" target="_blank" rel="external noopener" style="font-weight:normal;">Insta.</td>
+<td><a href="https://www.instagram.com/madrobotarmy/" target="_blank" rel="external noopener">Instagram</td>
+<td><a href="https://www.instagram.com/analwarofgodsband/" target="_blank" rel="external noopener">Insta.</td>
+<td style="text-align: center; color: #ff2e88;">XXX</td>
 </tr>
 </tbody>
 </table>
