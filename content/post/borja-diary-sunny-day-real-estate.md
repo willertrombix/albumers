@@ -110,159 +110,117 @@ Pregunta: ¿Dónde y cómo descubriste el disco que te cambió la vida?
 
 <p>RESPUESTA:</p>
 
-<p>Soy malísimo para las fechas, los nombres... Soy malo para todo en general, pero una vez un médico le dijo a mi madre que tenía dislexia y eso me salvó la vida.</p>
+<p>Soy malísimo para las fechas, los nombres... <strong>Soy malo para todo en general</strong>, pero una vez un médico le dijo a mi madre que tenía <strong>dislexia</strong> y eso me salvó la vida.</p>
 
-<p>Cada vez que cagaba algo: "Es que tengo dislexia diagnosticada, soy disléxico con papeles".</p>
+<p>Cada vez que cagaba algo: <strong>"Es que tengo dislexia diagnosticada, soy disléxico con papeles"</strong>.</p>
 
-<p>Por ello no recuerdo bien los años pero sí sé que por aquellos entonces estaba viviendo en Lleida y en los locales que dejaba La Paeria para aprender música y tocar se escuchaba Eskorbuto, Sangtrait, Nirvana, soul Asylum, Metallica, Bob Marley, Beatles,...</p>
+<p>Por ello no recuerdo bien los años pero sí sé que por aquellos entonces estaba viviendo en Lleida y en los <strong>locales que dejaba La Paeria</strong> para aprender música y tocar se escuchaba <strong>Eskorbuto</strong>, <strong>Sangtrait</strong>, <strong>Nirvana</strong>, <strong>Soul Asylum</strong>, <strong>Metallica</strong>, <strong>Bob Marley</strong>, <strong>Beatles</strong>...</p>
 
- <p>Me daba una pereza tocar brutal. Pero bueno, ahí iba desaprendiendo a hacer solos. Como era "disléxico" (gracias al altísimo) no había forma de aprenderme ni un solo y los temas se me olvidaban todos, auténtico azote del virtuosismo, pero sí iba haciendo mis historias.</p>
+<div class="alert alert-info">
+<h3>Eskorbuto - Historia Triste (Anti todo, 1986)</h3>
+<p>Una nmezcla de bandas y estilos <strong>tan loca como interesante</strong> la que se escuchaba por los <strong>locales de Borja</strong>.</p>
+<p>Pero si tuviera que apostar <strong>cuál de las bandas mencionadas le hacía más tilín</strong>, no sé por qué, pero creo que elegiría <strong>Eskorbuto</strong>. Ya le preguntaré si he acertado o no.</p>
+<div class="video-container">
+<iframe width="100%" height="415" src="https://www.youtube.com/embed/uyE-elKUMUM?rel=0" title="Eskorbuto, tema: Historia Triste, Álbum: Anti Todo (1986)" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
+</div>
 
- <p>Me acoplé con "los raros": peña que tocaba como le salía del ojete y salían marcianadas muy guapas.</p>
+ <p><strong>Me daba una pereza tocar brutal</strong>. Pero bueno, ahí iba <strong>desaprendiendo a hacer solos</strong>.</p>
 
- <p>Por entonces no tenía ni walkman, escuchaba cintas en un reproductor de mi hermana cuando regresaba a casa y otro que había en un local, todo cintas grabadas de Larsen y Comando 9mm, Bad Religion (el "Against The Grain"), Angry Samoans, Offspring (el "Smash"), Faith No More (el "King for a Day")...</p>
+ <p>Como era <strong>"disléxico" (gracias al altísimo)</strong> no había forma de aprenderme ni un solo y los temas se me olvidaban todos, auténtico <strong>azote del virtuosismo</strong>, pero sí iba haciendo mis historias.</p>
 
- <p>Escuchaba también en vinilo Alan Parson's Project que tenía mi padre, me quedaba Pokemon,...</p>
+ <p><strong>Me acoplé con "los raros"</strong>: peña que tocaba <strong>como le salía del ojete</strong> y salían marcianadas muy guapas.</p>
+
+ <p>Por entonces no tenía <strong>ni walkman</strong>, escuchaba cintas en un reproductor de mi hermana cuando regresaba a casa y otro que había en un local, todo cintas grabadas de <strong>Larsen</strong> y <strong>Comando 9mm</strong>, <strong>Bad Religion</strong> (el <span class="italic">"Against The Grain"</span>), <strong>Angry Samoans</strong>, <strong>Offspring</strong> (el <span class="italic">"Smash"</span>), <strong>Faith No More</strong> (el <span class="italic">"King for a Day"</span>)...</p>
+
+<div class="alert alert-info">
+<h3>Commando 9 MM - Nuti Es Un Punk</h3>
+<p>Veo <strong>mi propia apuesta de antes</strong> y sigo aspotando al <strong>punk</strong> como motor de transformación de Borja. Si no, ¿de qué iba a tener una banda llamada <strong>España</strong>? Ahí lo dejo...</p>
+<div class="video-container">
+<iframe width="100%" height="415" src="https://www.youtube.com/embed/_jGLb1NLhvg?rel=0" title="Commando 9 MM, tema: Nuti Es Un Punk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
+</div>
+
+ <p>Escuchaba también en vinilo <strong>Alan Parsons Project</strong> que tenía <strong>mi padre</strong>, me quedaba Pokemon...</p>
+
+<div class="alert alert-info">
+<h3>The Alan Parsons Project- Eye in the Sky (AlbumEye in the Sky, 1982)</h3>
+<p>Tras ponerte este disco, tu padre se sigue preguntando <strong>qué hizo mal contigo, Borja</strong>. No me vegas otra vez con <strong>el cuento de la dislexia con papeles</strong>, que no cuenta xD</p>
+<div class="video-container">
+<iframe width="100%" height="415" src="https://www.youtube.com/embed/NNiie_zmSr8?rel=0" title="The Alan Parsons Project, tema: Eye in the Sky, Álbum: Eye in the Sky (1982)" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
+</div>
 
  <p>Pero la verdad, me daban bastante igual grupos como Green Day, The Cure o Nirvana. De hecho en algún vídeo que había visto de Nirvana me habían parecido unos payasos.</p>
 
- <div class="alert alert-error">
+<div class="alert alert-error">
 <p><strong>¡Chúpate esa, Dave Grohl!</strong></p>
- </div>
-
-<p>En clase de Diédrico en C.O.U. estaba al lado de un metalero que se ponía en la última fila y simulaba todo el rato tocar la batería con bolis sobre el jersey de Megadeth enrollado.</p>
-
-<p>Un día me lo veo haciendo redobles diferentes a los que hacía habitualmente. El pavo llevaba tal melenón que no se le veía ni el walkman, ni el cable, ni los cascos.</p>
-
-<p>Al salir de clase le pregunté qué estaba escuchando ese día, me dio la cinta y se piró.</p>
-
-<p>Cuando lo escuché me quedé todo palomo: me gustaban las baterías, la voz, las guitarras, el bajo, se escuchaba todo tremendo y al mismo tiempo distorsionado y pensé "esto mola".</p>
-
-<p>Al día siguiente estaba con "El Metales" en el local, una Aria Pro II, la Talmus y un Metal Zone practicando esa mandanga a nuestra manera. Dibujo técnico acabó como acabó.</p>
-
-
-<div class="alert alert-info">
-<h3>7 Notas 7 Colores, tema: Buah!</h3>
-<p>Videoclip recuperado de cuando se lanzó el disco <span class="italic">"Hecho, es simple"</span> en la <strong>primavera de 1997.</strong></p>
-<p>En efecto, había algo <strong>más alterado que la sangre en la primavera</strong> de ese año.</p>
-<div class="video-container">
-<iframe width="100%" height="415" src="https://www.youtube.com/embed/N1_A7RnyL7I?rel=0" title="7 Notas 7 Colores, tema: Buah!, Álbum: Hecho, es simple (1997)" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-</div>
 </div>
 
-<div class="alert alert-info">
-Pregunta: ¿Tienes alguna anécdota que te haya pasado escuchando el disco o al grupo? 
-</div>
-
-<p>RESPUESTA:</p>
-
-<p>Al grupo aún no lo he visto en directo nunca.</p>
-
-<p>El disco <strong>lo tenía puesto en mi trabajo</strong> todo el tiempo, <strong>yo soy pastelero, y siempre estaba <span class="italic">lleno de harina...</span></strong> Jajaja</p>
-
-<div class="alert alert-info">
-<h3>El Lobo en Tu Puerta, tema: Bachata</h3>
-<p><strong>Llenos de harina o de Doritos con Fanta y Sangría</strong> o lo que mierdas sea eso que se lanzan por todas partes.</p>
-<p><strong>No son malos modales a la mesa</strong>, son los modales de tres <span class="italic">canis lupus</span> con <strong>ganas de comerse el mundo</strong> después de ponérselo por montera. <strong>¡Bon appetit!</strong></p>
-<div class="video-container">
-<iframe width="100%" height="415" src="https://www.youtube.com/embed/aKd6NOwVbSc?rel=0" title="El Lobo en Tu Puerta, tema: Bachata, Álbum: Bestias del sur salvaje (2017)" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-</div>
-</div>
-
-<div class="alert alert-info">
-Pregunta: ¿Por qué te influenció tanto? ¿Cambió tu manera de pensar y entender la música?  
-</div>
-
-<p>RESPUESTA:</p>
-
-<p>Ya escuchaba algo de rap (<strong>"Public Enemy"</strong>) pero con este disco <strong class="italic">pensé que yo podía hacer rap en español</strong>.</p>
-
-<p>Es el disco que me empujó a escribir.</p>
-
-<p>Lo cambio todo, sí.</p>
-
-<p>Sin este disco casi seguro que no estaría haciendo música ahora.</p>
+<p>En clase de Diédrico en C.O.U. estaba <strong>al lado de un metalero</strong> que se ponía en la última fila y simulaba todo el rato <strong>tocar la batería con bolis</strong> sobre el jersey de <strong>Megadeth</strong> enrollado.</p>
 
 <div class="alert alert-error">
-<p><strong>### PARÉNTESIS DEL REDACTOR ###</strong></p>
-<p>La confesión sobre creer en sí mismo <strong class="italic">para hacer rap en español</strong> me hizo investigar un poco <strong>en el pasado de Julio</strong>.</p>
+<p><strong>NDR</strong>: HECHO UNIVERSALMENTE ACEPTADO: todos los metaleros nos sentimos unánimamente representados en ese metalero.</p>
+</div>
 
-<p>Así es como me topé con sus días en <strong><a href="https://www.facebook.com/hipnotikhk" target="_blank" rel="external noopener">Hipnotik</a></strong></p>
+<p>Un día me lo veo haciendo <strong>redobles diferentes</strong> a los que hacía habitualmente. El pavo llevaba tal melenón que no se le veía ni el walkman, ni el cable, ni los cascos.</p>
 
-<p><strong>Escuchemos un poco a continuación...</strong></p>
+<p>Al salir de clase le pregunté qué estaba escuchando ese día, <strong>me dio la cinta y se piró</strong>.</p>
+
+<p><strong>Cuando lo escuché me quedé todo palomo</strong>: me gustaban las baterías, la voz, las guitarras, el bajo, se escuchaba todo tremendo y al mismo tiempo distorsionado y pensé <strong>"esto mola"</strong>.</p>
+
+<p>Al día siguiente estaba con <strong>"El Metales"</strong> en el local, una <strong>Aria Pro II</strong>, la <strong>Talmus</strong> y un <strong>Metal Zone</strong> practicando esa mandanga a nuestra manera. <strong>Dibujo técnico acabó como acabó</strong>.</p>
+
 
 <div class="alert alert-info">
-<h3>Hipnotik, tema: El patio de los dolores (Fondo sur, 2005)</h3>
-
-<p>Este temazo es de <strong>2005</strong>, pero si hubiese salido ayer <strong>te lo tragarías bien frescamente</strong>.</p>
-<p><strong>Vozarrón sobre una base que resucita muertos</strong>, a ritmo de <strong>copla, rock y flamenco</strong>, con una letra que te sumerje en una <strong>historia que podría ser la tuya</strong>, la de tu vecino, la de todos, la de la vida.</p>
+<h3>Sunny Day Real Estate - Seven (Diary, 1994)</h3>
+<p>Vídeo oficial de este temazo de mediados de los noventa. No era gunge 100%, no era emo 100%, pero era el <strong>inicio de algo grande al 200%</strong>.</p>
 <div class="video-container">
-<iframe width="100%" height="415" src="https://www.youtube.com/embed/rNqQK8aUfqc?rel=0" title="Hipnotik, tema: El patio de los dolores, Álbum: Fondo sur (2005)" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="100%" height="415" src="https://www.youtube.com/embed/gAotWVmVRS4?rel=0" title="Sunny Day Real Estate, tema: Seven, Álbum: Diary (1994)" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 </div>
 
 <div class="alert alert-info">
-<h3>Hipnotik, tema: El chico nuevo (II II II, 2012)</h3>
-<p>Unos años más tarde <strong>Hipnotik</strong> evolucionaría hacía el <strong>rock, el funk y el High Energy</strong>. O lo que es lo mismo: el embrión de lo que después acabaría siendo <strong>El Lobo en Tu Puerta</strong>, maduro, hambriento, agresivo.</p>
-<p>Pero eso sería después, de momento, <strong>¡que empiece la fiesta!</strong></p>
-<div class="video-container">
-<iframe src="https://player.vimeo.com/video/39241828" width="640" height="360" title="Hipnotik, tema: El chico nuevo, Álbum: Fondo sur (2005)" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-</div>
-</div>
-<p><strong>### FIN DEL PARÉNTESIS. SIGUE LA ENTREVISTA ###</strong></p>
-</div>
-
-<div class="alert alert-info">
-Pregunta: ¿Se sigue notando hoy en día el poso que me dejó?  
+Pregunta: ¿Por qué te influenció el <span class="italic">Diary"</span> de Sunny Day Real Estate?
 </div>
 
 <p>RESPUESTA:</p>
 
-<p><strong>No estoy muy rapero ultimamente</strong>, pero... <stromg>Si escucho una sola palabra de este MC</stromg> me sale una sonrisa de aprobación automáticamente...</p>
+<p>Porque me pareció algo que tenía un estilo propio que no era ni una cosa ni la otra.</p>
 
-<p>Escucharle es <strong>un gran "Ouh Yes!"</strong></p>
-
-<p>Aún nadie se acercó nisiquiera un poco al estilo y <strong>autenticidad de su flow</strong>.</p>
+<p>Gracias a ellos descubrí otros grupos ya de carrerilla: <strong>Fugazi</strong>, <strong>The Van Pelt</strong>, <strong>Mineral</strong>, <strong>Indian Summer</strong>, <strong>Converge</strong> y al llegar a Valencia <strong>Furiuos Planet</strong>. Los vi en Torrefiel al aire libre en un escenario y no sé por qué me dio la impresión de que algo había aparecido.</p>
 
 <div class="alert alert-info">
-<h3>Cookin Bananas, tema: Aquí te pillo, aquí temazo</h3>
-<p>Cookin Bananas es la unión en 2010 de <strong>Mucho Muchacho con Cookin Soul</strong>, que durante 3 años conquistaron caderas de medio mundo con bases y samples como la de este "Aquí te pillo, aquí temazo", que usa el característico corte que recodarás de los <strong>títulos de crédito</strong> de las películas de <strong>Tarantino</strong>, compuesta por <strong>Keith Mansfield</strong> y titulada <strong><a href="https://www.youtube.com/watch?v=1i6Cpq8XBFw" target="_blank" rel="external noopener">"Funky Fanfare"</a></strong>.</p>
+<h3>Furious Planet - Mr. Pérez (1996)</h3>
+<p>Aquí el la superlativa <strong>aparición en TV</strong> de <strong>Furious Planet</strong>, banda liderada por <strong>Mike Grau</strong> y <strong>Roberto Simón</strong>, que a la postre acabaría siendo colega de banda de Borja en <strong>Mad Robot</strong>. <strong>Trolleando el mainstream desde 1992</strong>.</p>
 <div class="video-container">
-<iframe width="100%" height="415" src="https://www.youtube.com/embed/Fzzo-zz7Jjg?rel=0" title="Cookin Bananas, tema: Aquí te pillo, aquí temazo (2013)" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="100%" height="415" src="https://www.youtube.com/embed/j9dxEpInpHI?rel=0" title="Sunny Day Real Estate, tema: Seven, Álbum: Diary (1994)" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 </div>
 
+<p>Luego ya en la facultad con mi amigo el <strong>Sr. Sena</strong> y <strong><a href="http://radiofunnyvalencia.blogspot.com/" target="_blank" rel="external noopener">Radio Funny</a></strong> me puse al día y <strong>formé parte de esa escena que no tenía dueño</strong> y vivía sin casi conocer de la <strong>explosión naranja o la onda metal</strong> que había en la ciudad.</p>
 
-<div class="alert alert-info">
-Pregunta: ¿Sigues escuchando ese disco? ¿Con qué frecuencia? 
-</div>
+<p>Con <strong>Augusto</strong> montamos dos grupos: <strong>Monopolio Eclesial</strong> con el Éxito <strong>"Mata a Jesús el Nazareno, mátalo ya, es un camello"</strong>, éxito porque <strong>conseguimos que la grabara en cinta un policía local</strong> y <strong>Punk Floyd</strong> con los que grabamos <strong>dos cintas autoeditadas</strong>: <strong>"Devuélveme la pelota que es mía"</strong> y <strong>"No me cago en dios por si soy yo"</strong>.
 
-<p>RESPUESTA:</p>
-
-<p>Mi coleccion de discos está ordenada por gustos, <strong>mis favoritos están en una estantería especial</strong>.</p>
-
-<p>Por supuesto esa estantería la capitanea <strong>Black Sabbath</strong>, mi <strong>colección de blues</strong>...</p>
-
-<p>Y de <strong>rap</strong>: la discografía de <strong>The Roots y este disco!</strong></p>
-
-<div class="alert alert-info">
-<h3>The Roots, Freestyle (Directo en Rap City, 2004)</h3>
-<p>Las raíces surcando el subsuelo y rompiendo en la superficie para conquistar el plató del <strong>programa Rap City</strong> con un <strong>Freestyle</strong> que <strong>si tiene más flow te folla</strong>.</p>
+ <div class="alert alert-info">
+<h3>Punk Floyd - Franco era negro, ateo y yonki (1999)</h3>
+<p>Mitiquérrimo documento de la escena valenciana <strong>de cuando estaba de moda hablar del efecto 2000</strong>, que ya por entonces tuvo la lucidez de saber <strong>de qué pie cojeaba el generalísimo</strong>. ¡BRAVO!</p>
 <div class="video-container">
-<iframe width="100%" height="415" src="https://www.youtube.com/embed/1pSS4opZwdQ?rel=0" title="The Roots, Freestyle (Directo en Rap City, 2004)" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="100%" height="415" src="https://www.youtube.com/embed/cYHN0w5a5Rk?rel=0" title="Punk Floyd, tema: Franco era negro, ateo y yonki, Álbum: No me cago en Dios por si soy yo (1999)" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 </div>
 
-<div class="alert alert-error">
-<p><strong>### NOTA DEL REDACTOR ###</strong></p>
-<p>¿Tener en tu colección discos de <strong>Black Sabbath y de rap</strong> a la misma altura de preferencia?</p>
-<p>Bueno, a veces las extrañas parejas se llevan de fábula. <strong>El Lobo en Tu Puerta</strong> es la más evidente prueba de que <strang>se puede hacer si se hace con maestría</strang>.</p>  
-<p><strong>SIRVA DE MUESTRA ESTE ROMPECUELLOS:</strong></p>
-<h3>El Lobo en tu puerta, Manny Pacquiao (Grabaciones sumergidas, 2015)</h3>
-<div class="video-container">
-<iframe width="100%" height="415" src="https://www.youtube.com/embed/fk6TSExU2Bo?rel=0" title="El Lobo en tu puerta, Manny Pacquiao (Grabaciones sumergidas, 2015)" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-</div>
-</div>
+<p>En esta época el <strong>Sr. Sena y yo</strong> compartímos en ocasiones escenario y <strong>asistimos a conciertos de bandas</strong> como <strong>Tail</strong>, <strong>Felpudo Tos</strong>, <strong>Ulan Bator trío</strong>... <strong>Nos lo comíamos todo, no hacíamos ascos a nada</strong>.
+
+Radio Funny con Vicente Maicas (El Croqueta), Miguel Ángel Travesía, El Cura, El Fletán (con quien toco en España) y Álvaro García (Criminal Records, que un día desapareció sin dejar rastro y que a mi siempre me trató con especial cariño y fue quien me hizo registrar mi único tema en la SGAE para editar un recopilatorio) me abrieron la cabeza a otros sonidos que sin ser en principio algo que me llamara luego llegué a apreciar, como por ejemplo: Quién puede matar un niño de Penelope Trip, entre otras cosas.
+
+Ya más tarde currando en Francia descubrí otro grupo que me marcó de la misma forma: Diabologum. Lo que se escuchaba en Francia me parecía un coñazo tremendo y con este grupo encontré la misma sensación que con Sunny Day Real State y gracias a ellos conocí a otro de los grupos que me ha flipado: Manta Ray. 
+
+En cierta forma todo esto puede ser que me haya influido llegando a tocar en bandas que van del post metal al punk o gestar un Remake del Tos Felpudo de Felpudo Tos. Un disco adelantado a cualquier tiempo y que Valencia y el mundo aún no valora como debe. El Remake está lleno de bandas en ocasiones difíciles de encasillar y muy dispares en género pero que dan un toque muy personal a todo lo que hacen, descartando las mías que están porque mando yo claro.
+
+En definitiva Sunny Day Real Estate fue una banda que en su día no se podía meter dentro de la moda del grunge y era difícil de clasificar y quizás en la música me he movido buscando de una forma u otra ese aspecto.
+
+ Si Dios no se le hubiera revelado a Jeremy todos seríamos hoy un poco más felices y tendríamos algún otro disco en la estantería.
 
 <div class="banner-box">
 <a href="https://rover.ebay.com/rover/1/1185-53479-19255-0/1?icep_id=114&ipn=icep&toolid=20004&campid=5338384035&mpre=https%3A%2F%2Fwww.ebay.es%2Fitm%2F7-Notas-7-Colores-Hecho-Es-Simple-CD-1997%2F322429144900%3Fhash%3Ditem4b12464f44%3Ag%3ApmsAAOSwTuJYqo6K" target="_blank" rel="nofollow noopener">
@@ -320,18 +278,3 @@ Pregunta: ¿Sigues escuchando ese disco? ¿Con qué frecuencia?
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-
-
-Por qué me influenció?
-
-Porque me pareció algo que tenía un estilo propio que no era ni una cosa ni la otra. Gracias a ellos descubrí otros grupos ya de carrerilla: Fugazi, The Van Pelt, Mineral, Indian Summer, Converge y al llegar a Valencia Furiuos Planet. Los vi en Torrefiel al aire libre en un escenario y no sé por qué me dio la impresión de que algo había parecido, luego ya en la facultad con mi amigo el Sr. Sena y Radio Funny me puse al día y formé parte de esa escena que no tenía dueño y vivía sin casi conocer de la explosión naranja o la onda metal que había en la ciudad. Con Augusto montamos dos grupos: Monopolio Eclesial con el Éxito "Mata a Jesús el Nazareno, mátalo ya es un camello", éxito porwue conseguimos que la grabara en cinta un policía local y Punk Floyd con los que grabamos dos cintas autoeditadas: "Devuélveme la pelota que es mía" y "No me cago en dios por si soy yo" en esta época el Sr. Sena y yo compartímos en ocasiones escenario y asistimos a conciertos de bandas como Tail, Felpudo Tos, Ulan Bator trío,..., nos lo comíamos todo, no hacíamos ascos a nada.
-
-Radio Funny con Vicente Maicas (El Croqueta), Miguel Ángel Travesía, El Cura, El Fletán (con quien toco en España) y Álvaro García (Criminal Records, que un día desapareció sin dejar rastro y que a mi siempre me trató con especial cariño y fue quien me hizo registrar mi único tema en la SGAE para editar un recopilatorio) me abrieron la cabeza a otros sonidos que sin ser en principio algo que me llamara luego llegué a apreciar, como por ejemplo: Quién puede matar un niño de Penelope Trip, entre otras cosas.
-
-Ya más tarde currando en Francia descubrí otro grupo que me marcó de la misma forma: Diabologum. Lo que se escuchaba en Francia me parecía un coñazo tremendo y con este grupo encontré la misma sensación que con Sunny Day Real State y gracias a ellos conocí a otro de los grupos que me ha flipado: Manta Ray. 
-
-En cierta forma todo esto puede ser que me haya influido llegando a tocar en bandas que van del post metal al punk o gestar un Remake del Tos Felpudo de Felpudo Tos. Un disco adelantado a cualquier tiempo y que Valencia y el mundo aún no valora como debe. El Remake está lleno de bandas en ocasiones difíciles de encasillar y muy dispares en género pero que dan un toque muy personal a todo lo que hacen, descartando las mías que están porque mando yo claro.
-
-En definitiva Sunny Day Real Estate fue una banda que en su día no se podía meter dentro de la moda del grunge y era difícil de clasificar y quizás en la música me he movido buscando de una forma u otra ese aspecto.
-
- Si Dios no se le hubiera revelado a Jeremy todos seríamos hoy un poco más felices y tendríamos algún otro disco en la estantería.Soy malísimo para las fechas, los nombres, soy malo para todo en
