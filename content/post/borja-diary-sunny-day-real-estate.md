@@ -260,37 +260,42 @@ Pregunta: ¿Por qué te influenció el <span class="italic">Diary"</span> de Sun
 </div>
 </div>
 
-En definitiva Sunny Day Real Estate fue una banda que en su día no se podía meter dentro de la moda del grunge y era difícil de clasificar y quizás en la música me he movido buscando de una forma u otra ese aspecto.
+<p>En definitiva <strong>Sunny Day Real Estate</strong> fue una banda que <strong>en su día no se podía meter dentro de la moda del grunge</strong> y era difícil de clasificar y quizás en la música <strong>me he movido buscando de una forma u otra ese aspecto</strong>.
 
- Si Dios no se le hubiera revelado a Jeremy todos seríamos hoy un poco más felices y tendríamos algún otro disco en la estantería.
+<p><strong>Si Dios no se le hubiera revelado a Jeremy</strong>(NDR: compositor de la banda) todos seríamos hoy <strong>un poco más felices</strong> y tendríamos algún otro disco en la estantería.</p>
+
+<div class="alert alert-error">
+<p>¡Ya está otra vez dios cagando todo lo que toca!</p>
+</div>
+
 
 <div class="banner-box">
-<a href="https://rover.ebay.com/rover/1/1185-53479-19255-0/1?icep_id=114&ipn=icep&toolid=20004&campid=5338384035&mpre=https%3A%2F%2Fwww.ebay.es%2Fitm%2F7-Notas-7-Colores-Hecho-Es-Simple-CD-1997%2F322429144900%3Fhash%3Ditem4b12464f44%3Ag%3ApmsAAOSwTuJYqo6K" target="_blank" rel="nofollow noopener">
+<a href="https://rover.ebay.com/rover/1/1185-53479-19255-0/1?icep_id=114&ipn=icep&toolid=20004&campid=5338389884&mpre=https%3A%2F%2Fwww.ebay.es%2Fitm%2FSunny-Day-Real-Estate-Diary-Remaster-2-Vinyl-LP-Alternative-Rock-Neuware%2F372432844424%3Fhash%3Ditem56b6ba3688%3Ag%3AUJsAAOSwS9Bblurl" target="_blank" rel="nofollow noopener">
 <img
   data-sizes="auto"
-  data-src="/images/7-notas-7-colores-hecho-es-simple-comprar-cd.jpg"
-  alt="7 Notas 7 Colores, Álbum: Hecho es simple (CD, 1997)"
+  data-src="/images/sunny-day-real-estate-vinilo.jpg"
+  alt="Sunny Day Real Estate, Diary (Remaster vinilo doble)"
   class="lazyload banner"> 
 </a>
 
-<p><a href="https://rover.ebay.com/rover/1/1185-53479-19255-0/1?icep_id=114&ipn=icep&toolid=20004&campid=5338384035&mpre=https%3A%2F%2Fwww.ebay.es%2Fitm%2F7-Notas-7-Colores-Hecho-Es-Simple-CD-1997%2F322429144900%3Fhash%3Ditem4b12464f44%3Ag%3ApmsAAOSwTuJYqo6K" target="_blank" rel="external nofollow noopener">Aquí el disco con que cambió a <strong class="italic">Julio</strong>. El flow más temible cantado en español.<br>HAZTE CON ÉL</a></p>
+<p><a href="https://rover.ebay.com/rover/1/1185-53479-19255-0/1?icep_id=114&ipn=icep&toolid=20004&campid=5338389884&mpre=https%3A%2F%2Fwww.ebay.es%2Fitm%2FSunny-Day-Real-Estate-Diary-Remaster-2-Vinyl-LP-Alternative-Rock-Neuware%2F372432844424%3Fhash%3Ditem56b6ba3688%3Ag%3AUJsAAOSwS9Bblurl" target="_blank" rel="external nofollow noopener">No es grunge, o sí, no es rock, o sí. Pero sí o sí te lo tienes que agenciar. ¡Clásico noventero dodne los haya!<br>PÍLLATELO</a></p>
 </div>
 <br>
 
-<h2>Más de El Lobo en Tu Puerta</h2>
+<h2>Cosas de Borja</h2>
 
 <div class="media">
   <div class="media-left">
     <img
   data-sizes="auto"
-  data-src="/images/El-lobo-en-tu-puerta-bestias-del-sur-salvaje-comprar-vinilo.jpg"
-  alt="El Lobo En Tu Puerta, álbum: Bestias Del Sur Salvaje, comprar vinilo"
+  data-src="/images/perro-grande-cabizobajo-vinilo.jpg"
+  alt="Perro Grande, álbum: Cabizobajo, comprar vinilo"
   class="lazyload">
   </div>
 <div class="media-body">
-    <div class="media-heading">Álbum: Bestias del Sur Salvaje (vinilo, 2017)</div>
-    <div class="media-content"><p>Rock, groove, high energy, heavy, blues, despiporre... Huele a sangre fresca y el lobo siempre acecha.</p></div>
-    <p><strong><a href="https://rover.ebay.com/rover/1/1185-53479-19255-0/1?icep_id=114&ipn=icep&toolid=20004&campid=5338384035&mpre=https%3A%2F%2Fwww.ebay.es%2Fitm%2FEL-LOBO-EN-TU-PUERTA-Bestias-Del-Sur-Salvaje-LP-the-black-keys-garage-mc5%2F152838190797%3Fhash%3Ditem2395ddb6cd%3Ag%3AHX8AAOSwCtJaPStI" target="_blank" rel="external noopener"> Comprar</a></strong></p>
+    <div class="media-heading">Parro Grande, Álbum: Cabizobajo (vinilo, 2016)</div>
+    <div class="media-content"><p>Primera referencia para su propio sello Borx Records del power trío más distorsionado que te puedas echar a la oreja.</p></div>
+    <p><strong><a href="http://borxrecords.com/producto/perro-grande-cabizobajo/" target="_blank" rel="external noopener"> Comprar</a></strong></p>
   </div>
 </div>
 
@@ -298,14 +303,74 @@ En definitiva Sunny Day Real Estate fue una banda que en su día no se podía me
   <div class="media-left">
     <img
   data-sizes="auto"
-  data-src="/images/el-lobo-en-tu-puerta-grabaciones-sumergidas-cd.jpg"
-  alt="El lobo en tu puerta, Álbum: Grabaciones Sumergidas (bandcamp, 2015)"
+  data-src="/images/mad-robot-pig-comprar-album.jpg"
+  alt="Mad Robot, Álbum: PIG (CD, 2017)"
   class="lazyload">
   </div>
 <div class="media-body">
-    <div class="media-heading">Grabaciones Sumergidas (Digital, 2015)</div>
-    <div class="media-content"><p>Este disco debe estar todo vendido porque no lo encuentro en formato físico. Eso demuestra que ya tardas en pillártelo, aunque sea en digital.</p></div>
-    <p><strong><a href="https://elloboentupuerta.bandcamp.com/album/grabaciones-sumergidas-2015-2" target="_blank" rel="external noopener"> Comprar</a></strong></p>
+    <div class="media-heading">Mad Robot, Álbum: PIG (CD, 2017)</div>
+    <div class="media-content"><p>Última referencia de los de Paiporta. Viaje a la música alternativa de los 90 con un toque más acústico que su antecesor álbum.</p></div>
+    <p><strong><a href="http://borxrecords.com/producto/mad-robot-pig/" target="_blank" rel="external noopener"> Comprar</a></strong></p>
+  </div>
+</div>
+
+<div class="media">
+  <div class="media-left">
+    <img
+  data-sizes="auto"
+  data-src="/images/españa-retraseres-split-album.jpg"
+  alt="ESPAÑA vs RETRASERES – álbum compartido (Vinilo, 2016)"
+  class="lazyload">
+  </div>
+<div class="media-body">
+    <div class="media-heading">ESPAÑA vs RETRASERES – álbum compartido (Vinilo, 2016)</div>
+    <div class="media-content"><p>Por un lado, "Yihad anal en matalascañas". Por el otro, "Canciones para hacer el amor". Elije con qué parte vas a empezar a morirte de risa</p></div>
+    <p><strong><a href="http://borxrecords.com/producto/yihad-anal-matalascanas-espana-versus-canciones-amor/" target="_blank" rel="external noopener"> Comprar</a></strong></p>
+  </div>
+</div>
+
+<div class="media">
+  <div class="media-left">
+    <img
+  data-sizes="auto"
+  data-src="/images/portero-regateador-tesla-cassete.jpg"
+  alt="Portero Regateador, álbum: Tesla (Cassete, 2015)"
+  class="lazyload">
+  </div>
+<div class="media-body">
+    <div class="media-heading">Portero Regateador, álbum: Tesla (Cassete, 2015)</div>
+    <div class="media-content"><p>Electrónica con guitarras y bajos orgánicos para comerse un tripi o hacer yoga o resolver problemas matemáticos</p></div>
+    <p><strong><a href="http://borxrecords.com/producto/portero-regateador-tesla/" target="_blank" rel="external noopener"> Comprar</a></strong></p>
+  </div>
+</div>
+
+<div class="media">
+  <div class="media-left">
+    <img
+  data-sizes="auto"
+  data-src="/images/appeltrad-el-cazador.jpg"
+  alt="Äppelträd, álbum: El Cazador (Digital, 2017)"
+  class="lazyload">
+  </div>
+<div class="media-body">
+    <div class="media-heading">Äppelträd, El Cazador (Digital, 2017)</div>
+    <div class="media-content"><p>Super grupo de post rock instrumental, muy currado y con veteranos de la escena valenciana</p></div>
+    <p><strong><a href="https://appeltrad.bandcamp.com/" target="_blank" rel="external noopener"> GRATIS</a></strong></p>
+  </div>
+</div>
+
+<div class="media">
+  <div class="media-left">
+    <img
+  data-sizes="auto"
+  data-src="/images/felpudo-tos-remade.jpg"
+  alt="Felpudo Tos Remade, álbum recopilatorio de verisones, comprar vinilo"
+  class="lazyload">
+  </div>
+<div class="media-body">
+    <div class="media-heading">Felpudo Tos Remade, álbum recopilatorio de verisones (vinilo, 2016)</div>
+    <div class="media-content"><p>Sincero homenaje a la vanguardia valenciana con otras muchas bandas de la zona que también la abanderan.</p></div>
+    <p><strong><a href="http://borxrecords.com/producto/felpudo-tos-remade/" target="_blank" rel="external noopener"> Comprar</a></strong></p>
   </div>
 </div>
 
