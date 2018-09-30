@@ -77,7 +77,24 @@ draft = false
 </tr>
 </tbody>
 </table>
-<br>
+<table>
+<thead>
+<tr>
+<th>Portero Regateador</th>
+<th>Äppleträd</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://www.facebook.com/portero.regateador" target="_blank" rel="external noopener" style="font-weight:normal;">Facebook</td>
+<td><a href="https://www.facebook.com/appeltradmusic/" target="_blank" rel="external noopener">Facebook</td>
+</tr>
+<tr>
+<td><a href="https://porteroregateador.bandcamp.com/" target="_blank" rel="external noopener" style="font-weight:normal;">Bandcamp</td>
+<td><a href="https://appeltrad.bandcamp.com/" target="_blank" rel="external noopener">Bandcamp</td>
+</tr>
+</tbody>
+</table>
 
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <ins class="adsbygoogle"
@@ -354,7 +371,7 @@ Pregunta: ¿Por qué te influenció el <span class="italic">Diary"</span> de Sun
   </div>
 <div class="media-body">
     <div class="media-heading">Äppelträd, El Cazador (Digital, 2017)</div>
-    <div class="media-content"><p>Super grupo de post rock instrumental, muy currado y con veteranos de la escena valenciana</p></div>
+    <div class="media-content"><p>Super grupo de post rock instrumental, muy currado y con veterano de aquí (ex-miembros de Lullaby, El Agente Naranja, Txirukas)</p></div>
     <p><strong><a href="https://appeltrad.bandcamp.com/" target="_blank" rel="external noopener"> GRATIS</a></strong></p>
   </div>
 </div>
