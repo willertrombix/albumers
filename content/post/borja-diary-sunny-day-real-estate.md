@@ -192,13 +192,18 @@ Pregunta: ¿Por qué te influenció el <span class="italic">Diary"</span> de Sun
 
 <div class="alert alert-info">
 <h3>Furious Planet - Mr. Pérez (1996)</h3>
-<p>Aquí el la superlativa <strong>aparición en TV</strong> de <strong>Furious Planet</strong>, banda liderada por <strong>Mike Grau</strong> y <strong>Roberto Simón</strong>, que a la postre acabaría siendo colega de banda de Borja en <strong>Mad Robot</strong>. <strong>Trolleando el mainstream desde 1992</strong>.</p>
+<p>Aquí el la superlativa <strong>aparición en TV</strong> de <strong>Furious Planet</strong>, banda liderada por <strong>Mike Grau</strong> y <strong>Roberto Timón</strong>, que a la postre acabaría siendo colega de banda de Borja en <strong>Mad Robot</strong>. <strong>Trolleando el mainstream desde 1992</strong>.</p>
 <div class="video-container">
 <iframe width="100%" height="415" src="https://www.youtube.com/embed/j9dxEpInpHI?rel=0" title="Sunny Day Real Estate, tema: Seven, Álbum: Diary (1994)" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 </div>
 
-<p>Luego ya en la facultad con mi amigo el <strong>Sr. Sena</strong> y <strong><a href="http://radiofunnyvalencia.blogspot.com/" target="_blank" rel="external noopener">Radio Funny</a></strong> me puse al día y <strong>formé parte de esa escena que no tenía dueño</strong> y vivía sin casi conocer de la <strong>explosión naranja o la onda metal</strong> que había en la ciudad.</p>
+<p>Luego ya en la facultad con mi amigo el <strong>Sr. Sena</strong> y <strong><a href="http://radiofunnyvalencia.blogspot.com/" target="_blank" rel="external noopener">Radio Funny</a></strong> me puse al día y <strong>formé parte de esa escena que no tenía dueño</strong> y vivía sin casi conocer de la <strong class="italic">Explosión Naranja*</strong> o <strong>la onda metal</strong> que había en la ciudad.</p>
+
+<div class="alert alert-error">
+<p><strong>*NDR</strong>: <strong class="italic">"La Explosión Naranja"</strong> fue el nombre que se le dio a una hornada de <strong>bandas de rock alternativo, punk y metal</strong> que surgió en los <strong>noventa</strong> en la Comunitat Valenciana y que la prensa local quiso empujar para <strong>transcender a nivel nacional e internacional</strong>.</p>
+<p>Incluye bandas como <strong><a href="https://www.youtube.com/watch?v=1cr6euFUZ3c" target="_blank" rel="external noopener nofollow">La Habitación Roja</a></strong>, <strong><a href="https://www.youtube.com/watch?v=cjUjv_7-wJU" target="_blank" rel="external noopener nofollow"> Doctor Divago</a></strong>,<strong><a href="https://www.youtube.com/watch?v=vn4A0m86kzc" target="_blank" rel="external noopener nofollow"> Chococrispis</a></strong>, <strong><a href="https://youtu.be/ZouulfO2vxI?t=21s" target="_blank" rel="external noopener nofollow">La Muñeca de Sal</a></strong> (donde tocan o han tocado compañeros de Borja en <strong>Perro Grande</strong> y <strong>Mad Robot</strong>), <strong><a href="https://www.youtube.com/watch?v=CCTD2PvKTHQ" target="_blank" rel="external noopener nofollow">Polar</a></strong> y un largo etc.</p>
+</div>
 
 <p>Con <strong>Augusto</strong> montamos dos grupos: <strong>Monopolio Eclesial</strong> con el Éxito <strong>"Mata a Jesús el Nazareno, mátalo ya, es un camello"</strong>, éxito porque <strong>conseguimos que la grabara en cinta un policía local</strong> y <strong>Punk Floyd</strong> con los que grabamos <strong>dos cintas autoeditadas</strong>: <strong>"Devuélveme la pelota que es mía"</strong> y <strong>"No me cago en dios por si soy yo"</strong>.
 
@@ -211,6 +216,16 @@ Pregunta: ¿Por qué te influenció el <span class="italic">Diary"</span> de Sun
 </div>
 
 <p>En esta época el <strong>Sr. Sena y yo</strong> compartímos en ocasiones escenario y <strong>asistimos a conciertos de bandas</strong> como <strong>Tail</strong>, <strong>Felpudo Tos</strong>, <strong>Ulan Bator trío</strong>... <strong>Nos lo comíamos todo, no hacíamos ascos a nada</strong>.</p>
+
+<div class="alert alert-info">
+<h3>Ulan Bator Trio - Un Día Cualquiera Lentejas</h3>
+<p>Solo unos <strong>visionarios del punk</strong> podrían fabricar sus propios instrumentos con bidones, juguetes rotos, cubos de plástico, etc.</p>
+<p>La guinda a la <strong>extravagancia</strong>, la <strong>vangancia extra</strong>, la <strong>provocación</strong>, la <strong>Anti-Música</strong>, la <strong>creación a partir de la basura</strong>.</p>
+<p>El verdadero <strong>PUNK DIY</strong> de <strong>Fela Borbone</strong> (voz y "guitarra"), <strong>Paloma Borbone</strong> (voz y "bajo") y <strong>Manolo Borbone</strong> (voz y "batería"), integrantes del trío más desquiciado de la época, que aquí hacen su propia versión de <strong>"Un Día Cualquier en Texas"</strong> de <strong>Parálisis Permanente</strong>.</p>
+<div class="video-container">
+<iframe width="100%" height="415" src="https://www.youtube.com/embed/A28AExWPwBg?rel=0" title="Ulan Bator Trio, tema: Un Día Cualquiera Lentejas, (Versión de Parálisis Permanente)" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
+</div>
 
 <p><strong>Radio Funny</strong> con <strong>Vicente Maicas (El Croqueta)</strong>, <strong>iguel Ángel Travesía</strong>, <strong>El Cura</strong>, <strong>El Fletán</strong> (con quien toco en <strong>España</strong>) y <strong>Álvaro García<strong> (<strong>Criminal Records</strong>, que un día desapareció sin dejar rastro y que a mi siempre me trató con especial cariño y fue quien me hizo registrar mi único tema en la SGAE para editar un recopilatorio) <strong>me abrieron la cabeza a otros sonidos</strong> que sin ser en principio algo que me llamara luego llegué a apreciar, como por ejemplo: <strong>Quién puede matar un niño</strong> de <strong>Penelope Trip</strong>, entre otras cosas.</strong>
 
