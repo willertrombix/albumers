@@ -23,27 +23,45 @@ draft = false
 +++  
 <h2>Post-rock, punk, ruido, dislexia y risas: un cóctel llamado "Borja"</h2>
 
-<p>BIO</p>
+<p>Aunque ya habí avisto alguna vez a Borja sobre los escenarios, tocando con alguna de sus bandas, lo cierto es que crucé mis primeras palabras con él tras una situación un poco <strong><a href="https://www.youtube.com/watch?v=58D3Qh2oDIs" target="_blank" rel="external noopener nofollow"> trambólica</a></strong> y punk: tuvo que darse la situación de <strong>volcar mi coche</strong> de camino al trabajo para que nuestras vidas se cruzaran. Empecemos <strong>la historia por el principio</strong></p>
+
+<p>Es martes 18 de octubre de 2016. Había llovido y, antes de entrar en una curva algo pronunciada, <strong>las ruedas traseras patinaron</strong> y perdí el control del vehículo. <strong>Derrapé varias veces</strong>, el coche giró en <strong>360 grados</strong> y llegó a golpearse una primera vez con la medianera que separa un sentido de circulación del contrario, pero no fue hasta el segundo impacto que <strong>volcó</strong>.</p>
 
 <div class="alert alert-success">
 <img
   data-sizes="auto"
-  data-src="/images/el-lobo-en-tu-puerta.jpg"
-  alt="El Lobo en Tu puerta, fotos en directo"
+  data-src="/images/accidente-de-coche.jpg"
+  alt="Accidente de coche en el Puerto de Sagunto"
   class="lazyload">
 <p>Foto</p>
+</div>
+
+<p>O al menos así lo recuerdo, y aunque <strong>todo pasó en un segundo</strong>, hay imágenes que tengo muy nitidas y otras que apenas sé cómo sucedieron. Con todo, el resultado fue tan aparatoso como se puede ver en la foto. <strong>Da mucha impresión ver todos tus CDs desperdigados por el techo del coche</strong>.</p>
+
+<p>No obstante, y por suerte, <strong>no hubo más personas implicadas</strong>. Pude salir por mi propio pie del coche bocabajo, <strong>como en las películas</strong>. Con el cuerpo todavía en tensión y con la ayuda de un chaval que acudió a socorrerme -<strong>gracias Quique</strong>, te estaré eternamente agradecido- recuperé poco a poco la noción de la realidad. Por suerte <strong>en el hospital me confirmaron</strong> que estaba todo bien: tan solo <strong>antiinflamatorios y unos cuantos días de reposo</strong>.</p>
+
+<p>El caso es que tuve que ir a <strong>Rehabilitación para la espalda a la mutua de la empresa</strong>, que está en Sagunto. Al entrar en una gran sala con distintas máquinas de ejercicios, pelotas medicinales y otros cachibaches con formas raras, pude ver a un <strong>tipo alto, con buena planta, garboso</strong>, que iba de un lado a otro, hablando con este paciente y con aquél, y que parecía vivir en su mundo pero de <strong>mirada despierta</strong>.</p>
+
+<p>Al instante le reconocí. <strong>"Tú tocas el bajo en 'Perro Grande', ¿verdad?"</strong> Tras la pregunta obtuve como respuesta un tímido "sí" mientras buscaba en su cerebro <strong>de qué mierdas podía conocerme</strong>.</p>
+
+<p>Entonces me presenté. <strong>Enseguida hicimos buenas migas</strong> y empezamos a hablar de nuestras bandas, y de aquel bolo en al que fui a verle, o aquel otro al que fuimos los dos de espectadores en el <strong><a href="https://www.facebook.com/MAGAZINE-CLUB-Valencia-68337330655/" target="_blank" rel="external noopener">"Magazine"</a></strong></p>
+
+<p>El segundo día que tenía cita en Rehabilitación <strong>ya nos trajimos vinilos y nos los intercambiamos</strong>. Mientras <strong>me clavaba agujas con electricidad en la espalda</strong>, comentábamos anécdotas de conciertos, historias hilarantes y nuestros inicios como <strong>músicos diletantes</strong>.</p>
+
+<p>Conocía alguna de ellas -de hecho compartimos catel en la <strong><a href="https://www.facebook.com/PUNCH-FEST-1437406186479994/" target="_blank" rel="external noopener"> III edición del Punch Fest</a></strong>-, pero todo esto me hizo interesarme más por sus múltiples bandas. Ya había asistido a la <strong>debacle decibélica</strong> -el ampli al 11 de volumen, como los <strong><a href="https://www.youtube.com/watch?v=Kp5o5Ch_-iU" target="_blank" rel="external noopener nofollow">Spinal Tap</a></strong>-, el noise con tintes post punk y shoegaze, con un sonido noventas muy definido, pero con más garra y densidad: berreado y oscuro. Una banda sincera, que te crees, que hacen lo que les mola y que disfruta on ello.</p>
+
+<div class="alert alert-info">
+<h3>PERRO GRANDE - Distinto (Directo. Punch Fest, 12/09/15)</h3>
+<p><strong>Directazo en el <strong>Punch Fest</strong>, mítico festival de Sueca organizado por la incansable <strong><a href="https://www.facebook.com/lalogia.delmambo" target="_blank" rel="external noopener"> Logia del Mambo</a></strong>. A mover el puto esqueleto</strong>.</p>
+<div class="video-container">
+<iframe width="100%" height="415" src="https://www.youtube.com/watch?v=n-2GdP2hp7E" title="Perro Grande, tema: Distinto, directo en Punch Fest (Sueca, 2015)" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
 </div>
 
 
 <p>MÁS BIO</p>
 
-<div class="alert alert-info">
-<h3>Vídeo de banda</h3>
-<p><strong>Comentario</strong>.</p>
-<div class="video-container">
-<iframe width="100%" height="415" src="https://www.youtube.com/embed/rAAFqJFVzKM?start=100" title="El Lobo en Tu Puerta, tema: 17, directo en Pub Kiss (Algeciras)" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-</div>
-</div>
+
 
 <p>Más BIO</p>
 
@@ -371,7 +389,7 @@ Pregunta: ¿Por qué te influenció el <span class="italic">Diary"</span> de Sun
   </div>
 <div class="media-body">
     <div class="media-heading">Äppelträd, El Cazador (Digital, 2017)</div>
-    <div class="media-content"><p>Super grupo de post rock instrumental, muy currado y con veterano de aquí (ex-miembros de Lullaby, El Agente Naranja, Txirukas)</p></div>
+    <div class="media-content"><p>Super grupo de post rock instrumental, muy currado y con gente que sabe (ex-miembros de Lullaby, El Agente Naranja, Txirukas)</p></div>
     <p><strong><a href="https://appeltrad.bandcamp.com/" target="_blank" rel="external noopener"> GRATIS</a></strong></p>
   </div>
 </div>
