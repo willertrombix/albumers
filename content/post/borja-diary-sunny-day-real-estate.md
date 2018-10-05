@@ -335,7 +335,7 @@ Pregunta: ¿Por qué te influenció el <span class="italic">Diary"</span> de Sun
   <div class="media-left">
     <img
   data-sizes="auto"
-  data-src="/images/españa-retraseres-split-album.jpg"
+  data-src="/images/espanya-vs-retraseres-split-vinilo.jpg"
   alt="ESPAÑA vs RETRASERES – álbum compartido (Vinilo, 2016)"
   class="lazyload">
   </div>
