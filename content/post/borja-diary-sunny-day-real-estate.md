@@ -38,7 +38,7 @@ draft = false
 
 <p>O al menos así lo recuerdo, y aunque <strong>todo pasó en un segundo</strong>, hay imágenes que tengo muy nitidas y otras que apenas sé cómo sucedieron. Con todo, el resultado fue tan aparatoso como se puede ver en la foto. <strong>Da mucha impresión ver todos tus CDs desperdigados por el techo del coche</strong>.</p>
 
-<p>No obstante, y por suerte, <strong>no hubo más personas implicadas</strong>. Pude salir por mi propio pie del coche bocabajo, <strong>como en las películas</strong>. Con el cuerpo todavía en tensión y con la ayuda de un chaval que acudió a socorrerme -<strong>gracias Quique</strong>, te estaré eternamente agradecido- recuperé poco a poco la noción de la realidad. Por suerte <strong>en el hospital me confirmaron</strong> que estaba todo bien: tan solo <strong>antiinflamatorios y unos cuantos días de reposo</strong>.</p>
+<p>No obstante, y por suerte, <strong>no hubo más personas implicadas</strong>. Pude salir por mi propio pie del coche bocabajo, <strong>como en las películas</strong>.
 
 <p>El caso es que tuve que ir a <strong>Rehabilitación para la espalda a la mutua de la empresa</strong>, que está en Sagunto. Al entrar en una gran sala con distintas máquinas de ejercicios, pelotas medicinales y otros cachibaches con formas raras, pude ver a un <strong>tipo alto, con buena planta, garboso</strong>, que iba de un lado a otro, hablando con este paciente y con aquél, y que parecía vivir en su mundo pero de <strong>mirada despierta</strong>.</p>
 
@@ -68,7 +68,7 @@ draft = false
 <p>La de 2016 fue una edición inolvidable, con colegas de la talla de <strong>Árida</strong>, <strong>Niña Coyote eta Chico Tornado</strong>, <strong>Jupiter Lion</strong>, <strong>Flipping Colors</strong>, <strong>Las Perras del Desierto</strong>, <strong>The Saurs</strong>, <strong>Caustic Rolldave</strong> y <strong>Perro Grande</strong></p>
 </div>
 
-<p>Fue en ese festi cuando pude vivir más de cerca la <strong>debacle decibélica</strong> de <strong>Perro Grande</strong>-el ampli al 11 de volumen, como los <strong><a href="https://www.youtube.com/watch?v=Kp5o5Ch_-iU" target="_blank" rel="external noopener nofollow">Spinal Tap</a></strong>-, el <strong>noise</strong> con tintes <strong>post punk</strong> y <strong>shoegaze</strong>, con un <strong>sonido noventas</strong> muy definido, pero con más garra y densidad: <strong>berreado y oscuro</strong>. Una banda sincera, que te crees, que hacen lo que les mola y que disfruta on ello.</p>
+<p>Fue en ese festi cuando pude vivir más de cerca la <strong>debacle decibélica</strong> de <strong>Perro Grande</strong> -el ampli al 11 de volumen, como los <strong><a href="https://www.youtube.com/watch?v=Kp5o5Ch_-iU" target="_blank" rel="external noopener nofollow">Spinal Tap</a></strong>-, el <strong>noise</strong> con tintes <strong>post punk</strong> y <strong>shoegaze</strong>, con un <strong>sonido noventas</strong> muy definido, pero con más garra y densidad: <strong>berreado y oscuro</strong>. Una banda sincera, que te crees, que hacen lo que les mola y que disfruta on ello.</p>
 
 <div class="alert alert-info">
 <h3>PERRO GRANDE - Distinto (Directo. Punch Fest, 12/09/15)</h3>
@@ -99,7 +99,7 @@ draft = false
   data-src="/images/Espanya-punk-valencia.jpg"
   alt="Split de España compartido con Retraseres"
   class="lazyload">
-<p>Temas como <strong>"Hitler no existe"</strong>, <strong>"Jeremy Irons haciendo caca en mi casa"</strong> o <strong>"Me gusta mear, em gusta la monarquía"</strong> dan buena cuenta de la línea editorial.</p>
+<p>Temas como <strong>"Hitler no existe"</strong>, <strong>"Jeremy Irons haciendo caca en mi casa"</strong> o <strong>"Me gusta mear, em gusta la monarquía"</strong> dan buena cuenta de la línea editorial. Portadón a cargo del inigualable <strong><a href="https://www.facebook.com/Mik-Baro-Ilustraci%C3%B3n-dise%C3%B1o-619680424728051/" target="_blank" rel="external noopener"> Mik Baro</a></strong></p>
 </div>
 
 <p><strong>Si te gusta el punk</strong>, si tienes sentido del humor, si <strong>sientes escalofríos</strong> cada vez que ves un <strong>puto retrovisor</strong> interior de coche del que cuelga una <strong>banderita roja, gualda y roja</strong>; si <strong>encojes el ano</strong> cuando vislumbras trozos de <strong>telas patrioticas por los balcones</strong> de tu ciudad; si te caía bien ese <strong>dependiente del Mercadona</strong> de tu barrio de sonrisa de perlas hasta que viste que se había hecho <strong>una cutre pulsera casera</strong> con la bandera de <strong>su puto país</strong>; entonces <strong class="italic">ESPAÑA ES TU NUEVA BANDA FETICHE</strong>.</p>
