@@ -1,7 +1,7 @@
 +++
 title = "Borja & Diary (Sunny Day Real Estate)"
 date = 2018-10-06
-description = "El bajista de Perro Grande, Mad Robot, España, POrtero Regateador y Äppelträd nos cuenta las ventajas de la dislexia y su disco ferpecto"
+description = "El bajista de Perro Grande, Mad Robot, España, Portero Regateador y Äppelträd nos cuenta las ventajas de la dislexia y su disco ferpecto"
 keywords = [
   "Diary",
   "Sunny Day Real Estate",
