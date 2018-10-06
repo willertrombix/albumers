@@ -23,7 +23,7 @@ draft = false
 +++  
 <h2>Post-rock, punk, ruido, dislexia y risas: un cóctel llamado "Borja"</h2>
 
-<p>Aunque ya habí avisto alguna vez a Borja sobre los escenarios, tocando con alguna de sus bandas, lo cierto es que crucé mis primeras palabras con él tras una situación un poco <strong><a href="https://www.youtube.com/watch?v=58D3Qh2oDIs" target="_blank" rel="external noopener nofollow"> trambólica</a></strong> y punk: tuvo que darse la situación de <strong>volcar mi coche</strong> de camino al trabajo para que nuestras vidas se cruzaran. Empecemos <strong>la historia por el principio</strong></p>
+<p>Aunque ya había visto alguna vez a Borja sobre los escenarios, tocando con alguna de sus bandas, lo cierto es que crucé mis primeras palabras con él tras una situación un poco <strong><a href="https://www.youtube.com/watch?v=58D3Qh2oDIs" target="_blank" rel="external noopener nofollow"> trambólica</a></strong> y punk: tuvo que darse la situación de <strong>volcar mi coche</strong> de camino al trabajo para que nuestras vidas se cruzaran. Empecemos <strong>la historia por el principio</strong></p>
 
 <p>Es martes 18 de octubre de 2016. Había llovido y, antes de entrar en una curva algo pronunciada, <strong>las ruedas traseras patinaron</strong> y perdí el control del vehículo. <strong>Derrapé varias veces</strong>, el coche giró en <strong>360 grados</strong> y llegó a golpearse una primera vez con la medianera que separa un sentido de circulación del contrario, pero no fue hasta el segundo impacto que <strong>volcó</strong>.</p>
 
