@@ -1,7 +1,7 @@
 +++
 title = "Borja & Diary (Sunny Day Real Estate)"
 date = 2018-10-06
-description = "El bajista de Perro Grande, Mad Robot y España nos cuenta las ventajas de la dislexia y su disco ferpecto"
+description = "El bajista de Perro Grande, Mad Robot, España, POrtero Regateador y Äppelträd nos cuenta las ventajas de la dislexia y su disco ferpecto"
 keywords = [
   "Diary",
   "Sunny Day Real Estate",
@@ -46,7 +46,7 @@ draft = false
 <img
   data-sizes="auto"
   data-src="/images/borja-borx-records.jpg"
-  alt="Borja, de Borx Records, bajista de Perro Grande, Mad Robot, Äppleträd, Portero Regateador y España"
+  alt="Borja, de Borx Records, bajista de Perro Grande, Mad Robot, Äppelträd, Portero Regateador y España"
   class="lazyload">
 <p>Sí, le reconocí en la consulta de Rehab, a pesar de no llevar un bajo encima o no estar haciendo el indio (o el vaquero)</p>
 </div>
@@ -102,7 +102,7 @@ draft = false
 <p>Temas como <strong>"Hitler no existe"</strong>, <strong>"Jeremy Irons haciendo caca en mi casa"</strong> o <strong>"Me gusta mear, em gusta la monarquía"</strong> dan buena cuenta de la línea editorial. Portadón a cargo del inigualable <strong><a href="https://www.facebook.com/Mik-Baro-Ilustraci%C3%B3n-dise%C3%B1o-619680424728051/" target="_blank" rel="external noopener"> Mik Baro</a></strong></p>
 </div>
 
-<p><strong>Si te gusta el punk</strong>, si tienes sentido del humor, si <strong>sientes escalofríos</strong> cada vez que ves un <strong>puto retrovisor</strong> interior de coche del que cuelga una <strong>banderita roja, gualda y roja</strong>; si <strong>encojes el ano</strong> cuando vislumbras trozos de <strong>telas patrioticas por los balcones</strong> de tu ciudad; si te caía bien ese <strong>dependiente del Mercadona</strong> de tu barrio de sonrisa de perlas hasta que viste que se había hecho <strong>una cutre pulsera casera</strong> con la bandera de <strong>su puto país</strong>; entonces <strong class="italic">ESPAÑA ES TU NUEVA BANDA FETICHE</strong>.</p>
+<p><strong>Si te gusta el punk</strong>, si tienes sentido del humor, si <strong>sientes escalofríos</strong> cada vez que ves un <strong>puto retrovisor</strong> interior de coche del que cuelga una <strong>banderita roja01  ºq2  gualda y roja</strong>; si <strong>encojes el ano</strong> cuando vislumbras trozos de <strong>telas patrioticas por los balcones</strong> de tu ciudad; si te caía bien ese <strong>dependiente del Mercadona</strong> de tu barrio de sonrisa de perlas hasta que viste que se había hecho <strong>una cutre pulsera casera</strong> con la bandera de <strong>su puto país</strong>; entonces <strong class="italic">ESPAÑA ES TU NUEVA BANDA FETICHE</strong>.</p>
 
 <div class="alert alert-info">
 <h3>ESPAÑA - Si Mussolini y Franco se tiran por un barranco​, ¿tú también? (Valencia, 08/11/14)</h3>
@@ -112,7 +112,7 @@ draft = false
 </div>
 </div>
 
-<p>Pero no todo va a ser <strong>velocidad y despiporre</strong>. Borja también tiene tiempo para la reflexión. De ahí que le pidiera el cuerpo montarse otra banda con sus colegas, y esta vez la cosa tenía que ir por los derroteros del <strong>post rock</strong>, el <strong>ambient</strong> y los <strong>pasajes instrumentales</strong>. No podía rodearse de mejor peña: <strong>Manolo, Santiago y Álex</strong> le acompañan en este proyecto del que se sabe poco y del que queremos más. Porque <strong>promete muchas alegrías</strong>, tiene calidad y está <strong>hecho con gusto</strong>. ¿Qué más quieres? Pues más y más.</p>
+<p>Pero no todo va a ser <strong>velocidad y despiporre</strong>. Borja también tiene tiempo para la reflexión. De ahí que le pidiera el cuerpo montarse otra banda con sus colegas, y esta vez la cosa tenía que ir por los derroteros del <strong>post rock</strong>, el <strong>ambient</strong> y los <strong>pasajes instrumentales</strong>. No podía rodearse de mejor peña: <strong>Manolo, Santiago y Álex</strong> le acompañan en este proyecto llamado <strong>Äppelträd</strong> del que se sabe poco y del que queremos más. Porque <strong>promete muchas alegrías</strong>, tiene calidad y está <strong>hecho con gusto</strong>. ¿Qué más quieres? Pues más y más.</p>
 
 <div class="alert alert-info">
 <h3>Äppelträd - Dromosoma (Directo, 16 toneladas, 2017)</h3>
@@ -160,7 +160,7 @@ draft = false
 <thead>
 <tr>
 <th>Portero Regateador</th>
-<th>Äppleträd</th>
+<th>Äppelträd</th>
 </tr>
 </thead>
 <tbody>
