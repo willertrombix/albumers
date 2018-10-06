@@ -1,6 +1,6 @@
 +++
 title = "Borja & Diary (Sunny Day Real Estate)"
-date = 2018-10-05
+date = 2018-09-27
 description = "El bajista de Perro Grande, Mad Robot y España nos cuenta las ventajas de la dislexia y su disco ferpecto"
 keywords = [
   "Diary",
