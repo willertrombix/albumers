@@ -33,7 +33,7 @@ draft = false
   data-src="/images/accidente-de-coche.jpg"
   alt="Accidente de coche en el Puerto de Sagunto"
   class="lazyload">
-<p>Foto</p>
+<p>No intente hacer esto en su casa</p>
 </div>
 
 <p>O al menos así lo recuerdo, y aunque <strong>todo pasó en un segundo</strong>, hay imágenes que tengo muy nitidas y otras que apenas sé cómo sucedieron. Con todo, el resultado fue tan aparatoso como se puede ver en la foto. <strong>Da mucha impresión ver todos tus CDs desperdigados por el techo del coche</strong>.</p>
@@ -42,36 +42,97 @@ draft = false
 
 <p>El caso es que tuve que ir a <strong>Rehabilitación para la espalda a la mutua de la empresa</strong>, que está en Sagunto. Al entrar en una gran sala con distintas máquinas de ejercicios, pelotas medicinales y otros cachibaches con formas raras, pude ver a un <strong>tipo alto, con buena planta, garboso</strong>, que iba de un lado a otro, hablando con este paciente y con aquél, y que parecía vivir en su mundo pero de <strong>mirada despierta</strong>.</p>
 
+<div class="alert alert-success">
+<img
+  data-sizes="auto"
+  data-src="/images/borja-borx-records.jpg"
+  alt="Borja, de Borx Records, bajista de Perro Grande, Mad Robot, Äppleträd, Portero Regateador y España"
+  class="lazyload">
+<p>Sí, le reconocí en la consulta de Rehab, a pesar de no llevar un bajo encima o no estar haciendo el indio (o el vaquero)</p>
+</div>
+
 <p>Al instante le reconocí. <strong>"Tú tocas el bajo en 'Perro Grande', ¿verdad?"</strong> Tras la pregunta obtuve como respuesta un tímido "sí" mientras buscaba en su cerebro <strong>de qué mierdas podía conocerme</strong>.</p>
 
 <p>Entonces me presenté. <strong>Enseguida hicimos buenas migas</strong> y empezamos a hablar de nuestras bandas, y de aquel bolo en al que fui a verle, o aquel otro al que fuimos los dos de espectadores en el <strong><a href="https://www.facebook.com/MAGAZINE-CLUB-Valencia-68337330655/" target="_blank" rel="external noopener">"Magazine"</a></strong></p>
 
 <p>El segundo día que tenía cita en Rehabilitación <strong>ya nos trajimos vinilos y nos los intercambiamos</strong>. Mientras <strong>me clavaba agujas con electricidad en la espalda</strong>, comentábamos anécdotas de conciertos, historias hilarantes y nuestros inicios como <strong>músicos diletantes</strong>.</p>
 
-<p>Conocía alguna de ellas -de hecho compartimos catel en la <strong><a href="https://www.facebook.com/PUNCH-FEST-1437406186479994/" target="_blank" rel="external noopener"> III edición del Punch Fest</a></strong>-, pero todo esto me hizo interesarme más por sus múltiples bandas. Ya había asistido a la <strong>debacle decibélica</strong> -el ampli al 11 de volumen, como los <strong><a href="https://www.youtube.com/watch?v=Kp5o5Ch_-iU" target="_blank" rel="external noopener nofollow">Spinal Tap</a></strong>-, el noise con tintes post punk y shoegaze, con un sonido noventas muy definido, pero con más garra y densidad: berreado y oscuro. Una banda sincera, que te crees, que hacen lo que les mola y que disfruta on ello.</p>
+<p>Conocía alguna de ellas -de hecho <strong>Cabalgata Cósmica</strong> y <strong>Perro Grande</strong> compartimos catel en la <strong><a href="https://www.facebook.com/PUNCH-FEST-1437406186479994/" target="_blank" rel="external noopener"> III edición del Punch Fest</a></strong>-, pero todo esto me hizo interesarme más por sus múltiples bandas.</p>
+
+<div class="alert alert-success">
+<img
+  data-sizes="auto"
+  data-src="/images/punch-fest-2016.jpg"
+  alt="Cartel de la tercera edición del Punch Fest en 2016"
+  class="lazyload">
+<p>La de 2016 fue una edición inolvidable, con colegas de la talla de <strong>Árida</strong>, <strong>Niña Coyote eta Chico Tornado</strong>, <strong>Jupiter Lion</strong>, <strong>Flipping Colors</strong>, <strong>Las Perras del Desierto</strong>, <strong>The Saurs</strong>, <strong>Caustic Rolldave</strong> y <strong>Perro Grande</strong></p>
+</div>
+
+<p>Fue en ese festi cuando pude vivir más de cerca la <strong>debacle decibélica</strong> de <strong>Perro Grande</strong>-el ampli al 11 de volumen, como los <strong><a href="https://www.youtube.com/watch?v=Kp5o5Ch_-iU" target="_blank" rel="external noopener nofollow">Spinal Tap</a></strong>-, el <strong>noise</strong> con tintes <strong>post punk</strong> y <strong>shoegaze</strong>, con un <strong>sonido noventas</strong> muy definido, pero con más garra y densidad: <strong>berreado y oscuro</strong>. Una banda sincera, que te crees, que hacen lo que les mola y que disfruta on ello.</p>
 
 <div class="alert alert-info">
 <h3>PERRO GRANDE - Distinto (Directo. Punch Fest, 12/09/15)</h3>
 <p><strong>Directazo en el <strong>Punch Fest</strong>, mítico festival de Sueca organizado por la incansable <strong><a href="https://www.facebook.com/lalogia.delmambo" target="_blank" rel="external noopener"> Logia del Mambo</a></strong>. A mover el puto esqueleto</strong>.</p>
 <div class="video-container">
-<iframe width="100%" height="415" src="https://www.youtube.com/watch?v=n-2GdP2hp7E" title="Perro Grande, tema: Distinto, directo en Punch Fest (Sueca, 2015)" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="100%" height="415" src="https://www.youtube.com/embed/n-2GdP2hp7E" title="Perro Grande, tema: Distinto, directo en Punch Fest (Sueca, 2015)" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 </div>
 
 
-<p>MÁS BIO</p>
-
-
-
-<p>Más BIO</p>
+<p>También pude asistir a varios bolos de <strong>Mad Robot</strong>, una banda formada por veterana y veteranos de la escena a medio camino entre el <strong>grunge</strong> y el <strong>rock alternativo</strong> o <strong>indie primigenio</strong>. Gente que ha militado previamente en grupos míticos de Valencia como <strong>Furious Planet</strong> o <strong>La Muñeca de Sal</strong>. El resultado al final son <strong>canciones redondas</strong>, de guitarras cortantes y ritmos contundentes, que avanzan sobre una ola de melodías de voces femeninas y masculinas, en un <strong>interesante dueto</strong> empastado pero a la vez <strong>ligeramente desincronizado</strong> para darle un toque más orgánico y natural. ¡Dentro vídeo!</p>
 
 <div class="alert alert-info">
-<h3>Vídeo de banda</h3>
-<p><strong>Comentario</strong></p>
+<h3>Mad Robot - Kill the Mainstream (Álbum: I Declare War, 2015)</h3>
+<p><strong>"Junk Press, Shitty Bands... Kill The Mainstream"</strong> escupen en la estrofa principal de este tema. Y es que Borja, Mike, Su, Roberto y Carolina (que por entonces era guitarra de la banda) han aprendido en estos años algo de mucho valor: que <strong>la industria musical es una asco</strong>. Amén.</p>
 <div class="video-container">
-<iframe width="100%" height="415" src="https://www.youtube.com/embed/8fMi_HpoBA4" title="El Lobo en Tu Puerta, tema: No quiero verte (videoclip oficial, 2018)" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="100%" height="415" src="https://www.youtube.com/embed/V3Ni1nposKg?start=45" title="Mad Robot, tema: Kill The Mainstream, Álbum: I Declare War (2015)" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 </div>
+
+<p>Pero el <strong>pluriempleo de Borja</strong> no acaba aquí. Seguimos para Bingo con <strong>la banda más irreverente, divertida y caótica del punk levantino</strong>. Al ver escrito su nombre en las paredes, los <strong>fachas</strong> piensan que están ante la que va ser <strong>su próxima banda preferida</strong>, hasta que les dan <strong>un zasca con la mano abierta en toda la cara</strong> tras el primer acorde.</p>
+
+<p>Porque no hay mejor manera de <strong>trollear al personal rancio</strong> que ponerle a tu banda el nombre de <strong>"ESPAÑA"</strong>. Así, en mayúsculas. Una genialidad  en continente y en contenido, con unas <strong>letras abrasivas</strong>, desternillantes, frenéticas, a un ritmo acelerado, loco, de <strong>risa nerviosa</strong> pero de una <strong>lucidez</strong> que no se puede aguantar.</p>
+
+<div class="alert alert-success">
+<img
+  data-sizes="auto"
+  data-src="/images/Espanya-punk-valencia.jpg"
+  alt="Split de España compartido con Retraseres"
+  class="lazyload">
+<p>Temas como <strong>"Hitler no existe"</strong>, <strong>"Jeremy Irons haciendo caca en mi casa"</strong> o <strong>"Me gusta mear, em gusta la monarquía"</strong> dan buena cuenta de la línea editorial.</p>
+</div>
+
+<p><strong>Si te gusta el punk</strong>, si tienes sentido del humor, si <strong>sientes escalofríos</strong> cada vez que ves un <strong>puto retrovisor</strong> interior de coche del que cuelga una <strong>banderita roja, gualda y roja</strong>; si <strong>encojes el ano</strong> cuando vislumbras trozos de <strong>telas patrioticas por los balcones</strong> de tu ciudad; si te caía bien ese <strong>dependiente del Mercadona</strong> de tu barrio de sonrisa de perlas hasta que viste que se había hecho <strong>una cutre pulsera casera</strong> con la bandera de <strong>su puto país</strong>; entonces <strong class="italic">ESPAÑA ES TU NUEVA BANDA FETICHE</strong>.</p>
+
+<div class="alert alert-info">
+<h3>ESPAÑA - Si Mussolini y Franco se tiran por un barranco​, ¿tú también? (Valencia, 08/11/14)</h3>
+<p>Pues esperemos que sí, la verdad, <strong>que te tires por el barranco</strong>, y si puede ser, que te hayas prendido <strong>fuego primero</strong>. Directo de <strong>España</strong> en el <strong>Magazine Club</strong>, en 2014</p>
+<div class="video-container">
+<iframe width="100%" height="415" src="https://www.youtube.com/embed/F9TCphTuzeg?start=52" title="España, tema: Si Mussolini y Franco se tiran por un barranco​, ¿tú también? (directo, 2014)" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
+</div>
+
+<p>Pero no todo va a ser <strong>velocidad y despiporre</strong>. Borja también tiene tiempo para la reflexión. De ahí que le pidiera el cuerpo montarse otra banda con sus colegas, y esta vez la cosa tenía que ir por los derroteros del <strong>post rock</strong>, el <strong>ambient</strong> y los <strong>pasajes instrumentales</strong>. No podía rodearse de mejor peña: <strong>Manolo, Santiago y Álex</strong> le acompañan en este proyecto del que se sabe poco y del que queremos más. Porque <strong>promete muchas alegrías</strong>, tiene calidad y está <strong>hecho con gusto</strong>. ¿Qué más quieres? Pues más y más.</p>
+
+<div class="alert alert-info">
+<h3>Äppelträd - Dromosoma (Directo, 16 toneladas, 2017)</h3>
+<p>Preciosismo sonoro, siniestralidad, sinuosidad, finura, detalles y progresión en este tema en directo, el año pasado en la sala <strong><a href="http://www.16toneladas.com/" target="_blank" rel="external noopener">16 Toneladas</a></strong> de Valencia.</p>
+<div class="video-container">
+<iframe width="100%" height="415" src="https://www.youtube.com/embed/mCfDulFyhfk" title="Äppelträd, tema: Dromosoma (directo, 2017)" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
+</div>
+
+<p>Por último, como <strong>este chaval le da a todo</strong>, también tiene una banda llamada <strong>"Portero regateador"</strong> (¿en honor a <strong><a href="https://www.youtube.com/watch?v=xbArIEljp-A" target="_blank" rel="external noopener nofollow">René Higuita</a></strong> quizá?) en el que dan rienda suelta a la <strong>experimentación eléctrica y electrónica</strong>, y lo hacen con un nivel de productividad y eficiencia despampanante: <strong>16 trabajos en 3 años</strong> (¿qué desayunan estos chicos? Seguro que algo más que <strong>Frosties de Kellogg's</strong>). Pasa, y enciéndete el <strong>cigarrito adulterado</strong></p>
+
+<div class="alert alert-info">
+<h3>Portero Regateador - La Cueva (Vodeoclip, sesión en directo, 2017)</h3>
+<p>Este vídeo fue grabado a dos cámaras en una sola toma, como resultado de una de sus sesiones en 2012. <strong>Capas de efectos psicodélicos</strong>, sobre <strong>bajos eléctricos</strong> y <strong>bases rítmicas</strong> por ordenador, por gentileza de miembros de <strong>Perro Grande y La Muñeca de Sal</strong>.</p>
+<div class="video-container">
+<iframe width="100%" height="415" src="https://www.youtube.com/embed/eiNG8I6cnXs" title="Portero Regateador, tema: La Cueva (video en directo, 2012)" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
+</div>
+
+
 
 <h3>Diversidad y diversión para estar al tanto</h3>
 <table>
@@ -126,7 +187,7 @@ draft = false
 </script>
 <br>
 <div class="alert alert-success">
-<p>LLegó el momento de <strong>ceder el boli a Julio</strong> que, como se aprecia en la foto, lo flipó en su día con el álbum <strong>"Hecho, es simple" de 7 Notas 7 Colores</strong>.</p>
+<p>Ya es hora de que <strong>el polifacético Borja</strong> nos cuente por que el <strong>"Diary"</strong> de <strong>"Sunny Day Real Estate"</strong> fue el disco que <strong>le dejó picueto</strong>.</p>
 </div>
 
 
@@ -136,7 +197,7 @@ draft = false
   data-src="/images/Borja-Diary-Sunny-Day-Real-Estate-vinilo.jpg"
   alt="Xavo Ros"
   class="lazyload">
-<p>7 notas, 7 colores descansan sobre un lobo con bigote y mucho flow</p>
+<p>Chupar los Playmobils rarunos de la portada de Diary: señal de que el disco te mola bastante.</p>
 </div>
 
 <div class="alert alert-info">
@@ -179,7 +240,7 @@ Pregunta: ¿Dónde y cómo descubriste el disco que te cambió la vida?
  <p>Escuchaba también en vinilo <strong>Alan Parsons Project</strong> que tenía <strong>mi padre</strong>, me quedaba Pokemon...</p>
 
 <div class="alert alert-info">
-<h3>The Alan Parsons Project- Eye in the Sky (AlbumEye in the Sky, 1982)</h3>
+<h3>The Alan Parsons Project - Eye in the Sky (Álbum: Eye in the Sky, 1982)</h3>
 <p>Tras ponerte este disco, tu padre se sigue preguntando <strong>qué hizo mal contigo, Borja</strong>. No me vegas otra vez con <strong>el cuento de la dislexia con papeles</strong>, que no cuenta xD</p>
 <div class="video-container">
 <iframe width="100%" height="415" src="https://www.youtube.com/embed/NNiie_zmSr8?rel=0" title="The Alan Parsons Project, tema: Eye in the Sky, Álbum: Eye in the Sky (1982)" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
