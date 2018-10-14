@@ -78,9 +78,9 @@ draft = false
 <img
   data-sizes="auto"
   data-src="/images/comprar-divine-intervention-slayer.jpg"
-  alt="Xavo Ros"
+  alt="comprar Divine Intervention Slayer"
   class="lazyload">
-<p>pie foto</p>
+<p>Libreto y CD de <strong>Divine Intervention</strong>, clásico básico de <strong>Slayer</strong>. ¡Arriba esos <strong>cuernos</strong> y esas <strong>cuchillas</strong>!</p>
 </div>
 
 <div class="alert alert-info">
@@ -136,41 +136,42 @@ Pregunta: ¿Por qué te influenció tanto? ¿Cambió tu manera de pensar y enten
 
 <div class="alert alert-error">
 <p><strong>### NOTA DEL REDACTOR ###</strong></p>
-<p>Se cumplen los presagios y la <strong>sección de la web</strong> que menciona David como futura sorpresa <strong>ya es una realidad</strong>.</p>
-<p>Se trata de un espacio reservado a <strong>Ilustradores</strong> del mundo del metal y la música más extrema.</p>
-<p>De hecho, su primer convidado es un tipo al que admiro profundamente: <strong><a href="https://www.instagram.com/demonomania666/" target="_blank" rel="external noopener">Narcís Boter Jaume</a></strong>, a quien, por cierto, puse en contacto con la banda valenciana <strong><a href="https://abrahamgrindcore.bandcamp.com/" target="_blank" rel="external noopener">"Abraham Grindcore"</a></strong> y cuya colabloración ha dado como resultado una de las piezas más barrocamente putrefactas de su portfolio.</p>
-<p>Una anti-delicia que atrapa y que cuesta dejar de observar hasta diseccionar las <strong>miles de líneas</strong> que conforman la brutalidad que <strong>solo a un genio como Narcis podríua ocurrísele</strong>.</p>
-<div class="video-container">
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fdelargelovecraft%2Fposts%2F2053725701314850&width=500" width="500" height="445" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
+<p>Se cumplen los presagios y la <strong>sección de la web</strong> que menciona <strong>David</strong> como futura sorpresa <strong>ya es una realidad</strong>.</p>
+<p>Se trata de un espacio reservado a <strong>Ilustradores del mundo del metal</strong> y la música más extrema.</p>
+<p>De hecho, su <strong>primer convidado</strong> (<strong><a href="https://www.reignsthechaos.com/entrevista-a-narcis-boter-jaume-ilustrador-y-cantante-de-stained-blood/" target="_blank" rel="external noopener">LEER AQUÍ</a></strong>) es un tipo al que admiro profundamente: <strong><a href="https://www.instagram.com/demonomania666/" target="_blank" rel="external noopener">Narcís Boter Jaume</a></strong>, a quien, por cierto, puse en contacto con la banda valenciana <strong><a href="https://abrahamgrindcore.bandcamp.com/" target="_blank" rel="external noopener">"Abraham Grindcore"</a></strong> y cuya colabloración ha dado como resultado una de las piezas más barrocamente putrefactas de su portfolio.</p>
+<p>Una anti-delicia que atrapa y que cuesta dejar de observar hasta diseccionar las <strong>miles de líneas</strong> que conforman la brutalidad que <strong>solo a <strong>un genio del mal como Narcis</strong> podría ocurrísele</strong>.</p>
+<img
+  data-sizes="auto"
+  data-src="/images/abraham-grindcore-portada-narcis-boter-jaume.jpg"
+  alt="Abraham Grindore, portada de Narcis Boter Jaume"
+  class="lazyload">
+<p>Portadón insuperable de <strong>"Aberrante"</strong>, primer larga duración de <strong>Abraham Grindcore</strong>. Colegas de penurias extremas con los que tuve el placer de poner voces en la versión del tema <strong>"Cripta" de Machetazo</strong>, junto a <strong>Xito</strong> de <strong><a href="https://encabronation.bandcamp.com/" target="_blank" rel="external noopener">Encabronation</a></strong> y <strong><a href="https://visceraldamage.bandcamp.com/" target="_blank" rel="external noopener">Visceral Damage</a></strong>.</p>
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2324725595/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=2213298514/transparent=true/" seamless><a href="http://abrahamgrindcore.bandcamp.com/album/aberrante">Aberrante by Abraham Grindcore</a></iframe>
 </div>
-</div>
 
-Sí, claro que cambió mi manera de pensar y entender el mundo de la música. Desde entonces, he ido creciendo con los estilos musicales que han surgido, sumando a mi cabecera los que me han gustado, y apartando los que no, pero siempre, y por encima de todo, el metal ha ido conmigo a todos lados. Sin el metal extremo que hoy escucho, sinceramente, no podría vivir. Siento la música muy en mi interior, bien emocionándome, como poniéndome hecho un animal. Por supuesto, disfruto muchísimo de los artworks, libretos, letras o submundo que encuentras bajo la música extrema.
+<p>Sí, <strong>claro que cambió mi manera de pensar y entender el mundo de la música</strong>.</p>
 
-Para mí, el metal extremo, bien sea black metal, doom metal, funeral, grindcore, crust, sludge…, es parte vital de mi vida. Y por ello, la vida no la entiendo de otra forma que no sea con esta música. 
+<p>Desde entonces, <strong>he ido creciendo con los estilos musicales que han surgido</strong>, sumando a mi cabecera los que me han gustado, y apartando los que no, pero siempre, y por encima de todo, <strong>el metal ha ido conmigo a todos lados</strong>.</p>
 
-<p>Y consecuencia de esto, y de mi amor por el diseño gráfico y la ilustración, del estilo que sea, pero preferiblemente, los artworks ligados a mis gustos musicales que las bandas sacan en sus trabajos, haya acabo yo trabajando o intentando vivir de este sector.</p>
+<p><strong>Sin el metal extremo que hoy escucho, sinceramente, no podría vivir</strong>. Siento la música muy en mi interior, bien emocionándome, como <strong>poniéndome hecho un animal</strong>. Por supuesto, <strong>disfruto muchísimo de los artworks, libretos, letras o submundo</strong> que encuentras bajo la música extrema.</p>
+
+<p>Para mí, el metal extremo, bien sea <strong>black metal, doom metal, funeral, grindcore, crust, sludge...</strong>, es <strong>parte vital de mi vida</strong>. Y por ello, la vida no la entiendo de otra forma que no sea con esta música.</p>
+
+<p>Y consecuencia de esto, <strong>y de mi amor por el diseño gráfico y la ilustración</strong>, del estilo que sea, pero preferiblemente, los artworks ligados a mis gustos musicales que las bandas sacan en sus trabajos, <strong>haya acabo yo trabajando o intentando vivir de este sector</strong>.</p>
 
 
 <div class="alert alert-info">
-Pregunta: ¿Se sigue notando hoy en día el poso que me dejó?  
+Pregunta: ¿Se sigue notando hoy en día el poso que te dejó?  
 </div>
 
 <p>RESPUESTA:</p>
 
-<p><strong>No estoy muy rapero ultimamente</strong>, pero... <stromg>Si escucho una sola palabra de este MC</stromg> me sale una sonrisa de aprobación automáticamente...</p>
+<p>Sí, <strong>Slayer</strong> significó y significa todo para mí. <strong>Son puro amor</strong>.</p>
+ 
+ <p> <strong>Los vi por primera vez en 2010 en Leganés</strong>, dentro del festival de dos días llamado <strong>Sonisphere</strong>. Y muy feliz, la verdad. <strong>Un sueño cumplido</strong>.</p>
 
-<p>Escucharle es <strong>un gran "Ouh Yes!"</strong></p>
+ <p>Pero <strong>la segunda vez que los vi</strong>, fue el <strong>02/06/2017</strong> en la <strong>Sala Riviera</strong> de Madrid, y he de decir que <strong>los disfruté muchísimo más</strong>, consiguiendo llegar <strong>más lejos mental y físicamente</strong> de lo que deseaba.</p>
 
-<p>Aún nadie se acercó nisiquiera un poco al estilo y <strong>autenticidad de su flow</strong>.</p>
-
-<div class="alert alert-info">
-<h3>Cookin Bananas, tema: Aquí te pillo, aquí temazo</h3>
-<p>Cookin Bananas es la unión en 2010 de <strong>Mucho Muchacho con Cookin Soul</strong>, que durante 3 años conquistaron caderas de medio mundo con bases y samples como la de este "Aquí te pillo, aquí temazo", que usa el característico corte que recodarás de los <strong>títulos de crédito</strong> de las películas de <strong>Tarantino</strong>, compuesta por <strong>Keith Mansfield</strong> y titulada <strong><a href="https://www.youtube.com/watch?v=1i6Cpq8XBFw" target="_blank" rel="external noopener">"Funky Fanfare"</a></strong>.</p>
-<div class="video-container">
-<iframe width="100%" height="415" src="https://www.youtube.com/embed/Fzzo-zz7Jjg?rel=0" title="Cookin Bananas, tema: Aquí te pillo, aquí temazo (2013)" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-</div>
-</div>
 
 
 <div class="alert alert-info">
@@ -179,30 +180,9 @@ Pregunta: ¿Sigues escuchando ese disco? ¿Con qué frecuencia?
 
 <p>RESPUESTA:</p>
 
-<p>Mi coleccion de discos está ordenada por gustos, <strong>mis favoritos están en una estantería especial</strong>.</p>
+<p>Sigo escuchándolo, por supuesto, <strong>no podría ser de otra forma</strong>.</p>
 
-<p>Por supuesto esa estantería la capitanea <strong>Black Sabbath</strong>, mi <strong>colección de blues</strong>...</p>
-
-<p>Y de <strong>rap</strong>: la discografía de <strong>The Roots y este disco!</strong></p>
-
-<div class="alert alert-info">
-<h3>The Roots, Freestyle (Directo en Rap City, 2004)</h3>
-<p>Las raíces surcando el subsuelo y rompiendo en la superficie para conquistar el plató del <strong>programa Rap City</strong> con un <strong>Freestyle</strong> que <strong>si tiene más flow te folla</strong>.</p>
-<div class="video-container">
-<iframe width="100%" height="415" src="https://www.youtube.com/embed/1pSS4opZwdQ?rel=0" title="The Roots, Freestyle (Directo en Rap City, 2004)" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-</div>
-</div>
-
-<div class="alert alert-error">
-<p><strong>### NOTA DEL REDACTOR ###</strong></p>
-<p>¿Tener en tu colección discos de <strong>Black Sabbath y de rap</strong> a la misma altura de preferencia?</p>
-<p>Bueno, a veces las extrañas parejas se llevan de fábula. <strong>El Lobo en Tu Puerta</strong> es la más evidente prueba de que <strang>se puede hacer si se hace con maestría</strang>.</p>  
-<p><strong>SIRVA DE MUESTRA ESTE ROMPECUELLOS:</strong></p>
-<h3>El Lobo en tu puerta, Manny Pacquiao (Grabaciones sumergidas, 2015)</h3>
-<div class="video-container">
-<iframe width="100%" height="415" src="https://www.youtube.com/embed/fk6TSExU2Bo?rel=0" title="El Lobo en tu puerta, Manny Pacquiao (Grabaciones sumergidas, 2015)" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-</div>
-</div>
+<p>Con tanta frecuencia, que la semana pasada, <strong>dio más de veinte vueltas</strong> en el equipo del coche.</p>
 
 <div class="banner-box">
 <a href="https://rover.ebay.com/rover/1/1185-53479-19255-0/1?icep_id=114&ipn=icep&toolid=20004&campid=5338384035&mpre=https%3A%2F%2Fwww.ebay.es%2Fitm%2F7-Notas-7-Colores-Hecho-Es-Simple-CD-1997%2F322429144900%3Fhash%3Ditem4b12464f44%3Ag%3ApmsAAOSwTuJYqo6K" target="_blank" rel="nofollow noopener">
