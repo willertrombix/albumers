@@ -95,6 +95,14 @@ Pregunta: ¿Dónde y cómo descubriste el disco que te cambió la vida?
 
 <p>Es un trabajo que <strong>me fascinó, sorprendió y maravilló</strong>. Lo que más me chocaba era <strong>la voz</strong> por aquellos entonces de <strong>Tom Araya</strong>. ¡Increíble! Aún me sigue sorprendiendo. Y <strong>hoy, el disco me gusta muchísimo más que entonces</strong>. Lo entiendo mejor y lo disfruto mucho más.</p>
 
+<div class="alert alert-info">
+<h3>Slayer - Divine Intervention (Tema que da título al álbum de 1994)r</h3>
+<p>Temazo en directo, grabado en el <strong>Mesa Amphitheater</strong> de Arizona, e incluido en el DVD <strong><a href="https://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_id=114&ipn=icep&toolid=20004&campid=5338413218&mpre=https%3A%2F%2Fwww.ebay.com%2Fitm%2FSlayer-Live-Intrusion-Dvd-Usato%2F302883787231%3Fhash%3Ditem468547d1df%3Ag%3APPQAAOSw449bnDSI%3Ark%3A1%3Apf%3A0" target="_blank" rel="external noopener">"Live Intrusion"</a></strong> que <strong>Slayer</strong> sacó en <strong>1995</strong> a través de <strong>American Recordings</strong>. La calidad de imagen no hace justicia al sonido, pero <strong>"no le pidas peras al "rip"</strong>, refrán típico de tiempos del <strong>eMule</strong>.</p>
+<div class="video-container">
+<iframe width="100%" height="415" src="https://www.youtube.com/embed/7lNjCNWvVao" title="Slayer, tema: Divine Intervention, directo extraído del DVD Live Intrusion (1995)" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
+</div>
+
 <p>Por esos entonces, lo que más escuchaba era <strong>Slayer</strong>, <strong>Pantera</strong> y <strong>Sepultura</strong>. Casi no salía de ahí, mientras los amigos metaleros como yo, tiraban también por algo más heavy como <strong>Iron Maiden</strong>, <strong>Helloween</strong>... A mí <strong>no me cuadraba eso mucho</strong> y me centraba básicamente en las tres bandas que te comento y sus <strong>Divine Intervention</strong> (1994), <strong>Far Beyond Driven</strong> (1994) y <strong>Chaos A.D.</strong> (1993).</a>
 
 <p>No te lo puedo asegurar a ciencia cierta dónde y cómo lo descubrí, pero <strong>con 13, 14, 15, 16 años y más</strong>, compraba las revistas de música de por entonces: <strong>Kerrang</strong>, española e inglesa, pero sobre todo, la <strong>Metal Hammer</strong>, con la que me mantenía <strong>informado sobre bandas</strong> que ya conocía, otras que no, festivales, conciertos...</p>
