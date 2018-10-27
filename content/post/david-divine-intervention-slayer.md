@@ -1,16 +1,15 @@
 +++
 title = "David & Divine Intervention (Slayer)"
-date = 2018-09-23
-description = "El creador de 'Uimago' y 'Reigns The Chaos' diseña, ilustra y escribe a golpe de trallazos de Slayer"
+date = 2018-10-27
+description = "El creador de 'Gnomo Design' y 'Reigns The Chaos' diseña, ilustra y escribe a golpe de trallazos de Slayer"
 keywords = [
-  "Uimago",
   "Slayer",
   "Reigns The Chaos",
   "Gnomo Design",
   "Pantera",
   "Sepultura"
 ]
-tags = ["Uimago", "Slayer", "Reigns The Chaos", "Gnomo Design", "Pantera", "Sepultura"] 
+tags = ["Slayer", "Reigns The Chaos", "Gnomo Design", "Pantera", "Sepultura"] 
 images = [
     "https://albumers.org/images/david-divine-intervention-slayer.jpg"
 ] # Suggested, controls default Open Graph images
@@ -46,13 +45,14 @@ draft = false
 <table>
 <thead>
 <tr>
-<th>El Lobo en tu puerta</th>
+<th>Gnomo Design</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td><a href="https://www.facebook.com/elloboentupuerta/" target="_blank" rel="external nofollow noopener" style="font-weight:normal;">Facebook</td>
-  <td><a href="https://www.instagram.com/elloboentupuerta17/" target="_blank" rel="external nofollow noopener">Instagram</td>
+<td><a href="https://www.instagram.com/gnomodesign/" target="_blank" rel="external nofollow noopener" style="font-weight:normal;">Instagram</td>
+<td><a href="https://www.behance.net/gnomodesignnn" target="_blank" rel="external nofollow noopener">Behance</td>
+<td><a href="https://gnomodesign.bigcartel.com/" target="_blank" rel="external nofollow noopener">Tienda</td>
 </tr>
 </tbody>
 </table>
@@ -203,32 +203,32 @@ Pregunta: ¿Sigues escuchando ese disco? ¿Con qué frecuencia?
 <p>Con tanta frecuencia, que la semana pasada, <strong>dio más de veinte vueltas</strong> en el equipo del coche.</p>
 
 <div class="banner-box">
-<a href="https://rover.ebay.com/rover/1/1185-53479-19255-0/1?icep_id=114&ipn=icep&toolid=20004&campid=5338384035&mpre=https%3A%2F%2Fwww.ebay.es%2Fitm%2F7-Notas-7-Colores-Hecho-Es-Simple-CD-1997%2F322429144900%3Fhash%3Ditem4b12464f44%3Ag%3ApmsAAOSwTuJYqo6K" target="_blank" rel="nofollow noopener">
+<a href="https://rover.ebay.com/rover/1/1185-53479-19255-0/1?icep_id=114&ipn=icep&toolid=20004&campid=5338413218&mpre=https%3A%2F%2Fwww.ebay.es%2Fitm%2FCds-Cd-Slayer-Divine-Intervention-EXCELENTE-CONDICION%2F172905101786%3Fhash%3Ditem2841f279da%3Ag%3AL1EAAOSwIINZ1K8F%3Ark%3A1%3Apf%3A0" target="_blank" rel="nofollow noopener">
 <img
   data-sizes="auto"
-  data-src="/images/7-notas-7-colores-hecho-es-simple-comprar-cd.jpg"
-  alt="7 Notas 7 Colores, Álbum: Hecho es simple (CD, 1997)"
+  data-src="/images/slayer-divine-intervention-cd.jpg"
+  alt="Slayer, Álbum: Divine Intervention (CD, 1994)"
   class="lazyload banner"> 
 </a>
 
-<p><a href="https://rover.ebay.com/rover/1/1185-53479-19255-0/1?icep_id=114&ipn=icep&toolid=20004&campid=5338384035&mpre=https%3A%2F%2Fwww.ebay.es%2Fitm%2F7-Notas-7-Colores-Hecho-Es-Simple-CD-1997%2F322429144900%3Fhash%3Ditem4b12464f44%3Ag%3ApmsAAOSwTuJYqo6K" target="_blank" rel="external nofollow noopener">Aquí el disco con que cambió a <strong class="italic">Julio</strong>. El flow más temible cantado en español.<br>HAZTE CON ÉL</a></p>
+<p><a href="https://rover.ebay.com/rover/1/1185-53479-19255-0/1?icep_id=114&ipn=icep&toolid=20004&campid=5338413218&mpre=https%3A%2F%2Fwww.ebay.es%2Fitm%2FCds-Cd-Slayer-Divine-Intervention-EXCELENTE-CONDICION%2F172905101786%3Fhash%3Ditem2841f279da%3Ag%3AL1EAAOSwIINZ1K8F%3Ark%3A1%3Apf%3A0" target="_blank" rel="external nofollow noopener">¿Te gustan los temazos? ¡Joder, pues no dejes que se te escape! Auténtica tralla desmenuzada en el sexto álbum de la banda y el primero sin Lombardo.</a></p>
 </div>
 <br>
 
-<h2>Más de El Lobo en Tu Puerta</h2>
+<h2>Más música de bandas que aparecen en la entrevista</h2>
 
 <div class="media">
   <div class="media-left">
     <img
   data-sizes="auto"
-  data-src="/images/El-lobo-en-tu-puerta-bestias-del-sur-salvaje-comprar-vinilo.jpg"
-  alt="El Lobo En Tu Puerta, álbum: Bestias Del Sur Salvaje, comprar vinilo"
+  data-src="/images/sepultura-chaos-ad-vinilo-doble-comprar.jpg"
+  alt="Sepultura, álbum: Chaos A.D., comprar vinilo"
   class="lazyload">
   </div>
 <div class="media-body">
-    <div class="media-heading">Álbum: Bestias del Sur Salvaje (vinilo, 2017)</div>
-    <div class="media-content"><p>Rock, groove, high energy, heavy, blues, despiporre... Huele a sangre fresca y el lobo siempre acecha.</p></div>
-    <p><strong><a href="https://rover.ebay.com/rover/1/1185-53479-19255-0/1?icep_id=114&ipn=icep&toolid=20004&campid=5338384035&mpre=https%3A%2F%2Fwww.ebay.es%2Fitm%2FEL-LOBO-EN-TU-PUERTA-Bestias-Del-Sur-Salvaje-LP-the-black-keys-garage-mc5%2F152838190797%3Fhash%3Ditem2395ddb6cd%3Ag%3AHX8AAOSwCtJaPStI" target="_blank" rel="external noopener"> Comprar</a></strong></p>
+    <div class="media-heading">Sepultura, Álbum: Chaos A-D. (vinilo doble, 1993)</div>
+    <div class="media-content"><p>un disco mayúsculo desde los primeros latidos del principio al final más oscuro, histriónico y distópico.</p></div>
+    <p><strong><a href="https://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_id=114&ipn=icep&toolid=20004&campid=5338413218&mpre=https%3A%2F%2Fwww.ebay.com%2Fitm%2FSEPULTURA-Chaos-AD-remastered-Vinyl-gatefold-180-gram-vinyl-2xLP%2F113235595762%3Fepid%3D2231373035%26hash%3Ditem1a5d5e11f2%3Ag%3AHn4AAOSwMsJbkU-S%3Ark%3A20%3Apf%3A0" target="_blank" rel="external noopener"> Comprar</a></strong></p>
   </div>
 </div>
 
@@ -236,14 +236,29 @@ Pregunta: ¿Sigues escuchando ese disco? ¿Con qué frecuencia?
   <div class="media-left">
     <img
   data-sizes="auto"
-  data-src="/images/el-lobo-en-tu-puerta-grabaciones-sumergidas-cd.jpg"
-  alt="El lobo en tu puerta, Álbum: Grabaciones Sumergidas (bandcamp, 2015)"
+  data-src="/images/pantera-far-beyond-driven-doble-vinilo-comprar.jpg"
+  alt="Pantera, Álbum: Far Beyond Driven (1994)"
   class="lazyload">
   </div>
 <div class="media-body">
-    <div class="media-heading">Grabaciones Sumergidas (Digital, 2015)</div>
-    <div class="media-content"><p>Este disco debe estar todo vendido porque no lo encuentro en formato físico. Eso demuestra que ya tardas en pillártelo, aunque sea en digital.</p></div>
-    <p><strong><a href="https://elloboentupuerta.bandcamp.com/album/grabaciones-sumergidas-2015-2" target="_blank" rel="external noopener"> Comprar</a></strong></p>
+    <div class="media-heading">Pantera, Álbum: Far Beyond Driven (vinilo doble, 1994)</div>
+    <div class="media-content"><p>Una debilidad confesa del que escribe estas letras, que además posee esta maravilla en la vitrina de su estantería, con la portada que en su día fue censurada y que ahora ya puede lucir en todo su esplendor. Curiosa manera de entender la trepanación.</p></div>
+    <p><strong><a href="https://rover.ebay.com/rover/1/1185-53479-19255-0/1?icep_id=114&ipn=icep&toolid=20004&campid=5338413218&mpre=https%3A%2F%2Fwww.ebay.es%2Fitm%2FPantera-Far-Beyond-Driven-2-x-LP-Innersleeves-2014-Europe-EX-NM%2F322451957756%3Fhash%3Ditem4b13a267fc%3Ag%3ATEoAAOSwB-1Yx9sq%3Ark%3A6%3Apf%3A0" target="_blank" rel="external noopener"> Comprar</a></strong></p>
+  </div>
+</div>
+
+<div class="media">
+  <div class="media-left">
+    <img
+  data-sizes="auto"
+  data-src="/images/slayer-hell-awaits-vinilo-comprar.jpg"
+  alt="Slayer, Álbum: Hell Awaits (1994)"
+  class="lazyload">
+  </div>
+<div class="media-body">
+    <div class="media-heading">Slayer, Álbum: Hell Awaits (1985)</div>
+    <div class="media-content"><p>Slayer dando un paso más adelante hacia el reinado en sangre del Trash más encabronado y característico que habría de marcar toda su carrera. Un imperdible en cualquier colección.</p></div>
+    <p><strong><a href="https://rover.ebay.com/rover/1/1185-53479-19255-0/1?icep_id=114&ipn=icep&toolid=20004&campid=5338413218&mpre=https%3A%2F%2Fwww.ebay.es%2Fitm%2FSlayer-Hell-Awaits-LP-Remastered-180g-Black-Vinyl-2016-with-Poster%2F113149584401%3Fhash%3Ditem1a583da411%3Ag%3AO7MAAOSwYuNbShaW%3Ark%3A2%3Apf%3A0" target="_blank" rel="external noopener"> Comprar</a></strong></p>
   </div>
 </div>
 
