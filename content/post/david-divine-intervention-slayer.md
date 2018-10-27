@@ -15,33 +15,40 @@ images = [
 ] # Suggested, controls default Open Graph images
 draft = false
 +++  
-<h2>Title</h2>
+<h2>Diseño. Terror. Música Extrema. Buen corazón.</h2>
 
-<p>BIO</p>
+<p>No conozco personalmente a <strong>David López</strong>. Estamos en esa época en la que <strong>sabemos cosas de gente a la que no conocemos</strong> ni hemos visto nunca en carne y hueso. <strong>Tiempos modernos</strong>, con sus ventajas y sus desventajas. Y aquí me quedo, que no quiero ponerme en modo <strong>"abuelo cebolleta"</strong>.</p>
+
+<p>El caso es que basta un simple vistazo por sus redes sociales para darse cuenta de que es un <strong>melómano incorregible</strong>, un <strong>cinéfilo incansable</strong> y un amante del <strong>diseño gráfico y la ilustración</strong>, con un único hilo conductor: el <strong>ruido</strong>, las <strong>vísceras</strong>, el <strong>terror</strong>, lo <strong>siniestro</strong>. El <strong>MAL ROLLO</strong> en cualquiera de sus vertientes auditivas o plásticas.</p>
 
 <div class="alert alert-success">
 <img
   data-sizes="auto"
   data-src="/images/david-divine-intervention-slayer.jpg"
-  alt="El Lobo en Tu puerta, fotos en directo"
+  alt="David López con algunos de sus discos favoritos de mediados de los noventa: Slayer, Pantera y Sepultura"
   class="lazyload">
-<p>El Lobo en Tu Puerta partiendo la pana en directo. Montaje a partir de fotos de <strong><a href="https://www.facebook.com/J.M.Grimaldi.Fotografo/" target="_blank" rel="external noopener">J.M. Grimaldi</a></strong></p>
+<p>Aquí David con algunos de sus <strong>discos favoritos</strong> de mediados de los noventa: <strong>Slayer, Pantera y Sepultura</strong></p>
 </div>
 
+<p>Pero mi intuición me dice que, <strong>detrás de toda esa atracción por el lado oscuro de las artes</strong>, se esconde un tipo <strong>bonachón</strong>. Amigo de sus amigos, de su pareja, de sus familiares y de sus mascotas.</p>
 
-<p>Más bio</p> 
+<p>O sea que <strong>Terror sí, pero Amor también</strong>. Es una constante en <strong>todos mis amigos heavies</strong>, pese a los estereotipos con que somos percibidos desde fuera.</p>
 
-<div class="alert alert-info">
-<h3>Vídeo</h3>
-<p>Texto vídeo</p>
-<div class="video-container">
-<iframe width="100%" height="415" src="https://www.youtube.com/embed/rAAFqJFVzKM?start=100" title="El Lobo en Tu Puerta, tema: 17, directo en Pub Kiss (Algeciras)" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<p>Por eso sé que, sin conocerle más allá de Facebook, David también es así. <strong>"Diseño. Terror. Música Extrema. Buen corazón"</strong>.</p>
+
+<p>El caso es que su interés por la música le ha llevado a querer vincular su actividad profesional con sus gustos particulares. De ahí que publique con regularidad sus diseños de <strong>etiquetas de cervezas artesanales</strong>, <strong>posters de conciertos</strong>, <strong>artworks para bandas</strong>, <strong>merchandising</strong>, etc.</p>
+
+<div class="alert alert-success">
+<img
+  data-sizes="auto"
+  data-src="/images/reigns-the-chaos-camiseta-cabron.jpg"
+  alt="David López con algunos de sus discos favoritos de mediados de los noventa: Slayer, Pantera y Sepultura"
+  class="lazyload">
+<p>Mi <strong>consejo</strong> es que, antes de leer la entrevista a continuación, te pases por <strong>sus redes</strong> y le eches un vistazo a sus últimas creaciones.</p>
+<p>Aquí, <strong>un servidor</strong> luciendo en camiseta su diseño <strong>"Cabrón"</strong> impresa por el gran <strong><a href="https://www.facebook.com/camigraphic/" target="_blank" rel="external noopener">Camigraphic Lab</a></strong>, disponible <a href="https://gnomodesign.bigcartel.com/product/camiseta-cabron-chico-y-chica" target="_blank" rel="external noopener">aquí</a></p>
 </div>
-</div>
 
-<p>Bio</p>
-
-<h3>Redes</h3>
+<h3>¡Síguele en sus redes y hazle un encargo!</h3>
 <table>
 <thead>
 <tr>
