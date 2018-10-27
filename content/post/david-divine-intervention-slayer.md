@@ -1,15 +1,15 @@
 +++
 title = "David & Divine Intervention (Slayer)"
 date = 2018-10-27
-description = "El creador de 'Gnomo Design' y 'Reigns The Chaos' diseña, ilustra y escribe a golpe de trallazos de Slayer"
+description = "El creador de 'Gnomodesign' y 'Reigns The Chaos' diseña, ilustra y escribe a golpe de trallazos de Slayer"
 keywords = [
   "Slayer",
   "Reigns The Chaos",
-  "Gnomo Design",
+  "Gnomodesign",
   "Pantera",
   "Sepultura"
 ]
-tags = ["Slayer", "Reigns The Chaos", "Gnomo Design", "Pantera", "Sepultura"] 
+tags = ["Slayer", "Reigns The Chaos", "Gnomodesign", "Pantera", "Sepultura"] 
 images = [
     "https://albumers.org/images/david-divine-intervention-slayer.jpg"
 ] # Suggested, controls default Open Graph images
@@ -52,7 +52,7 @@ draft = false
 <table>
 <thead>
 <tr>
-<th>Gnomo Design</th>
+<th>Gnomodesign</th>
 </tr>
 </thead>
 <tbody>
@@ -221,9 +221,9 @@ Pregunta: ¿Por qué te influenció tanto? ¿Cambió tu manera de pensar y enten
 <img
   data-sizes="auto"
   data-src="/images/poster-concierto-creado-por-gnomo-design.jpg"
-  alt="poster concierto Harm Done creado por Gnomo Design"
+  alt="poster concierto Harm Done creado por Gnomodesign"
   class="lazyload">
-<p>Poster para el concierto de <strong>Harm Done</strong> en Murcia, creado por Gnomo Design.</p>
+<p>Poster para el concierto de <strong>Harm Done</strong> en Murcia, creado por Gnomodesign.</p>
 </div> 
 
 
