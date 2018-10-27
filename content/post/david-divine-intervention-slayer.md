@@ -117,7 +117,16 @@ Pregunta: ¿Dónde y cómo descubriste el disco que te cambió la vida?
 
 <p>No te lo puedo asegurar a ciencia cierta dónde y cómo lo descubrí, pero <strong>con 13, 14, 15, 16 años y más</strong>, compraba las revistas de música de por entonces: <strong>Kerrang</strong>, española e inglesa, pero sobre todo, la <strong>Metal Hammer</strong>, con la que me mantenía <strong>informado sobre bandas</strong> que ya conocía, otras que no, festivales, conciertos...</p>
 
-<p>También escuchaba el programa de un señor llamado <strong>Mariano Muniesa</strong>, al <strong>Mariskal</strong>, y asistía todos los jueves noche a la <strong>radio local</strong> para presenciar y disfrutar en directo, de un <strong>programa sobre heavy metal</strong> y demás estilos, llamado <strong>¡Con fuerza Heavy!</strong> Aún se sigue haciendo dicho programa. 
+<p>También escuchaba el programa de un señor llamado <strong>Mariano Muniesa</strong>, al <strong>Mariskal</strong>, y asistía todos los jueves noche a la <strong>radio local</strong> para presenciar y disfrutar en directo, de un <strong>programa sobre heavy metal</strong> y demás estilos, llamado <strong>¡Con fuerza Heavy!</strong> Aún se sigue haciendo dicho programa.</p>
+
+<div class="alert alert-success">
+<img
+  data-sizes="auto"
+  data-src="/images/metal-hammer-portadas-1994.jpg"
+  alt="Metal Hammer, portadas 1994. Ediciones UK y Grecia"
+  class="lazyload">
+<p>Algunas portadas de <strong>Metal Hammer de 1994</strong>. A la izquierda la edición de julio de <strong>UK</strong> y a la derecha la de diciembre en <strong>Grecia</strong>. Fuera como fuese, <strong>Slayer, Sepultura y Pantera</strong> siempre eran noticia en ese año, y lo eran para bien.</p>
+</div> 
 
 <p><strong>Allí conocí mucha música</strong> y me ayudó a conocer ciertas bandas y estilos, que en casa no escuchaba (<strong>porque buscaba más allá</strong>). Los amigos que allí nos juntábamos, cambiábamos opiniones, <strong>poníamos sobre la mesa nuestros descubrimientos</strong>, nos alborotábamos diciendo que <strong>esa banda era mejor que la otra</strong>...</p>
 
@@ -133,6 +142,15 @@ Pregunta: ¿Tienes alguna anécdota que te haya pasado escuchando el disco o al 
 
 <p>La verdad, <strong>para un chico de catorce/quince años</strong>, pues <strong>impresionaba</strong> un rato. El libreto me lo estudié entero.</p>
 
+<div class="alert alert-success">
+<img
+  data-sizes="auto"
+  data-src="/images/divine-intervention-cd-interior-grabado-cuchilla.jpg"
+  alt="Interior CD Slayer Divine Intervention"
+  class="lazyload">
+<p>La verdad es que <strong>algo de repeluco da</strong>... Más de uno lo habrá hecho en el <strong>fervor del fanatismo</strong>.</p>
+</div> 
+
 <p>También <strong>me ponía de mal humor</strong> leer o escuchar que <strong>Slayer era una banda nazi</strong>. Yo no quería que una de mis grandes bandas, estuviera de ese lado. ¡Tal cual!</p>
 
 <p>Siempre <strong>me he querido tatuar Slayer en el antebrazo</strong> simulando la <strong>fotografía de la galleta</strong>.</p>
@@ -147,6 +165,16 @@ Pregunta: ¿Por qué te influenció tanto? ¿Cambió tu manera de pensar y enten
 <p>Me influenció, porque era lo más diferente por entonces que yo escuchaba, <strong>me encontraba a gusto con ese registro</strong> y quería seguir ahondando en la materia.</p>
 
 <p>Después, por unas cosas o por otras, fui creciendo a un ritmo pausado, pues <strong>las limitaciones para descubrir música eran evidentes</strong>, y <strong>mi entorno, pues tampoco era, ahora siendo mayor, el que me hubiera gustado</strong> o ahora hubiera deseado. Pero <strong>una fortuna lo que tuve de joven</strong>.</p>
+
+<div class="alert alert-info">
+<h3>Pantera - Throes of Rejection (Far Beyond Driven, 1994)</h3>
+<p>Es cierto que <strong>antes de la llegada de Internet</strong> a todos los hogares, la cosa era <strong>difícil</strong>. Tenías que tirar de las <strong>cintas del primo mayor de un colega</strong>, o de lo que salían en las <strong>revistas especializadas</strong>.</p>
+<p>También es verdad que eran unos tiempos en los que todo iba más despacio: <strong>no era necesario escuchar una banda nueva cada día</strong>. Había tiempo para <strong>diseccionar cada disco durante meses</strong>, leerte el <strong>libreto de arriba abajo</strong>...</p>
+<p><strong>Había tiempo para escuchar música</strong> y <strong>aprenderte los nombres de las canciones</strong>.</p>
+<div class="video-container">
+<iframe width="100%" height="415" src="https://www.youtube.com/embed/ikAJBucW_2Q" title="Pantera, tema: Throes of Rejection, Álbum: Far Beyond Driven (1994)" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
+</div>
 
 <p>Después, con el paso de los años, <strong>teniendo ya internet</strong>, y tras mucho tiempo de <strong>no encontrar en las redes</strong> las <strong>reseñas sobre bandas</strong> que a mí de verdad me interesaban, <strong>decidí en 2009</strong> abrir la web <strong><a href="https://www.reignsthechaos.com/" target="_blank" rel="external noopener"> Reigns The Chaos</a></strong> -blog en un principio- y hasta nuestros días.</p>
 
@@ -173,9 +201,23 @@ Pregunta: ¿Por qué te influenció tanto? ¿Cambió tu manera de pensar y enten
 
 <p><strong>Sin el metal extremo que hoy escucho, sinceramente, no podría vivir</strong>. Siento la música muy en mi interior, bien emocionándome, como <strong>poniéndome hecho un animal</strong>. Por supuesto, <strong>disfruto muchísimo de los artworks, libretos, letras o submundo</strong> que encuentras bajo la música extrema.</p>
 
+<div class="alert alert-error">
+<p>Damos fe de la importancia para David de la música extrema. Como muestra, un botón: <strong>aquí una de las últimas bandas</strong> reseñadas en su web <strong>"Reigns The Chaos"</strong>. Ojo, que puede provocar <strong>regurgitos</strong>.</p>
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=1826996493/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://mylingar.bandcamp.com/album/d-da-dr-mmar">Döda Drömmar by Mylingar</a></iframe>
+</div>
+
 <p>Para mí, el metal extremo, bien sea <strong>black metal, doom metal, funeral, grindcore, crust, sludge...</strong>, es <strong>parte vital de mi vida</strong>. Y por ello, la vida no la entiendo de otra forma que no sea con esta música.</p>
 
 <p>Y consecuencia de esto, <strong>y de mi amor por el diseño gráfico y la ilustración</strong>, del estilo que sea, pero preferiblemente, los artworks ligados a mis gustos musicales que las bandas sacan en sus trabajos, <strong>haya acabo yo trabajando o intentando vivir de este sector</strong>.</p>
+
+<div class="alert alert-success">
+<img
+  data-sizes="auto"
+  data-src="/images/poster-concierto-creado-por-gnomo-design.jpg"
+  alt="poster concierto Harm Done creado por Gnomo Design"
+  class="lazyload">
+<p>Poster para el concierto de <strong>Harm Done</strong> en Murcia, creado por Gnomo Design.</p>
+</div> 
 
 
 <div class="alert alert-info">
@@ -190,7 +232,14 @@ Pregunta: ¿Se sigue notando hoy en día el poso que te dejó?
 
  <p>Pero <strong>la segunda vez que los vi</strong>, fue el <strong>02/06/2017</strong> en la <strong>Sala Riviera</strong> de Madrid, y he de decir que <strong>los disfruté muchísimo más</strong>, consiguiendo llegar <strong>más lejos mental y físicamente</strong> de lo que deseaba.</p>
 
-
+<div class="alert alert-info">
+<h3>Slayer - Reign In Blood (Directo Sonisphere, 2010)</h3>
+<p>Despedimos la entrevista con el tema más emblemático de la banda, ejecutado con la formación original, en el impresionante ambiente del Sonisphere de 2010, año en que les vio por primera vez David, tal y como apuntaba él mismo en las líneas de arriba.</p>
+<p>¡Los pelos como escarpias solo de imaginarme qué debió sentirse al estar en medio de ese océano de headbangers!</p>
+<div class="video-container">
+<iframe width="100%" height="415" src="https://www.youtube.com/embed/-q66zKQ3-XM" title="Slayer, tema: Reign In Blood, Directo Sonisphere (2010)" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
+</div>
 
 <div class="alert alert-info">
 Pregunta: ¿Sigues escuchando ese disco? ¿Con qué frecuencia? 
@@ -227,7 +276,7 @@ Pregunta: ¿Sigues escuchando ese disco? ¿Con qué frecuencia?
   </div>
 <div class="media-body">
     <div class="media-heading">Sepultura, Álbum: Chaos A-D. (vinilo doble, 1993)</div>
-    <div class="media-content"><p>un disco mayúsculo desde los primeros latidos del principio al final más oscuro, histriónico y distópico.</p></div>
+    <div class="media-content"><p>un disco mayúsculo desde los primeros latidos del principio al final más oscuro, histriónico y distópico. Este disco te tiene que gustar a la fuerza.</p></div>
     <p><strong><a href="https://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_id=114&ipn=icep&toolid=20004&campid=5338413218&mpre=https%3A%2F%2Fwww.ebay.com%2Fitm%2FSEPULTURA-Chaos-AD-remastered-Vinyl-gatefold-180-gram-vinyl-2xLP%2F113235595762%3Fepid%3D2231373035%26hash%3Ditem1a5d5e11f2%3Ag%3AHn4AAOSwMsJbkU-S%3Ark%3A20%3Apf%3A0" target="_blank" rel="external noopener"> Comprar</a></strong></p>
   </div>
 </div>
@@ -242,7 +291,7 @@ Pregunta: ¿Sigues escuchando ese disco? ¿Con qué frecuencia?
   </div>
 <div class="media-body">
     <div class="media-heading">Pantera, Álbum: Far Beyond Driven (vinilo doble, 1994)</div>
-    <div class="media-content"><p>Una debilidad confesa del que escribe estas letras, que además posee esta maravilla en la vitrina de su estantería, con la portada que en su día fue censurada y que ahora ya puede lucir en todo su esplendor. Curiosa manera de entender la trepanación.</p></div>
+    <div class="media-content"><p>Una debilidad confesa, con la portada que en su día fue censurada y que ahora ya puede lucir en todo su esplendor. Curiosa manera de entender la trepanación.</p></div>
     <p><strong><a href="https://rover.ebay.com/rover/1/1185-53479-19255-0/1?icep_id=114&ipn=icep&toolid=20004&campid=5338413218&mpre=https%3A%2F%2Fwww.ebay.es%2Fitm%2FPantera-Far-Beyond-Driven-2-x-LP-Innersleeves-2014-Europe-EX-NM%2F322451957756%3Fhash%3Ditem4b13a267fc%3Ag%3ATEoAAOSwB-1Yx9sq%3Ark%3A6%3Apf%3A0" target="_blank" rel="external noopener"> Comprar</a></strong></p>
   </div>
 </div>
