@@ -102,7 +102,7 @@ draft = false
 <p>Temas como <strong>"Hitler no existe"</strong>, <strong>"Jeremy Irons haciendo caca en mi casa"</strong> o <strong>"Me gusta mear, em gusta la monarquía"</strong> dan buena cuenta de la línea editorial. Portadón a cargo del inigualable <strong><a href="https://www.facebook.com/Mik-Baro-Ilustraci%C3%B3n-dise%C3%B1o-619680424728051/" target="_blank" rel="external noopener"> Mik Baro</a></strong></p>
 </div>
 
-<p><strong>Si te gusta el punk</strong>, si tienes sentido del humor, si <strong>sientes escalofríos</strong> cada vez que ves un <strong>puto retrovisor</strong> interior de coche del que cuelga una <strong>banderita roja01  ºq2  gualda y roja</strong>; si <strong>encojes el ano</strong> cuando vislumbras trozos de <strong>telas patrioticas por los balcones</strong> de tu ciudad; si te caía bien ese <strong>dependiente del Mercadona</strong> de tu barrio de sonrisa de perlas hasta que viste que se había hecho <strong>una cutre pulsera casera</strong> con la bandera de <strong>su puto país</strong>; entonces <strong class="italic">ESPAÑA ES TU NUEVA BANDA FETICHE</strong>.</p>
+<p><strong>Si te gusta el punk</strong>, si tienes sentido del humor, si <strong>sientes escalofríos</strong> cada vez que ves un <strong>puto retrovisor</strong> interior de coche del que cuelga una <strong>banderita roja, gualda y roja</strong>; si <strong>encojes el ano</strong> cuando vislumbras trozos de <strong>telas patrioticas por los balcones</strong> de tu ciudad; si te caía bien ese <strong>dependiente del Mercadona</strong> de tu barrio de sonrisa de perlas hasta que viste que se había hecho <strong>una cutre pulsera casera</strong> con la bandera de <strong>su puto país</strong>; entonces <strong class="italic">ESPAÑA ES TU NUEVA BANDA FETICHE</strong>.</p>
 
 <div class="alert alert-info">
 <h3>ESPAÑA - Si Mussolini y Franco se tiran por un barranco​, ¿tú también? (Valencia, 08/11/14)</h3>
@@ -323,7 +323,7 @@ Pregunta: ¿Por qué te influenció el <span class="italic">Diary"</span> de Sun
 </div>
 </div>
 
-<p><strong>Radio Funny</strong> con <strong>Vicente Maicas (El Croqueta)</strong>, <strong>iguel Ángel Travesía</strong>, <strong>El Cura</strong>, <strong>El Fletán</strong> (con quien toco en <strong>España</strong>) y <strong>Álvaro García<strong> (<strong>Criminal Records</strong>, que un día desapareció sin dejar rastro y que a mi siempre me trató con especial cariño y fue quien me hizo registrar mi único tema en la SGAE para editar un recopilatorio) <strong>me abrieron la cabeza a otros sonidos</strong> que sin ser en principio algo que me llamara luego llegué a apreciar, como por ejemplo: <strong>Quién puede matar un niño</strong> de <strong>Penelope Trip</strong>, entre otras cosas.</strong>
+<p><strong>Radio Funny</strong> con <strong>Vicente Maicas (El Croqueta)</strong>, <strong>iguel Ángel Travesía</strong>, <strong>El Cura</strong>, <strong>El Fletán</strong> (con quien toco en <strong>España</strong>) y <strong>Álvaro García</strong> (<strong>Criminal Records</strong>, que un día desapareció sin dejar rastro y que a mi siempre me trató con especial cariño y fue quien me hizo registrar mi único tema en la SGAE para editar un recopilatorio) <strong>me abrieron la cabeza a otros sonidos</strong> que sin ser en principio algo que me llamara luego llegué a apreciar, como por ejemplo: <strong>Quién puede matar un niño</strong> de <strong>Penelope Trip</strong>, entre otras cosas.</strong>
 
 <div class="alert alert-info">
 <h3>Penelope Trip - Infanticida (¿Quién puede matar a un niño?, 1996)</h3>
