@@ -36,7 +36,7 @@ draft = false
 
 <p>Por eso sé que, sin conocerle más allá de Facebook, David también es así. <strong>"Diseño. Terror. Música Extrema. Buen corazón"</strong>.</p>
 
-<p>El caso es que su interés por la música le ha llevado a querer vincular su actividad profesional con sus gustos particulares. De ahí que publique con regularidad sus diseños de <strong>etiquetas de cervezas artesanales</strong>, <strong>posters de conciertos</strong>, <strong>artworks para bandas</strong>, <strong>merchandising</strong>, etc.</p>
+<p>El caso es que su interés por la música le ha llevado a querer vincular su actividad profesional con sus gustos particulares. De ahí que publique en su web <strong><a href="https://www.gnomodesign.es/" target="_blank" rel="external noopener">Gnomodesign</a></strong> algunos de sus diseños de <strong>etiquetas de cervezas artesanales</strong>, <strong>posters de conciertos</strong>, <strong>artworks para bandas</strong>, <strong>merchandising</strong>, etc.</p>
 
 <div class="alert alert-success">
 <img
