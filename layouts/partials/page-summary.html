@@ -7,6 +7,10 @@
       <p class="muted">{{ partial "post/meta.html" . }}</p>
     {{ end }}
   </header>
+  <a itemprop="url" href="{{ .RelPermalink }}">
+    {{ with .Params.images }}
+  <img src="{{ index . 0 }}"></a>
+  {{ end }}
   {{ if .Description }}
     <blockquote itemprop="headline">{{ .Description }}</blockquote>
   {{ end }}
