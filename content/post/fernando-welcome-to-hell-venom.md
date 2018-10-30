@@ -22,15 +22,23 @@ draft = false
 
 <p>Por aquellos entonces Fernando <strong>trabajaba por las noches</strong> y <strong>ensayaba por las mañanas</strong> con el resto de sus compañeros, lo que provocaba que muchas veces acudiera <strong>sin dormir</strong>. Pero como apuntaba Luisma más arriba, Fernando lo tenía claro: primero iba <strong>Haemorrhage</strong> y luego todo lo demás.</p>
 
-
+<p>Así empieza la historia de una banda que <strong>en 2020</strong> cumplirá la friolera de <strong>30 años</strong> en activo, girando por todo el mundo, <strong>operando sobre el escenario</strong> con la precisión del <strong>Dr. Obnoxious</strong>, el cirujano que ilustra buena parte de su imaginario y que <strong>va por quirófano sin bisturí</strong> pero con <strong>motosierra</strong>.</p>
  
+<div class="alert alert-success">
+<img
+  data-sizes="auto"
+  data-src="/images/Dr-Obnoxious-Haemorrhage.jpg"
+  alt="Dr Obnoxious, el cirujano sádico de Haemorrhage"
+  class="lazyload">
+<p>La imagen del <strong>Dr. Obnoxious</strong>, presente en buena parte de su discografía y videoclips oficiales. Entendemos que el <strong>título de cirujano</strong> se lo sacó en <strong>"Cárnicas Serrano"</strong> o, lo que es peor, en la <strong>Universidad Rey Juan Carlos</strong>.</p>
+</div>
 
 <p>El caso es que basta un simple vistazo por sus redes sociales para darse cuenta de que es un <strong>melómano incorregible</strong>, un <strong>cinéfilo incansable</strong> y un amante del <strong>diseño gráfico y la ilustración</strong>, con un único hilo conductor: el <strong>ruido</strong>, las <strong>vísceras</strong>, el <strong>terror</strong>, lo <strong>siniestro</strong>. El <strong>MAL ROLLO</strong> en cualquiera de sus vertientes auditivas o plásticas.</p>
 
 <div class="alert alert-success">
 <img
   data-sizes="auto"
-  data-src="/images/david-divine-intervention-slayer.jpg"
+  data-src="/images/fernando-errazquin-welcome-to-hell-venom.jpg"
   alt="David López con algunos de sus discos favoritos de mediados de los noventa: Slayer, Pantera y Sepultura"
   class="lazyload">
 <p>Aquí David con algunos de sus <strong>discos favoritos</strong> de mediados de los noventa: <strong>Slayer, Pantera y Sepultura</strong></p>
