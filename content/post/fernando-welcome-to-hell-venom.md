@@ -22,7 +22,18 @@ draft = false
 
 <p>Por aquellos entonces Fernando <strong>trabajaba por las noches</strong> y <strong>ensayaba por las mañanas</strong> con el resto de sus compañeros, lo que provocaba que muchas veces acudiera <strong>sin dormir</strong>. Pero como apuntaba Luisma más arriba, Fernando lo tenía claro: primero iba <strong>Haemorrhage</strong> y luego todo lo demás.</p>
 
-<p>Así empieza la historia de una banda que <strong>en 2020</strong> cumplirá la friolera de <strong>30 años</strong> en activo, girando por todo el mundo, <strong>operando sobre el escenario</strong> con la precisión del <strong>Dr. Obnoxious</strong>, el cirujano que ilustra buena parte de su imaginario y que <strong>va por quirófano sin bisturí</strong> pero con <strong>motosierra</strong>.</p>
+
+
+<div class="alert alert-info">
+<h3>HAEMORRHAGE - Far beyond Pathology (Capítulo I)</h3>
+<p>Aquí el primer episodio del antes mencionado documental <strong>"Haemorrhage - Far beyond Pathology"</strong>.</p>
+<p>La historia de sus inicios contada por los miembros presentes y pasados de la banda, sus <strong>primeras demos</strong> enviadas a <strong>Morbid Recods</strong>, sello alemán que se convertiria en su discográfica hasta su disolución, momento en que ficharían por <strong>Relapse Records</strong>.</p>
+<div class="video-container">
+<iframe width="100%" height="415" src="https://www.youtube.com/embed/7BMYdyvBxEo" title="HAEMORRHAGE - Far beyond Pathology (Capítulo I)" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
+</div>
+
+<p>Así empieza la historia de una banda que <strong>en 2020</strong> cumplirá la friolera de <strong>30 años</strong> en activo, girando por todo el mundo, <strong>operando sobre el escenario</strong> con la precisión del <strong>Dr. Obnoxious</strong>, el cirujano que ilustra buena parte de su imaginario y que <strong>va por quirófano con cuchillos de cocina y motosierras</strong>: el bisturí se le queda corto.</p>
  
 <div class="alert alert-success">
 <img
@@ -30,10 +41,21 @@ draft = false
   data-src="/images/Dr-Obnoxious-Haemorrhage.jpg"
   alt="Dr Obnoxious, el cirujano sádico de Haemorrhage"
   class="lazyload">
-<p>La imagen del <strong>Dr. Obnoxious</strong>, presente en buena parte de su discografía y videoclips oficiales. Entendemos que el <strong>título de cirujano</strong> se lo sacó en <strong>"Cárnicas Serrano"</strong> o, lo que es peor, en la <strong>Universidad Rey Juan Carlos</strong>.</p>
+<p>La imagen del <strong>Dr. Obnoxious</strong>, creación de Luisma y presente en buena parte de su discografía y videoclips oficiales. Entendemos que el <strong>título de cirujano</strong> se lo sacó en <strong>"Cárnicas Serrano"</strong> o, lo que es peor, en la <strong>Universidad Rey Juan Carlos</strong>.</p>
 </div>
 
-<p>El caso es que basta un simple vistazo por sus redes sociales para darse cuenta de que es un <strong>melómano incorregible</strong>, un <strong>cinéfilo incansable</strong> y un amante del <strong>diseño gráfico y la ilustración</strong>, con un único hilo conductor: el <strong>ruido</strong>, las <strong>vísceras</strong>, el <strong>terror</strong>, lo <strong>siniestro</strong>. El <strong>MAL ROLLO</strong> en cualquiera de sus vertientes auditivas o plásticas.</p>
+<p>En todo este tiempo ha llovido muchísima sangre. La banda ha ido creciendo con cada disco, cada split, cada concierto, cada paso. Quizá, por destacar un momento clave, la gira <strong>Grind Over Europe</strong>, junto a titanes de la escena en aquel momento como C.S.S.O. (que por cierto es el grupo que petó la cabeza de Xavo, como podéis ver aquí) y...</p>
+
+<div class="alert alert-info">
+<h3>HAEMORRHAGE - Far beyond Pathology (Capítulo II)</h3>
+<p>Segunda entrega de la obra y milagros satánicos de <strong>Haemorrhage</strong>, sobre la grabación de su primer LP <strong><a href="https://rover.ebay.com/rover/1/1185-53479-19255-0/1?icep_id=114&ipn=icep&toolid=20004&campid=5338422390&mpre=https%3A%2F%2Fwww.ebay.es%2Fitm%2FHAEMORRHAGE-Emetic-Cult-Pic-LP-Necrony-Pungent-Stench-Carcass-Repulsion-Grave%2F232090184212%3Fhash%3Ditem3609a72a14%3Ag%3A3dQAAOSw4shX4nX8%3Ark%3A5%3Apf%3A0" target="_blank" rel="external">"Emetic Club"</a></strong>, las anécdotas que lo enviolvieron y la difícil tarea qye supuso ser uno de los primeros grupos del estilo en <strong>fichar por una discográfica foránea</strong>. Las <strong>envidias hicieron algún estrago</strong>, pero el viaje merecería la pena y no había hecho más que empezar.</p>
+<p>En cualquier caso, hubiera pagado por ver a los <strong>técnicos de grabación del disco</strong>, que no tenían ni idea del estilo (lo que en la práctica <strong>equivale a odiarlo</strong>) y sus caras frente a un <strong>Fernando sin camiseta</strong>, con su <strong>cruz invertida</strong> congaldo del cuello, gritando de <strong>ultratumba</strong> en la semi penumbra. ¡Impagable!</p>
+<div class="video-container">
+<iframe width="100%" height="415" src="https://www.youtube.com/embed/AvZXAuahQgs" title="HAEMORRHAGE - Far beyond Pathology (Capítulo II)" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
+</div>
+
+
 
 <div class="alert alert-success">
 <img
