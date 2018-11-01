@@ -20,7 +20,7 @@ draft = false
 
 <p>Esta frase es de <strong>Luisma</strong>, guitarrista de la que es, sin duda, una de las más importantes bandas de <strong>goregrind</strong> del mundo. Está extraída del <strong>documental "Haemorrhage - Far beyond Pathology"</strong> y la frase describe lo que pensaba <strong>Fernando</strong>, más conocido como <strong>Lugubrious</strong>, en el momento en que se unió a la banda a finales de 1993.</p>
 
-<p>Por aquellos entonces Fernando <strong>trabajaba por las noches</strong> y <strong>ensayaba por las mañanas</strong> con el resto de sus compañeros, lo que provocaba que muchas veces acudiera <strong>sin dormir</strong>. Pero como apuntaba Luisma más arriba, Fernando lo tenía claro: primero iba <strong>Haemorrhage</strong> y luego todo lo demás.</p>
+<p>Por aquellos entonces Fernando <strong>trabajaba por las noches</strong> y <strong>ensayaba por las mañanas</strong> con el resto de sus compañeros, lo que provocaba que muchas veces acudiera <strong>sin dormir</strong>. Pero como apuntaba Luisma más arriba, Fernando lo tenía claro: primero iba <strong><a href="https://haemorrhage.bandcamp.com/" target="_blank" rel="external noopener">Haemorrhage</a></strong> y luego todo lo demás.</p>
 
 
 
@@ -44,7 +44,13 @@ draft = false
 <p>La imagen del <strong>Dr. Obnoxious</strong>, creación de Luisma y presente en buena parte de su discografía y videoclips oficiales. Entendemos que el <strong>título de cirujano</strong> se lo sacó en <strong>"Cárnicas Serrano"</strong> o, lo que es peor, en la <strong>Universidad Rey Juan Carlos</strong>.</p>
 </div>
 
-<p>En todo este tiempo ha llovido muchísima sangre. La banda ha ido creciendo con cada disco, cada split, cada concierto, cada paso. Quizá, por destacar un momento clave, la gira <strong>Grind Over Europe</strong>, junto a titanes de la escena en aquel momento como C.S.S.O. (que por cierto es el grupo que petó la cabeza de Xavo, como podéis ver aquí) y...</p>
+<p>En todo este tiempo <strong>ha llovido muchísima sangre</strong>. La banda ha ido creciendo con cada disco, cada split, cada concierto, cada paso. Quizá, por destacar un momento clave, la gira <strong><a href="https://www.discogs.com/Haemorrhage-CSSO-Dead-Infection-Grind-Over-Europe-96/release/857276" target="_blank" rel="external noopener">Grind Over Europe</a></strong>, junto a bandas muy interesantes de la escena en aquel <strong>1996</strong> como <strong>C.S.S.O.</strong> (que por cierto es el grupo que petó la cabeza de <strong>Xavo</strong>, como podéis ver <strong><a href="https://albumers.org/post/xavo-clotted-symetric-sexual-organ/" target="_blank">aquí</a></strong>) y <strong>Dead Infection</strong>. Ya se puede uno imaginar las mil y una locas y alcohólicas aventuras vividas en los imprudentes rincones de Europa que tuvieron la feliz idea de acoger a unos grupos con ganas de quemar todo cuanto se cruzase en su periplo.</p>
+
+<p>14 días metidos en un autobús de un lado para otro dan para romper y sellar muchas cosas: entre ellas una amistad entre bandas a prueba de todo.</p>
+
+<p>Un año después, en 1997, lanzarían <strong>"Grume"</strong>, considerado por ellos mismos y por sus fans como uno de los discos <strong>más emblemáticos de su carrera</strong>. 
+
+<p>El <strong>cambio de batería (a <strong>José</strong>, miembro original a las baquetas, le perdía la fiesta y los horarios de ensayo no le venían del todo bien, así que <strong>Rojas</strong> vino a sustituirle)</strong>, las ganas de <strong>distanciarse un poco del sonido de su primera grabación</strong> y de las bandas con quienes les comparaban por entonces (básicamente <strong>"Carcass"</strong>) y el hecho de ir conociéndose más los unos a los otros, les llevaron a componer un set de <strong>temas crudos</strong>, directos, <strong>más grind y punk que death</strong>.</p>
 
 <div class="alert alert-info">
 <h3>HAEMORRHAGE - Far beyond Pathology (Capítulo II)</h3>
