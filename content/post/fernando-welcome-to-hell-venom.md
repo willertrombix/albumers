@@ -27,7 +27,7 @@ draft = false
 <div class="alert alert-info">
 <h3>HAEMORRHAGE - Far beyond Pathology (Capítulo I)</h3>
 <p>Aquí el primer episodio del antes mencionado documental <strong>"Haemorrhage - Far beyond Pathology"</strong>.</p>
-<p>La historia de sus inicios contada por los miembros presentes y pasados de la banda, sus <strong>primeras demos</strong> enviadas a <strong>Morbid Recods</strong>, sello alemán que se convertiria en su discográfica hasta su disolución, momento en que ficharían por <strong>Relapse Records</strong>.</p>
+<p>La historia de sus inicios contada por los miembros presentes y pasados de la banda, sus <strong>primeras demos</strong> enviadas a <strong>Morbid Records</strong>, sello alemán que se convertiria en su discográfica hasta su disolución, momento en que ficharían por <strong>Relapse Records</strong>.</p>
 <div class="video-container">
 <iframe width="100%" height="415" src="https://www.youtube.com/embed/7BMYdyvBxEo" title="HAEMORRHAGE - Far beyond Pathology (Capítulo I)" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
@@ -61,7 +61,11 @@ draft = false
 </div>
 </div>
 
+<p><strong><a href="https://amzn.to/2AIBeOt" target="_blank" rel="external noopener">"Grume"</a></strong> gozó de las mieles del éxito de crítica y público, así que llegaría el momento envenenado de darle una continuación que estuviera a la altura de las expectativas. En ese contexto vería la luz <strong><a href="https://rover.ebay.com/rover/1/1185-53479-19255-0/1?icep_id=114&ipn=icep&toolid=20004&campid=5338422390&mpre=https%3A%2F%2Fwww.ebay.es%2Fitm%2FHAEMORRHAGE-CD-Anatomical-Inferno-Bonustracks%2F361914880759%3Fhash%3Ditem5443ced2f7%3Ag%3An0cAAOSw2gxYs3M2%3Ark%3A3%3Apf%3A0" target="_blank" rel="external noopener">"Anatomical Inferno"</a></strong> en <strong>1998</strong>.</p>
 
+<p>Este <strong>tercer disco</strong> se hizo como es el <strong>Grind</strong> en sí mismo: <strong>a toda hostia</strong>. Además incluye algunos descartes que fueron en su día compuestos para ser incluidos en <strong>"Grume"</strong> pero que finalmente no vieron la luz debido a los problemas logísticos del cambio de baterista en aquellos dias.</p>
+
+<p>Quizá, por ponerle un <span class="italic">pero</span> al disco -y no se lo pongo yo, sino los propios miembros de la banda-, <strong>sería el sonido</strong>: no llegaría a estar al nivel de las composiciones. Y es que, como decáimos antes, había prisa por <strong>Morbid Records</strong> de sacar cuanto antes la sucesión de "Grume".</p>
 
 <div class="alert alert-success">
 <img
