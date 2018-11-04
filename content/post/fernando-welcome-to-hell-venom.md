@@ -48,7 +48,7 @@ draft = false
 
 <p>14 días metidos en un autobús de un lado para otro dan para romper y sellar muchas cosas: entre ellas una amistad entre bandas a prueba de todo.</p>
 
-<p>Un año después, en 1997, lanzarían <strong>"Grume"</strong>, considerado por ellos mismos y por sus fans como uno de los discos <strong>más emblemáticos de su carrera</strong>. 
+<p>Un año después, en 1997, lanzarían <strong><a href="https://haemorrhage.bandcamp.com/album/grume-reissue" target="_blank" rel="external noopener">"Grume"</a></strong>, considerado por ellos mismos y por sus fans como uno de los discos <strong>más emblemáticos de su carrera</strong>. 
 
 <p>El <strong>cambio de batería (a <strong>José</strong>, miembro original a las baquetas, le perdía la fiesta y los horarios de ensayo no le venían del todo bien, así que <strong>Rojas</strong> vino a sustituirle)</strong>, las ganas de <strong>distanciarse un poco del sonido de su primera grabación</strong> y de las bandas con quienes les comparaban por entonces (básicamente <strong>"Carcass"</strong>) y el hecho de ir conociéndose más los unos a los otros, les llevaron a componer un set de <strong>temas crudos</strong>, directos, <strong>más grind y punk que death</strong>.</p>
 
@@ -65,34 +65,59 @@ draft = false
 
 <p>Este <strong>tercer disco</strong> se hizo como es el <strong>Grind</strong> en sí mismo: <strong>a toda hostia</strong>. Además incluye algunos descartes que fueron en su día compuestos para ser incluidos en <strong>"Grume"</strong> pero que finalmente no vieron la luz debido a los problemas logísticos del cambio de baterista en aquellos dias.</p>
 
-<p>Quizá, por ponerle un <span class="italic">pero</span> al disco -y no se lo pongo yo, sino los propios miembros de la banda-, <strong>sería el sonido</strong>: no llegaría a estar al nivel de las composiciones. Y es que, como decáimos antes, había prisa por <strong>Morbid Records</strong> de sacar cuanto antes la sucesión de "Grume".</p>
+<p>Quizá, por ponerle un <span class="italic">pero</span> al disco -y no se lo pongo yo, sino los propios miembros de la banda-, <strong>sería el sonido</strong>: no llegaría a estar al nivel de las composiciones. Y es que, como deíamos antes, había prisa en <strong>Morbid Records</strong> por sacar cuanto antes la sucesión de "Grume". Tanta que había unas voces de <strong>Ross</strong>, de la banda <strong><a href="https://amzn.to/2DkEOks" target="_blank" rel="external noopener">"Impaled"</a></strong> que se quedaron fuera debido a la celeridad de todo el proceso de ese disco.</p>
+
+<p>Después vendría el momento de rendir tributo a las bandas que más les habían influenciado. Versiones de formaciones como <strong>"Defecation", "Entombed", "Regurgitate" y hasta "Suicidal Tendencies"</strong> quedarían registradas bajo del rodillo de <strong>Haemorrhage</strong> en el disco <strong>"Loathesongs"</strong>. Un tributo a todo aquello que les hizo querer montar una banda tan putrefacta com ola de sus ídolos.</p>
+
+<p>Como anécdota en la grabación de ese disco, el bueno de <strong>Fernando tenía la nariz rota</strong>, emitiendo un sonido agudito que se colaba por el micro, así que tuvo que <strong>precintarse la nariz</strong> de manera poco ortodoxa para minimizar ese involuntario sonido. Eso es darlo <strong>todo por el grind</strong> y lo demás es pop.</p>
+
+<div class="alert alert-success">
+<img
+  data-sizes="auto"
+  data-src="/images/nariz-rota-grabacion-Loathesongs-haemorrhage.jpg"
+  alt="Fernando de Haemorrhage, con la nariz rota, en la grabación de Loathesongs"
+  class="lazyload">
+<p>Tuvo que ser muy <strong>incómodo</strong> grabar un disco entero con esa especie de <strong>celofán en la nariz</strong>. Pero si escuchas el disco, no se nota ni lo más mínimo. <strong>Potencia gutural a prueba de asfixia</strong>.</p>
+</div>
+
+<p>En <strong>2002</strong> la aventura continuaría con <strong>"Morgue Sweet Home"</strong> y, como ya venía siendo habitual, volvería a superar lo esperado por todos. De hecho,se convertirtía en el disco más vendido de Haemorrhage, demostrando al mundo que su ascenso en el universo del Grind era imparable, como demostró el posterior tour mundial que se marcaron con <strong>Cryptopsy, Spawn y Profanity</strong>.</p>
+
+<div class="alert alert-info">
+<h3>HAEMORRHAGE - Far beyond Pathology (Capítulo III)</h3>
+<p>En este capítulo repasan las anécdotas más importantes de las ediciones de <strong>"Anatomical Inferno"</strong>, <strong>"Loathesongs"</strong> y <strong>"Morgue Sweet Home"</strong>.</p>
+<p> Fue este último disco el que se conviertió en el <strong>best-seller</strong> que les abrió las puertas para pasar de salas medianas a ser cabezas de cartel en <strong>festivales de toda Europa</strong>, descargando toda su mugre ante miles de infectos entregados.</p>
+<p>Eso es petarla pero bien.</p>
+<div class="video-container">
+<iframe width="100%" height="415" src="https://www.youtube.com/embed/0t9J2NULhUM" title="HAEMORRHAGE - Far beyond Pathology (Capítulo III)" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
+</div>
+
+<p>Tras todo este rápido ascenso, a veces tan fulgurante que ni la propia banda tenía hueco para digerirlo, vería la luz el <strong><a href="https://haemorrhage.bandcamp.com/album/apology-for-pathology-reissue" target="_blank" rel="external noopener">"Apology for Pathology"</a></strong>, quinto álbum de estudio y una vuleta a sus orígines en cierta medida, con un sonido mucho más elaborado y bien producido. Lástima que <strong>Morbid Records</strong> tuviera que echar el cierre  en 2008, en parte por algunos <strong>problemas con la censura</strong>, impidiendo así una <strong>mayor proyección del disco</strong>.</p>
+
+<p>Las quejas provenían del <strong>Departamento del Defensor al Menor</strong> en <strong>Alemania</strong>, que argumentaba que la banda usaba <strong>lenguaje totalmente inaceptable y pernicioso</strong>. Algo que no era nuevo: <strong>Haemorrhage</strong> tuvo <strong>problemas de censura</strong> con casi todas sus ediciones en el país germano.</p>
+
+<div class="alert alert-error">
+<p><strong>NDR</strong>: ¿No os recuerda a la <strong>PMRC</strong> (promovida por la <strong>esposa de Al Gore</strong> y responsable del ridículo sello en discos <strong>"Parental Advisory, Explicit Lyrics")</strong> y su persecución de discos de metal en los 90, salpicada de juicios absurdos a músicos?</p> 
+<p>Y que las ironías de la vida hagan que, con un <strong>apellido tan elocuente como GORE</strong>, tenga que dar tanto por saco... Qué <strong>puto asco de gente</strong>.</p>
+</div>
+
+<div class="alert alert-info">
+<h3>HAEMORRHAGE - Far beyond Pathology (Capítulo IV)</h3>
+<p>Empezando por el <strong>"Apology for Pathology"</strong>, pasando por los <strong>problemas con la censura</strong> o la creación de instrumentos ad-hoc por parte de <strong><a href="https://www.666strings.com/artists/haemorrhage/" target="_blank" rel="external noopener">666 Strings</a></strong>, o la, el cuarto y penúltimo capítulo del documental sintetiza cómo la banda viaja primera vez a los <strong>Estados Unidos, Rusia o Japón</strong>, convirtiéndose todo ello en experiencias inenarrables.</p>
+<div class="video-container">
+<iframe width="100%" height="415" src="https://www.youtube.com/embed/2RGUu-FgZ-8" title="HAEMORRHAGE - Far beyond Pathology (Capítulo IV)" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
+</div>
 
 <div class="alert alert-success">
 <img
   data-sizes="auto"
   data-src="/images/fernando-errazquin-welcome-to-hell-venom.jpg"
-  alt="David López con algunos de sus discos favoritos de mediados de los noventa: Slayer, Pantera y Sepultura"
+  alt="Fernandom, Lugubrious en Haemorrhage, nos muestra sus discos favoritos"
   class="lazyload">
-<p>Aquí David con algunos de sus <strong>discos favoritos</strong> de mediados de los noventa: <strong>Slayer, Pantera y Sepultura</strong></p>
+<p>Fernando con algunos de sus discos favoritos fetiche: <strong>To Mega Therion</strong> de <strong>Celtic Frost</strong> y <strong>Symphonies of Sickness</strong> de <strong>Carcass</strong>, enfundado en su camiseta de <strong>Venom</strong>. Trve Kvlt.</p>
 </div>
 
-<p>Pero mi intuición me dice que, <strong>detrás de toda esa atracción por el lado oscuro de las artes</strong>, se esconde un tipo <strong>bonachón</strong>. Amigo de sus amigos, de su pareja, de sus familiares y de sus mascotas.</p>
-
-<p>O sea que <strong>Terror sí, pero Amor también</strong>. Es una constante en <strong>todos mis amigos heavies</strong>, pese a los estereotipos con que somos percibidos desde fuera.</p>
-
-<p>Por eso sé que, sin conocerle más allá de Facebook, David también es así. <strong>"Diseño. Terror. Música Extrema. Buen corazón"</strong>.</p>
-
-<p>El caso es que su interés por la música le ha llevado a querer vincular su actividad profesional con sus gustos particulares. De ahí que publique en su web <strong><a href="https://www.gnomodesign.es/" target="_blank" rel="external noopener">Gnomodesign</a></strong> algunos de sus diseños de <strong>etiquetas de cervezas artesanales</strong>, <strong>posters de conciertos</strong>, <strong>artworks para bandas</strong>, <strong>merchandising</strong>, etc.</p>
-
-<div class="alert alert-success">
-<img
-  data-sizes="auto"
-  data-src="/images/reigns-the-chaos-camiseta-cabron.jpg"
-  alt="David López con algunos de sus discos favoritos de mediados de los noventa: Slayer, Pantera y Sepultura"
-  class="lazyload">
-<p>Mi <strong>consejo</strong> es que, antes de leer la entrevista a continuación, te pases por <strong>sus redes</strong> y le eches un vistazo a sus últimas creaciones.</p>
-<p>Aquí, <strong>un servidor</strong> luciendo en camiseta su diseño <strong>"Cabrón"</strong> impresa por el gran <strong><a href="https://www.facebook.com/camigraphic/" target="_blank" rel="external noopener">Camigraphic Lab</a></strong>, disponible <a href="https://gnomodesign.bigcartel.com/product/camiseta-cabron-chico-y-chica" target="_blank" rel="external noopener">aquí</a></p>
-</div>
 
 <h3>¡Síguele en sus redes y hazle un encargo!</h3>
 <table>
