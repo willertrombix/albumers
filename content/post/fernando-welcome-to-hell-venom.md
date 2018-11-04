@@ -109,6 +109,10 @@ draft = false
 </div>
 </div>
 
+<p>Tras la disolución de <strong>Morbid Records</strong>, la banda le echó el anzuelo a <strong>Relapse Records</strong>, la cuna de la música extrema en EEUU y, como no podía ser de otra manera, la discográfica no dejó escapar la oportunidad de engordar sus filas con un referente del <strong>Goregrind europeo</strong> que, por entonces, ya llevaba varios años en lo más alto del listón mundial en el género.</p>
+
+<p>La primera referencia en Relapse sería <strong>"Hospital Carnage"</strong>, continuación del "Apology for Pathology". Un disco clave y muy difícil en su carrera, con la <strong>necesidad no escrita</strong> de demostrar que al sello que había hecho el <strong>mejor de los fichajes posibles</strong> y, con todo, <strong>seguir fieles</strong> como banda a una manera de componer, grabar y trabajar idéntica <strong>al primer día</strong>.</p>
+
 <div class="alert alert-success">
 <img
   data-sizes="auto"
