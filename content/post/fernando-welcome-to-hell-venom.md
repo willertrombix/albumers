@@ -54,7 +54,7 @@ draft = false
 
 <div class="alert alert-info">
 <h3>HAEMORRHAGE - Far beyond Pathology (Capítulo II)</h3>
-<p>Segunda entrega de la obra y milagros satánicos de <strong>Haemorrhage</strong>, sobre la grabación de su primer LP <strong><a href="https://rover.ebay.com/rover/1/1185-53479-19255-0/1?icep_id=114&ipn=icep&toolid=20004&campid=5338422390&mpre=https%3A%2F%2Fwww.ebay.es%2Fitm%2FHAEMORRHAGE-Emetic-Cult-Pic-LP-Necrony-Pungent-Stench-Carcass-Repulsion-Grave%2F232090184212%3Fhash%3Ditem3609a72a14%3Ag%3A3dQAAOSw4shX4nX8%3Ark%3A5%3Apf%3A0" target="_blank" rel="external">"Emetic Club"</a></strong>, las anécdotas que lo enviolvieron y la difícil tarea qye supuso ser uno de los primeros grupos del estilo en <strong>fichar por una discográfica foránea</strong>. Las <strong>envidias hicieron algún estrago</strong>, pero el viaje merecería la pena y no había hecho más que empezar.</p>
+<p>Segunda entrega de la obra y milagros satánicos de <strong>Haemorrhage</strong>, sobre la grabación de su primer LP <strong><a href="https://rover.ebay.com/rover/1/1185-53479-19255-0/1?icep_id=114&ipn=icep&toolid=20004&campid=5338422390&mpre=https%3A%2F%2Fwww.ebay.es%2Fitm%2FHAEMORRHAGE-Emetic-Cult-Pic-LP-Necrony-Pungent-Stench-Carcass-Repulsion-Grave%2F232090184212%3Fhash%3Ditem3609a72a14%3Ag%3A3dQAAOSw4shX4nX8%3Ark%3A5%3Apf%3A0" target="_blank" rel="external">"Emetic Club"</a></strong>, las anécdotas que lo enviolvieron y la difícil tarea que supuso ser uno de los primeros grupos del estilo en <strong>fichar por una discográfica foránea</strong>. Las <strong>envidias hicieron algún estrago</strong>, pero el viaje merecería la pena y no había hecho más que empezar.</p>
 <p>En cualquier caso, hubiera pagado por ver a los <strong>técnicos de grabación del disco</strong>, que no tenían ni idea del estilo (lo que en la práctica <strong>equivale a odiarlo</strong>) y sus caras frente a un <strong>Fernando sin camiseta</strong>, con su <strong>cruz invertida</strong> congaldo del cuello, gritando de <strong>ultratumba</strong> en la semi penumbra. ¡Impagable!</p>
 <div class="video-container">
 <iframe width="100%" height="415" src="https://www.youtube.com/embed/AvZXAuahQgs" title="HAEMORRHAGE - Far beyond Pathology (Capítulo II)" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
@@ -65,9 +65,9 @@ draft = false
 
 <p>Este <strong>tercer disco</strong> se hizo como es el <strong>Grind</strong> en sí mismo: <strong>a toda hostia</strong>. Además incluye algunos descartes que fueron en su día compuestos para ser incluidos en <strong>"Grume"</strong> pero que finalmente no vieron la luz debido a los problemas logísticos del cambio de baterista en aquellos dias.</p>
 
-<p>Quizá, por ponerle un <span class="italic">pero</span> al disco -y no se lo pongo yo, sino los propios miembros de la banda-, <strong>sería el sonido</strong>: no llegaría a estar al nivel de las composiciones. Y es que, como deíamos antes, había prisa en <strong>Morbid Records</strong> por sacar cuanto antes la sucesión de "Grume". Tanta que había unas voces de <strong>Ross</strong>, de la banda <strong><a href="https://amzn.to/2DkEOks" target="_blank" rel="external noopener">"Impaled"</a></strong> que se quedaron fuera debido a la celeridad de todo el proceso de ese disco.</p>
+<p>Quizá, por ponerle un <span class="italic">pero</span> al disco -y no se lo pongo yo, sino los propios miembros de la banda-, <strong>sería el sonido</strong>: no llegaría a estar al nivel de las composiciones. Y es que, como decíamos antes, había prisa en <strong>Morbid Records</strong> por sacar cuanto antes la sucesión de "Grume". Tanta que había unas voces de <strong>Ross</strong>, de la banda <strong><a href="https://amzn.to/2DkEOks" target="_blank" rel="external noopener">"Impaled"</a></strong> que se quedaron fuera debido a la celeridad de todo el proceso de ese disco.</p>
 
-<p>Después vendría el momento de rendir tributo a las bandas que más les habían influenciado. Versiones de formaciones como <strong>"Defecation", "Entombed", "Regurgitate" y hasta "Suicidal Tendencies"</strong> quedarían registradas bajo del rodillo de <strong>Haemorrhage</strong> en el disco <strong>"Loathesongs"</strong>. Un tributo a todo aquello que les hizo querer montar una banda tan putrefacta com ola de sus ídolos.</p>
+<p>Después vendría el momento de rendir tributo a las bandas que más les habían influenciado. Versiones de formaciones como <strong>"Defecation", "Entombed", "Regurgitate" y hasta "Suicidal Tendencies"</strong> quedarían registradas bajo del rodillo de <strong>Haemorrhage</strong> en el disco <strong>"Loathesongs"</strong>. Un tributo a todo aquello que les hizo querer montar una banda tan putrefacta como la de sus ídolos.</p>
 
 <p>Como anécdota en la grabación de ese disco, el bueno de <strong>Fernando tenía la nariz rota</strong>, emitiendo un sonido agudito que se colaba por el micro, así que tuvo que <strong>precintarse la nariz</strong> de manera poco ortodoxa para minimizar ese involuntario sonido. Eso es darlo <strong>todo por el grind</strong> y lo demás es pop.</p>
 
@@ -80,7 +80,7 @@ draft = false
 <p>Tuvo que ser muy <strong>incómodo</strong> grabar un disco entero con esa especie de <strong>celofán en la nariz</strong>. Pero si escuchas el disco, no se nota ni lo más mínimo. <strong>Potencia gutural a prueba de asfixia</strong>.</p>
 </div>
 
-<p>En <strong>2002</strong> la aventura continuaría con <strong>"Morgue Sweet Home"</strong> y, como ya venía siendo habitual, volvería a superar lo esperado por todos. De hecho,se convertirtía en el disco más vendido de Haemorrhage, demostrando al mundo que su ascenso en el universo del Grind era imparable, como demostró el posterior tour mundial que se marcaron con <strong>Cryptopsy, Spawn y Profanity</strong>.</p>
+<p>En <strong>2002</strong> la aventura continuaría con <strong>"Morgue Sweet Home"</strong> y, como ya venía siendo habitual, volvería a superar lo esperado por todos. De hecho, se convertirtía en el disco más vendido de Haemorrhage, demostrando al mundo que su ascenso en el universo del Grind era imparable, como demostró el posterior tour mundial que se marcaron con <strong>Cryptopsy, Spawn y Profanity</strong>.</p>
 
 <div class="alert alert-info">
 <h3>HAEMORRHAGE - Far beyond Pathology (Capítulo III)</h3>
@@ -92,7 +92,7 @@ draft = false
 </div>
 </div>
 
-<p>Tras todo este rápido ascenso, a veces tan fulgurante que ni la propia banda tenía hueco para digerirlo, vería la luz el <strong><a href="https://haemorrhage.bandcamp.com/album/apology-for-pathology-reissue" target="_blank" rel="external noopener">"Apology for Pathology"</a></strong>, quinto álbum de estudio y una vuleta a sus orígines en cierta medida, con un sonido mucho más elaborado y bien producido. Lástima que <strong>Morbid Records</strong> tuviera que echar el cierre  en 2008, en parte por algunos <strong>problemas con la censura</strong>, impidiendo así una <strong>mayor proyección del disco</strong>.</p>
+<p>Tras todo este rápido ascenso, a veces tan fulgurante que ni la propia banda tenía hueco para digerirlo, vería la luz el <strong><a href="https://haemorrhage.bandcamp.com/album/apology-for-pathology-reissue" target="_blank" rel="external noopener">"Apology for Pathology"</a></strong>, quinto álbum de estudio y una vuelta a sus orígines en cierta medida, con un sonido mucho más elaborado y bien producido. Lástima que <strong>Morbid Records</strong> tuviera que echar el cierre  en 2008, en parte por algunos <strong>problemas con la censura</strong>, impidiendo así una <strong>mayor proyección del disco</strong>.</p>
 
 <p>Las quejas provenían del <strong>Departamento del Defensor al Menor</strong> en <strong>Alemania</strong>, que argumentaba que la banda usaba <strong>lenguaje totalmente inaceptable y pernicioso</strong>. Algo que no era nuevo: <strong>Haemorrhage</strong> tuvo <strong>problemas de censura</strong> con casi todas sus ediciones en el país germano.</p>
 
@@ -103,7 +103,7 @@ draft = false
 
 <div class="alert alert-info">
 <h3>HAEMORRHAGE - Far beyond Pathology (Capítulo IV)</h3>
-<p>Empezando por el <strong>"Apology for Pathology"</strong>, pasando por los <strong>problemas con la censura</strong> o la creación de instrumentos ad-hoc por parte de <strong><a href="https://www.666strings.com/artists/haemorrhage/" target="_blank" rel="external noopener">666 Strings</a></strong>, o la, el cuarto y penúltimo capítulo del documental sintetiza cómo la banda viaja primera vez a los <strong>Estados Unidos, Rusia o Japón</strong>, convirtiéndose todo ello en experiencias inenarrables.</p>
+<p>Empezando por el <strong>"Apology for Pathology"</strong>, pasando por los <strong>problemas con la censura</strong> o la creación de instrumentos ad-hoc por parte de <strong><a href="https://www.666strings.com/artists/haemorrhage/" target="_blank" rel="external noopener">666 Strings</a></strong>, el cuarto y penúltimo capítulo del documental sintetiza cómo la banda viaja primera vez a los <strong>Estados Unidos, Rusia o Japón</strong>, convirtiéndose todo ello en experiencias inenarrables.</p>
 <div class="video-container">
 <iframe width="100%" height="415" src="https://www.youtube.com/embed/2RGUu-FgZ-8" title="HAEMORRHAGE - Far beyond Pathology (Capítulo IV)" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
@@ -117,7 +117,7 @@ draft = false
 <img
   data-sizes="auto"
   data-src="/images/fernando-errazquin-welcome-to-hell-venom.jpg"
-  alt="Fernandom, Lugubrious en Haemorrhage, nos muestra sus discos favoritos"
+  alt="Fernando, Lugubrious en Haemorrhage, nos muestra sus discos favoritos"
   class="lazyload">
 <p>Fernando con algunos de sus discos favoritos fetiche: <strong>To Mega Therion</strong> de <strong>Celtic Frost</strong> y <strong>Symphonies of Sickness</strong> de <strong>Carcass</strong>, enfundado en su camiseta de <strong>Venom</strong>. Trve Kvlt.</p>
 </div>
