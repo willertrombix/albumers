@@ -67,7 +67,7 @@ draft = false
 
 <p>Quizá, por ponerle un <span class="italic">pero</span> al disco -y no se lo pongo yo, sino los propios miembros de la banda-, <strong>sería el sonido</strong>: no llegaría a estar al nivel de las composiciones. Y es que, como decíamos antes, había prisa en <strong>Morbid Records</strong> por sacar cuanto antes la sucesión de "Grume". Tanta que había unas voces de <strong>Ross</strong>, de la banda <strong><a href="https://amzn.to/2DkEOks" target="_blank" rel="external noopener">"Impaled"</a></strong> que se quedaron fuera debido a la celeridad de todo el proceso de ese disco.</p>
 
-<p>Después vendría el momento de rendir tributo a las bandas que más les habían influenciado. Versiones de formaciones como <strong>"Defecation", "Entombed", "Regurgitate" y hasta "Suicidal Tendencies"</strong> quedarían registradas bajo del rodillo de <strong>Haemorrhage</strong> en el disco <strong>"Loathesongs"</strong>. Un tributo a todo aquello que les hizo querer montar una banda tan putrefacta como la de sus ídolos.</p>
+<p>Después vendría el momento de rendir tributo a las bandas que más les habían influenciado. Versiones de formaciones como <strong>"Defecation", "Entombed", "Regurgitate" y hasta "Suicidal Tendencies"</strong> quedarían registradas bajo del rodillo de <strong>Haemorrhage</strong> en el disco <strong><a href="https://rover.ebay.com/rover/1/1185-53479-19255-0/1?icep_id=114&ipn=icep&toolid=20004&campid=5338422390&mpre=https%3A%2F%2Fwww.ebay.es%2Fitm%2FHAEMORRHAGE-Loathesongs-CD-Pathologist-Carcass-Dead-Infection-General-Surgery%2F273549882479%3Fhash%3Ditem3fb0d7f46f%3Ag%3AgLQAAOSwi1pbk-iR%3Ark%3A1%3Apf%3A0" rel="external noopener">"Loathesongs"</a></strong>. Un tributo a todo aquello que les hizo querer montar una banda tan putrefacta como la de sus ídolos.</p>
 
 <p>Como anécdota en la grabación de ese disco, el bueno de <strong>Fernando tenía la nariz rota</strong>, emitiendo un sonido agudito que se colaba por el micro, así que tuvo que <strong>precintarse la nariz</strong> de manera poco ortodoxa para minimizar ese involuntario sonido. Eso es darlo <strong>todo por el grind</strong> y lo demás es pop.</p>
 
@@ -111,7 +111,53 @@ draft = false
 
 <p>Tras la disolución de <strong>Morbid Records</strong>, la banda le echó el anzuelo a <strong>Relapse Records</strong>, la cuna de la música extrema en EEUU y, como no podía ser de otra manera, la discográfica no dejó escapar la oportunidad de engordar sus filas con un referente del <strong>Goregrind europeo</strong> que, por entonces, ya llevaba varios años en lo más alto del listón mundial en el género.</p>
 
-<p>La primera referencia en Relapse sería <strong>"Hospital Carnage"</strong>, continuación del "Apology for Pathology". Un disco clave y muy difícil en su carrera, con la <strong>necesidad no escrita</strong> de demostrar que al sello que había hecho el <strong>mejor de los fichajes posibles</strong> y, con todo, <strong>seguir fieles</strong> como banda a una manera de componer, grabar y trabajar idéntica <strong>al primer día</strong>.</p>
+<p>La primera referencia en Relapse sería <strong><a href="https://haemorrhage.bandcamp.com/album/hospital-carnage-deluxe-edition" target="_blank" rel="external noopener">"Hospital Carnage"</a></strong>, continuación del "Apology for Pathology". Un disco clave y muy difícil en su carrera, con la <strong>necesidad no escrita</strong> de demostrar que al sello que había hecho el <strong>mejor de los fichajes posibles</strong> y, con todo, <strong>seguir fieles</strong> como banda a una manera de componer, grabar y trabajar idéntica <strong>al primer día</strong>.</p>
+
+<p>Y lo conseguirían: <strong><a href="https://amzn.to/2OCUmRF" target="_blank" rel="external noopener">"Hospital Carnage"</a></strong> sería el equilibrio perfecto entre <strong>"Grume"</strong> y <strong>"Apology for Pathology"</strong>, con mejor producción y un puñado de temas que gustarían mucho a los americanos, tanto sello como público.</p>
+
+<p>Y cuando todavía estaban digiriendo la promoción de su primera referencia para <strong>Relapse Records</strong>, llegaría un nuevo obstáculo para la banda: <strong>Daniel Rojas, el batería de 1996 a 2011, se marcha</strong>. Tremendo <strong>varapalo</strong> cuando la banda empezaba a gozar de las mieles de estar en una discográfica como Relapse.</p>
+
+<p>No sería por falta de candidatos que se ofrecían al puesto de baterista, pero <strong>Haemorrhage</strong> decidiría proponer a <strong>José</strong>, <strong>miembro original de la banda</strong> que estuvo blandiendo las baquetas desde el inicial 1990 hasta el 1996.</p>
+
+<div class="alert alert-info">
+<h3>HAEMORRHAGE - Far beyond Pathology (Capítulo V)</h3>
+<p>Sobre el fichaje de <strong>Relapse Records</strong>, su disco <strong>"Hospital Carnage"</strong>, la salida de su batería en aquel momento - Daniel Rojas- y su vuelta a los orígenes con José.</p>
+<div class="video-container">
+<iframe width="100%" height="415" src="https://www.youtube.com/embed/T56l2qt59Oo" title="HAEMORRHAGE - Far beyond Pathology (Capítulo V)" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
+</div>
+
+<p>Ya con José establecido a la batería, se permitirían la diversión de coger un buen puñado de canciones míticas del punk español y versionarlas en el álbum <strong><a href="https://amzn.to/2zIDELb" target="_blank" rel="external noopener">"Punk Hospital"</a></strong>. Fans confesos de grupos como La Polla Records, Kortatu, Último Gobierno, Eskorbuto o Piperrak, era lógico -aunque igualmente atrevido- que la banda de groegrind rindiera homenage a los ídolos de una escena sin que la que no existiría la suya. Un auténtico bombazo punk con un sonido mucho más brutal. La mezcla perfecta para amantes de ambos géneros.</p>
+
+<div class="alert alert-info">
+<h3>HAEMORRHAGE - Far beyond Pathology (Capítulo VI)</h3>
+<p>Llegamos al último capítulo del documental (aunque no el último de su dilatada carrera) en el que se habla de "Punk Carnage", el disco que daría la oportunidad a la banda de aventurarse por países como México, al que ya le tenían ganas, tras tantos años de carrera sin pisar suelo azteca.</p>
+<div class="video-container">
+<iframe width="100%" height="415" src="https://www.youtube.com/embed/5abh7uK3OU" title="HAEMORRHAGE - Far beyond Pathology (Capítulo VI)" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
+</div>
+
+<!-- <div class="alert alert-info">
+<h3>HAEMORRHAGE - Kualkier Día (deirecto en México D.F., 2013, versión de Piperrak)</h3>
+<p>"Punk Carnage" sería el disco que daría la oportunidad a la banda de aventurarse por países como México, al que ya le tenían ganas, tras tantos años de carrera sin pisar suelo azteca.</p>
+<div class="video-container">
+<iframe width="100%" height="415" src="https://www.youtube.com/embed/OYyP-xFZfEY?start=147" title="HAEMORRHAGE - Kualkier Día (deirecto en México D.F., 2013, versión de Piperrak)" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
+</div> -->
+
+<p>Y llegamos al momento presente. Tras el éxito de "Punk Carnage", la banda tuvo que volver a cambiar de batería, sustiuyendo a José por el joven y talentoso Erik Raya, con el que ha preparado su siguiente y última larga duración de temas propios hasta la fecha, dando forma su disco autobiográfico, como da pista su título: <strong><a href="https://haemorrhage.bandcamp.com/album/we-are-the-gore" target="_blank" rel="external noopener">"WE ARE THE GORE"</a></strong>.</p>
+
+<p>Un disco imprescindible, <strong>más punk, más death, más grind, más heavy, más jodidamente gore</strong>. Han conseguido juntar todo lo que les ha hecho grandes, meterlo en la centrifugadora, y darle salida en formato de bombazos pegadizos, incansables y rompecuellos. Y todo ello con invitados de lujo: prestan voces y cuerdas gente de <strong>Ghoul, Exhumed, Impaled, ex-Carcass, Dead</strong> y muchos más... Lógico: ¿Quién no querría participar en semejante aberración sonora?</p>
+
+<div class="alert alert-info">
+<h3>HAEMORRHAGE - We Are The Gore</h3>
+<p>Tremebundo temazo que da título al último álbum de los goregindres... Lo han vuelto a hacer y esta vez han sacado todos sus registros y les han dado brillo para después recubrirlos de sangre. Bravo.</p>
+<div class="video-container">
+<iframe width="100%" height="415" src="https://www.youtube.com/embed/fVp2ogOxOwo" title="HAEMORRHAGE - We Are The Gore" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
+</div>
+
+<p>Fue en la gira de presentación de "We Are The Gore" que tuve la ocasión de concocerles en persona, en un concierto que dimos "Necrotanke" junto a ellos en el "Parberse matao" de Sedaví. Una noche....</p>
 
 <div class="alert alert-success">
 <img
