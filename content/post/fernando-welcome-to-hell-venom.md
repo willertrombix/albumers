@@ -157,7 +157,9 @@ draft = false
 </div>
 </div>
 
-<p>Fue en la gira de presentación de "We Are The Gore" que tuve la ocasión de concocerles en persona, en un concierto que dimos "Necrotanke" junto a ellos en el "Parberse matao" de Sedaví. Una noche....</p>
+<p>Fue en la gira de presentación de <strong>"We Are The Gore"</strong> que tuve la ocasión de concocerles en persona, en un concierto que dimos <strong>"Necrotanke"</strong> junto a ellos en la sala <strong>"Paberse matao"</strong> de Sedaví. Una noche inolvidable en el que pude ver que, tras tantos años de éxitos, siguen siendo unos músicos accesibles, con los pies en el suelo, más majos que las pesetas y entregados como el primer día a su espectáculo.</p>
+
+<p>Ya se puede ver, por ejemplo si le sigues en Facebook, que Fernando es un cachondo mental. te basta un rato para sentir que pudiera ser un colega de toda la vida, por su cercanía y sentido del humor. Sus ya famosas chanclas, que han pisado barro de medio mundo, su</p>
 
 <div class="alert alert-success">
 <img
