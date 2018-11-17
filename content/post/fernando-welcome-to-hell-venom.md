@@ -159,7 +159,36 @@ draft = false
 
 <p>Fue en la gira de presentación de <strong>"We Are The Gore"</strong> que tuve la ocasión de concocerles en persona, en un concierto que dimos <strong>"Necrotanke"</strong> junto a ellos en la sala <strong>"Paberse matao"</strong> de Sedaví. Una noche inolvidable en el que pude ver que, tras tantos años de éxitos, siguen siendo unos músicos accesibles, con los pies en el suelo, más majos que las pesetas y entregados como el primer día a su espectáculo.</p>
 
-<p>Ya se puede ver, por ejemplo si le sigues en Facebook, que Fernando es un cachondo mental. te basta un rato para sentir que pudiera ser un colega de toda la vida, por su cercanía y sentido del humor. Sus ya famosas chanclas, que han pisado barro de medio mundo, su</p>
+<p>Ya se puede ver, por ejemplo si le sigues en <strong>Facebook</strong>, que <strong>Fernando</strong> es un <strong>cachondo mental</strong>. Te basta un rato para sentir que pudiera ser un colega de toda la vida, por su cercanía y sentido del humor. Sus ya <strong>famosas chanclas</strong>, que han pisado barro de medio mundo, su <strong>amor platónico</strong> por la <strong>chica del tiempo</strong> de Antena 3, su pack de <strong>24 latas de Steinburg</strong>, su corazón futbolístico que ha pedido prestado a La Real Sociedad... Momentos cotidianos tildados de humor macarra para toda una institución del Goregrind.</p>
+
+<div class="alert alert-success">
+<img
+  data-sizes="auto"
+  data-src="/images/gustos-lugubrious-haemorrhage.jpg"
+  alt="Todas las cosas que le gustan a Fernando, Lugubrious en Haemorrhage."
+  class="lazyload">
+<p>Todas las cosas que le gustan a Fernando, cuando no está escupiendo sangre como Lugubrious en el escenario.</p>
+</div>
+
+<h3>¡Síguele en sus redes y hazle un encargo: lleva la distri de Haemorrhage y tiene mogollón de referencias de otras bandas!</h3>
+<table>
+<thead>
+<tr>
+<th>Haemorrhage</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://www.facebook.com/HaemorrhageGore/" target="_blank" rel="external nofollow noopener" style="font-weight:normal;">FB Banda</td>
+<td><a href="https://www.facebook.com/fernandolugubrious" target="_blank" rel="external nofollow noopener">FB personal</td>
+<td><a href="https://www.instagram.com/haemorrhage_official/" target="_blank" rel="external nofollow noopener">Instagram</td>
+</tr>
+</tbody>
+</table>
+<br>
+<div class="alert alert-success">
+<p>Y sin más dilación, y tras haber repasado su extensísima carreca, vamos al meollo: <strong>¿qué disco transformaría a Fernando en Lugubrious?</strong></p>
+</div>
 
 <div class="alert alert-success">
 <img
@@ -171,23 +200,6 @@ draft = false
 </div>
 
 
-<h3>¡Síguele en sus redes y hazle un encargo!</h3>
-<table>
-<thead>
-<tr>
-<th>Gnomodesign</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><a href="https://www.instagram.com/gnomodesign/" target="_blank" rel="external nofollow noopener" style="font-weight:normal;">Instagram</td>
-<td><a href="https://www.behance.net/gnomodesignnn" target="_blank" rel="external nofollow noopener">Behance</td>
-<td><a href="https://gnomodesign.bigcartel.com/" target="_blank" rel="external nofollow noopener">Tienda</td>
-</tr>
-</tbody>
-</table>
-<br>
-
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <ins class="adsbygoogle"
      style="display:block; text-align:center;"
@@ -198,20 +210,6 @@ draft = false
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
-<br>
-<div class="alert alert-success">
-<p>A partir de aquí David nos habla de por qué Tom Araya y sus secuaces en Slayer le abrieron el melón a golpe de hacha con el disco Divine Intervention</p>
-</div>
-
-
-<div class="alert alert-success">
-<img
-  data-sizes="auto"
-  data-src="/images/comprar-divine-intervention-slayer.jpg"
-  alt="comprar Divine Intervention Slayer"
-  class="lazyload">
-<p>Libreto y CD de <strong>Divine Intervention</strong>, clásico básico de <strong>Slayer</strong>. ¡Arriba esos <strong>cuernos</strong> y esas <strong>cuchillas</strong>!</p>
-</div>
 
 <div class="alert alert-info">
 Pregunta: ¿Dónde y cómo descubriste el disco que te cambió la vida?
@@ -219,17 +217,14 @@ Pregunta: ¿Dónde y cómo descubriste el disco que te cambió la vida?
 
 <p>RESPUESTA:</p>
 
-<p>Posiblemente sea el <strong>Divine Intervention</strong> de <strong>Slayer</strong>.</p>
-
-<p>Es posterior a sus grandes clásicos, pero es con el que yo me introduje en el mundo del <strong>Thrash metal</strong> y del <strong>metal en general</strong> definitivamente.</p>
-
-<p>Es un trabajo que <strong>me fascinó, sorprendió y maravilló</strong>. Lo que más me chocaba era <strong>la voz</strong> por aquellos entonces de <strong>Tom Araya</strong>. ¡Increíble! Aún me sigue sorprendiendo. Y <strong>hoy, el disco me gusta muchísimo más que entonces</strong>. Lo entiendo mejor y lo disfruto mucho más.</p>
+<p>El Cassette de Welcome to Hell me lo regalaron en 1987  mis vecinos en mi 14 cumpleaños.</p>
+<p>No daba crédito a tanto ruido maravilloso.</p>
 
 <div class="alert alert-info">
-<h3>Slayer - Divine Intervention (Tema que da título al álbum de 1994)</h3>
-<p>Temazo en directo, grabado en el <strong>Mesa Amphitheater</strong> de Arizona, e incluido en el DVD <strong><a href="https://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_id=114&ipn=icep&toolid=20004&campid=5338413218&mpre=https%3A%2F%2Fwww.ebay.com%2Fitm%2FSlayer-Live-Intrusion-Dvd-Usato%2F302883787231%3Fhash%3Ditem468547d1df%3Ag%3APPQAAOSw449bnDSI%3Ark%3A1%3Apf%3A0" target="_blank" rel="external noopener">"Live Intrusion"</a></strong> que <strong>Slayer</strong> sacó en <strong>1995</strong> a través de <strong>American Recordings</strong>. La calidad de imagen no hace justicia al sonido, pero <strong>"no le pidas peras al "rip"</strong>, refrán típico de tiempos del <strong>eMule</strong>.</p>
+<h3>Venom - Welcome to Hell (Directo)</h3>
+<p>Cuero, tachuelas y música a toda hostia, a pecho descubierto y sin piedad. Como <span class="italic">puto</span> debe ser.</p>
 <div class="video-container">
-<iframe width="100%" height="415" src="https://www.youtube.com/embed/7lNjCNWvVao" title="Slayer, tema: Divine Intervention, directo extraído del DVD Live Intrusion (1995)" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="100%" height="415" src="https://www.youtube.com/embed/_Sb46VD5CmA?start=92" title="Venom, tema: Welcome to Hell, directo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 </div>
 
