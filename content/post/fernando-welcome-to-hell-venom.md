@@ -1,6 +1,6 @@
 +++
 title = "Lugubrious & Welcome to Hell (Venom)"
-date = 2018-12-02
+date = 2018-12-01
 description = "El cantante de Haemorrhage nos desvela que todo cambió en su 14º cumpleaños"
 keywords = [
   "Venom",
