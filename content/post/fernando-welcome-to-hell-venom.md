@@ -1,6 +1,6 @@
 +++
 title = "Lugubrious & Welcome to Hell (Venom)"
-date = 2018-10-27
+date = 2018-12-02
 description = "El cantante de Haemorrhage nos desvela que todo cambió en su 14º cumpleaños"
 keywords = [
   "Venom",
@@ -161,8 +161,6 @@ draft = false
 
 <p>Ya se puede ver, por ejemplo si le sigues en <strong>Facebook</strong>, que <strong>Fernando</strong> es un <strong>cachondo mental</strong>. Te basta un rato para sentir que pudiera ser un colega de toda la vida, por su cercanía y sentido del humor. Sus ya <strong>famosas chanclas</strong>, que han pisado barro de medio mundo, su <strong>amor platónico</strong> por la <strong>chica del tiempo</strong> de Antena 3, su pack de <strong>24 latas de Steinburg</strong>, su corazón futbolístico que ha pedido prestado a La Real Sociedad... Momentos cotidianos tildados de humor macarra para toda una institución del Goregrind.</p>
 
-<p>HABLAR DEL BOLO CON NECROTANKE</p>
-
 <div class="alert alert-success">
 <img
   data-sizes="auto"
@@ -170,6 +168,16 @@ draft = false
   alt="Todas las cosas que le gustan a Fernando, Lugubrious en Haemorrhage."
   class="lazyload">
 <p>Todas las cosas que le gustan a Fernando, cuando no está escupiendo sangre como Lugubrious en el escenario.</p>
+</div>
+
+<p>De hecho tuve el placer de conocerle en persona durante un bolo con <strong>Necrotanke</strong> en Valencia en diciembre de <strong>2017</strong>, en la sala <strong>Paberse Matao</strong>. Allí, in situ, pude comprobar que la banda es de lo más afable y simpática. Detrás de esas batas manchadas de sangre se esconden grandísimas personas: humildes, amables, con muy buen rollo. <strong>Unos grandes dentro y feura del escenario</strong>.</p>
+
+<div class="alert alert-info">
+<h3>Necrotanke & HAEMORRHAGE - Directo Sala Paberse Matao</h3>
+<p>Video de Broken Tomb reumiendo una noche inolvidable en Valencia.</p>
+<div class="video-container">
+<iframe width="100%" height="415" src="https://www.youtube.com/embed/HqYT1dkqXFM" title="Necrotanke & HAEMORRHAGE - Directo Sala Paberse Matao" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
 </div>
 
 <h3>¡Síguele en sus redes y hazle un encargo: lleva la distri de Haemorrhage y tiene mogollón de referencias de otras bandas!</h3>
@@ -249,6 +257,13 @@ Pregunta: ¿Por qué te influenció tanto? ¿Cambió tu manera de pensar y enten
 
 <p>Me dije: <strong>Yo voy a ser Cronos pero deformado</strong>, jajajaja.</p>
 
+<div class="alert alert-info">
+<h3>Venom, Hellfest 2015 (Directo)</h3>
+<p>Y tras tantos años, Venom sigue dando guerra. He aquí el buen directo que se marcaron en la edición del año 2015 del <strong>Hellfest</strong>. <strong>Cronos</strong>, más mayor, pero con la voz en buena forma. ¿Pacto con el diablo?</p>
+<div class="video-container">
+<iframe width="100%" height="415" src="https://www.youtube.com/embed/hD3VkPYfzHw" title="Venom, directo en Hellfest 2015" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
+</div>
 
 <div class="alert alert-info">
 Pregunta: ¿Se sigue notando hoy en día el poso que te dejó?  
@@ -269,32 +284,32 @@ Pregunta: ¿Sigues escuchando ese disco? ¿Con qué frecuencia?
 <p>Gracias por las preguntas majoooo, Saludos, F.</p>
 
 <div class="banner-box">
-<a href="https://rover.ebay.com/rover/1/1185-53479-19255-0/1?icep_id=114&ipn=icep&toolid=20004&campid=5338413218&mpre=https%3A%2F%2Fwww.ebay.es%2Fitm%2FCds-Cd-Slayer-Divine-Intervention-EXCELENTE-CONDICION%2F172905101786%3Fhash%3Ditem2841f279da%3Ag%3AL1EAAOSwIINZ1K8F%3Ark%3A1%3Apf%3A0" target="_blank" rel="nofollow noopener">
+<a href="https://amzn.to/2DJjKo0" target="_blank" rel="nofollow noopener">
 <img
   data-sizes="auto"
-  data-src="/images/slayer-divine-intervention-cd.jpg"
-  alt="Slayer, Álbum: Divine Intervention (CD, 1994)"
+  data-src="/images/welcome-to-hell-venom-vinilo.jpg"
+  alt="Venom, Álbum: Wellcome to Hell (Vinilo)"
   class="lazyload banner"> 
 </a>
 
-<p><a href="https://rover.ebay.com/rover/1/1185-53479-19255-0/1?icep_id=114&ipn=icep&toolid=20004&campid=5338413218&mpre=https%3A%2F%2Fwww.ebay.es%2Fitm%2FCds-Cd-Slayer-Divine-Intervention-EXCELENTE-CONDICION%2F172905101786%3Fhash%3Ditem2841f279da%3Ag%3AL1EAAOSwIINZ1K8F%3Ark%3A1%3Apf%3A0" target="_blank" rel="external nofollow noopener">¿Te gustan los temazos? ¡Joder, pues no dejes que se te escape! Auténtica tralla desmenuzada en el sexto álbum de la banda y el primero sin Lombardo.</a></p>
+<p><a href="https://amzn.to/2DJjKo0" target="_blank" rel="external nofollow noopener">Obra maestra e imprescindible de la música extrema. Uno de los discos que significaron el comienzo de una ola de riffs agresivos, oscuros y rápidos.</a></p>
 </div>
 <br>
 
-<h2>Más música de bandas que aparecen en la entrevista</h2>
+<h2>Más música de Haemorrhage</h2>
 
 <div class="media">
   <div class="media-left">
     <img
   data-sizes="auto"
-  data-src="/images/sepultura-chaos-ad-vinilo-doble-comprar.jpg"
-  alt="Sepultura, álbum: Chaos A.D., comprar vinilo"
+  data-src="/images/Haemorrhage-we-are-the-gore.jpg"
+  alt="Heamorrhage, álbum: We Are The Gore, comprar vinilo"
   class="lazyload">
   </div>
 <div class="media-body">
-    <div class="media-heading">Sepultura, Álbum: Chaos A-D. (vinilo doble, 1993)</div>
-    <div class="media-content"><p>un disco mayúsculo desde los primeros latidos del principio al final más oscuro, histriónico y distópico. Este disco te tiene que gustar a la fuerza.</p></div>
-    <p><strong><a href="https://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_id=114&ipn=icep&toolid=20004&campid=5338413218&mpre=https%3A%2F%2Fwww.ebay.com%2Fitm%2FSEPULTURA-Chaos-AD-remastered-Vinyl-gatefold-180-gram-vinyl-2xLP%2F113235595762%3Fepid%3D2231373035%26hash%3Ditem1a5d5e11f2%3Ag%3AHn4AAOSwMsJbkU-S%3Ark%3A20%3Apf%3A0" target="_blank" rel="external noopener"> Comprar</a></strong></p>
+    <div class="media-heading">Haemorrhage - We Are The Gore</div>
+    <div class="media-content"><p>Última referencia de Haemorrhage y un favorito del que escribe estas letras. Disco que recupera la mejor esencia de la banda.</p></div>
+    <p><strong><a href="https://haemorrhage.bandcamp.com/album/we-are-the-gore" target="_blank" rel="external noopener"> Comprar</a></strong></p>
   </div>
 </div>
 
@@ -302,14 +317,14 @@ Pregunta: ¿Sigues escuchando ese disco? ¿Con qué frecuencia?
   <div class="media-left">
     <img
   data-sizes="auto"
-  data-src="/images/pantera-far-beyond-driven-doble-vinilo-comprar.jpg"
-  alt="Pantera, Álbum: Far Beyond Driven (1994)"
+  data-src="/images/emetic-cult-picture-vinyl.jpg"
+  alt="Haemorrhage, Álbum: Emetic Cult"
   class="lazyload">
   </div>
 <div class="media-body">
-    <div class="media-heading">Pantera, Álbum: Far Beyond Driven (vinilo doble, 1994)</div>
-    <div class="media-content"><p>Una debilidad confesa, con la portada que en su día fue censurada y que ahora ya puede lucir en todo su esplendor. Curiosa manera de entender la trepanación.</p></div>
-    <p><strong><a href="https://rover.ebay.com/rover/1/1185-53479-19255-0/1?icep_id=114&ipn=icep&toolid=20004&campid=5338413218&mpre=https%3A%2F%2Fwww.ebay.es%2Fitm%2FPantera-Far-Beyond-Driven-2-x-LP-Innersleeves-2014-Europe-EX-NM%2F322451957756%3Fhash%3Ditem4b13a267fc%3Ag%3ATEoAAOSwB-1Yx9sq%3Ark%3A6%3Apf%3A0" target="_blank" rel="external noopener"> Comprar</a></strong></p>
+    <div class="media-heading">Heamorrhage, Álbum: Emetic Cult (picture vinilo)</div>
+    <div class="media-content"><p>El LP más crudo de la banda, toda una referencia para los fans del grupo, en flamante picture vinyl.</p></div>
+    <p><strong><a href="https://rover.ebay.com/rover/1/1185-53479-19255-0/1?icep_id=114&ipn=icep&toolid=20004&campid=5338422390&mpre=https%3A%2F%2Fwww.ebay.es%2Fitm%2FHAEMORRHAGE-Emetic-Cult-Pic-LP-Necrony-Pungent-Stench-Carcass-Repulsion-Grave%2F232090184212%3Fhash%3Ditem3609a72a14%3Ag%3A3dQAAOSw4shX4nX8%3Ark%3A5%3Apf%3A0" target="_blank" rel="external noopener"> Comprar</a></strong></p>
   </div>
 </div>
 
@@ -317,16 +332,123 @@ Pregunta: ¿Sigues escuchando ese disco? ¿Con qué frecuencia?
   <div class="media-left">
     <img
   data-sizes="auto"
-  data-src="/images/slayer-hell-awaits-vinilo-comprar.jpg"
-  alt="Slayer, Álbum: Hell Awaits (1994)"
+  data-src="/images/Haemorrhage-CSSO-Dead-Infection-Grind-Over-Europe-1996.jpg"
+  alt="Grind Ober Europe 1996"
   class="lazyload">
   </div>
 <div class="media-body">
-    <div class="media-heading">Slayer, Álbum: Hell Awaits (1985)</div>
-    <div class="media-content"><p>Slayer dando un paso más adelante hacia el reinado en sangre del Trash más encabronado y característico que habría de marcar toda su carrera. Un imperdible en cualquier colección.</p></div>
-    <p><strong><a href="https://rover.ebay.com/rover/1/1185-53479-19255-0/1?icep_id=114&ipn=icep&toolid=20004&campid=5338413218&mpre=https%3A%2F%2Fwww.ebay.es%2Fitm%2FSlayer-Hell-Awaits-LP-Remastered-180g-Black-Vinyl-2016-with-Poster%2F113149584401%3Fhash%3Ditem1a583da411%3Ag%3AO7MAAOSwYuNbShaW%3Ark%3A2%3Apf%3A0" target="_blank" rel="external noopener"> Comprar</a></strong></p>
+    <div class="media-heading">Grind Over Europe (1996)</div>
+    <div class="media-content"><p>Haemorrage, C.S.S.O. y Dead Infection en la gira que las tres bandas dieron po toda Europa repartiendo estopa de la de verdad.</p></div>
+    <p><strong><a href="https://www.discogs.com/Haemorrhage-CSSO-Dead-Infection-Grind-Over-Europe-96/release/857276" target="_blank" rel="external noopener"> Comprar</a></strong></p>
   </div>
 </div>
+
+<div class="media">
+  <div class="media-left">
+    <img
+  data-sizes="auto"
+  data-src="/images/grume-reedicion.jpg"
+  alt="Haemorrage, Álbum: Grume (reedición)"
+  class="lazyload">
+  </div>
+<div class="media-body">
+    <div class="media-heading">Haemorrage - Grume (reedición)</div>
+    <div class="media-content"><p>La reedición de Grume, uno de los discos más apreciados por la banda y público. Es la oportunidad de hacerte con esta magnífica reedición.</p></div>
+    <p><strong><a href="https://haemorrhage.bandcamp.com/album/grume-reissue" target="_blank" rel="external noopener"> Comprar</a></strong></p>
+  </div>
+</div>
+
+<div class="media">
+  <div class="media-left">
+    <img
+  data-sizes="auto"
+  data-src="/images/haemorrhage-anatomical-inferno.jpg"
+  alt="Haemorrage, Álbum: Anatomical Inferno (CD)"
+  class="lazyload">
+  </div>
+<div class="media-body">
+    <div class="media-heading">Haemorrage - Anatomical Inferno</div>
+    <div class="media-content"><p>La continuación de Grume y un momento clave de la banda que se ve reflejado en este discarral.</p></div>
+    <p><strong><a href="https://rover.ebay.com/rover/1/1185-53479-19255-0/1?icep_id=114&ipn=icep&toolid=20004&campid=5338422390&mpre=https%3A%2F%2Fwww.ebay.es%2Fitm%2FHAEMORRHAGE-CD-Anatomical-Inferno-Bonustracks%2F361914880759%3Fhash%3Ditem5443ced2f7%3Ag%3An0cAAOSw2gxYs3M2%3Ark%3A3%3Apf%3A0" target="_blank" rel="external noopener"> Comprar</a></strong></p>
+  </div>
+</div>
+
+<div class="media">
+  <div class="media-left">
+    <img
+  data-sizes="auto"
+  data-src="/images/haemorrhage-loathesongs.jpg"
+  alt="Haemorrage, Álbum: Loathesongs"
+  class="lazyload">
+  </div>
+<div class="media-body">
+    <div class="media-heading">Haemorrage - Loathesongs</div>
+    <div class="media-content"><p>Disco en el que rinden tributo a sus bandas favoritas y en el que cuentan con invitados de lujo de este inframundo que tanto nos gusta.</p></div>
+    <p><strong><a href="https://rover.ebay.com/rover/1/1185-53479-19255-0/1?icep_id=114&ipn=icep&toolid=20004&campid=5338422390&mpre=https%3A%2F%2Fwww.ebay.es%2Fitm%2FHAEMORRHAGE-Loathesongs-CD-Pathologist-Carcass-Dead-Infection-General-Surgery%2F273549882479%3Fhash%3Ditem3fb0d7f46f%3Ag%3AgLQAAOSwi1pbk-iR%3Ark%3A1%3Apf%3A0" target="_blank" rel="external noopener"> Comprar</a></strong></p>
+  </div>
+</div>
+
+<div class="media">
+  <div class="media-left">
+    <img
+  data-sizes="auto"
+  data-src="/images/haemorrhage-morgue-sweet-home.jpg"
+  alt="Haemorrage, Álbum: Morgue Sweet Home"
+  class="lazyload">
+  </div>
+<div class="media-body">
+    <div class="media-heading">Haemorrage - Morgue Sweet Home</div>
+    <div class="media-content"><p>Otro importante punto de inflexión en la carrera de Haemorrhage que no hizo mas que consolidarles como referencia mundial del Gore y del Grind.</p></div>
+    <p><strong><a href="https://rover.ebay.com/rover/1/1185-53479-19255-0/1?icep_id=114&ipn=icep&toolid=20004&campid=5338422390&mpre=https%3A%2F%2Fwww.ebay.es%2Fitm%2FHAEMORRHAGE-Morgue-Sweet-Home-LP-Carcass-Napalm-Death-Repulsion-Necrony-Nasum%2F263862207795%3Fhash%3Ditem3d6f69c533%3Ag%3AeQEAAOSwDuJWzwL9%3Ark%3A2%3Apf%3A0" target="_blank" rel="external noopener"> Comprar</a></strong></p>
+  </div>
+</div>
+
+<div class="media">
+  <div class="media-left">
+    <img
+  data-sizes="auto"
+  data-src="/images/haemorrhage-apology-for-pathology.jpg"
+  alt="Haemorrage, Álbum: Apology for Pathology (reedición)"
+  class="lazyload">
+  </div>
+<div class="media-body">
+    <div class="media-heading">Haemorrage - Apology for Pathology</div>
+    <div class="media-content"><p>Disco conflictivo por la censura que sufrió en Alemania. ¡Demuestra tu repulsa a la censura y hazte con él!</p></div>
+    <p><strong><a href="https://haemorrhage.bandcamp.com/album/apology-for-pathology-reissue" target="_blank" rel="external noopener"> Comprar</a></strong></p>
+  </div>
+</div>
+
+<div class="media">
+  <div class="media-left">
+    <img
+  data-sizes="auto"
+  data-src="/images/haemorrhage-hospital-carnage.jpg"
+  alt="Haemorrage, Álbum: Hospital Carnage"
+  class="lazyload">
+  </div>
+<div class="media-body">
+    <div class="media-heading">Haemorrage - Hospital Carnage</div>
+    <div class="media-content"><p>Dr. Obnoxious anda suelto por el hospital. No es amigo de usar anestesia en sus operaciones. Qué le vamos a hacer, es un cirujano caprichosito.</p></div>
+    <p><strong><a href="https://amzn.to/2OCUmRF" target="_blank" rel="external noopener"> Comprar</a></strong></p>
+  </div>
+</div>
+
+<div class="media">
+  <div class="media-left">
+    <img
+  data-sizes="auto"
+  data-src="/images/haemorrhage-punk-carnage.jpg"
+  alt="Haemorrage, Álbum: Punk Carnage"
+  class="lazyload">
+  </div>
+<div class="media-body">
+    <div class="media-heading">Haemorrage - Punk Carnage</div>
+    <div class="media-content"><p>Tributo a las bandas de punk españolas que les gustan y les ponen los pelos de punta o en cresta, como prefieras.</p></div>
+    <p><strong><a href="hhttps://amzn.to/2zIDELb" target="_blank" rel="external noopener"> Comprar</a></strong></p>
+  </div>
+</div>
+
+
 
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <ins class="adsbygoogle"
